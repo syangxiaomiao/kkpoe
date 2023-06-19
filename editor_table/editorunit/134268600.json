@@ -7,14 +7,14 @@
     }, 
     "agility": 0.0, 
     "agility_grow": 0.0, 
-    "alarm_range": 8.0, 
+    "alarm_range": 20.0, 
     "angle_tolerance": 1, 
     "armor_type": 20000, 
-    "attack_interval": 1.7, 
+    "attack_interval": 1.0, 
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 100.0, 
+    "attack_phy": 5.0, 
     "attack_phy_grow": 0.0, 
     "attack_range": 1.85, 
     "attack_range_grow": 0, 
@@ -50,7 +50,7 @@
         "items": []
     }, 
     "can_flee": true, 
-    "cancel_alarm_range": 10.0, 
+    "cancel_alarm_range": 22.0, 
     "cd_reduce": 0.0, 
     "cd_reduce_grow": 0.0, 
     "collision_box_turning_enable": false, 
@@ -62,14 +62,11 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "common_atk": {
-        "__tuple__": true, 
-        "items": [
-            201347498, 
-            1
-        ]
-    }, 
-    "common_atk_type": 0, 
+    "common_atk": [
+        201347498, 
+        1
+    ], 
+    "common_atk_type": 2, 
     "content": "strength", 
     "copper coin": 0, 
     "critical_chance": 0.0, 
@@ -124,7 +121,7 @@
     }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 1000.0, 
+    "hp_max": 100.0, 
     "hp_max_grow": 0.0, 
     "hp_rec": 10, 
     "hp_rec_grow": 1, 
@@ -134,7 +131,7 @@
     "intelligence": 0.0, 
     "intelligence_grow": 0.0, 
     "is_apply_role_color": false, 
-    "is_mini_map_show": true, 
+    "is_mini_map_show": false, 
     "is_open_Xray": false, 
     "is_open_outline_pass": false, 
     "is_shop": false, 
@@ -183,7 +180,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 1000.0, 
+    "preview_billboard_health_value": 100.0, 
     "refresh_interval": 1.0, 
     "research_techs": {
         "__tuple__": true, 
