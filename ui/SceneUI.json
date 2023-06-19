@@ -1,0 +1,397 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                0.0, 
+                1020.0, 
+                -0.00006103515625, 
+                1830.0000610351562
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        48.0, 
+                        -13.0, 
+                        75.0, 
+                        -10.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 108403, 
+                    "name": "img", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            87.5, 
+                            -0.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            97.22222222222221, 
+                            -0.8333333333333334
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            25.0, 
+                            25.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "3e877c0a-8bb7-468c-830a-bebda525cb0c"
+                }
+            ], 
+            "event_list": [], 
+            "name": "cpd", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    60.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "535e17d5-ae9d-4843-b35d-645e7ff62d7d"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                0.0, 
+                1020.0, 
+                0.0, 
+                1830.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        48.0, 
+                        -13.0, 
+                        75.0, 
+                        -10.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 108404, 
+                    "name": "img", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            87.5, 
+                            -0.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            97.22222222222221, 
+                            -0.8333333333333334
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            25.0, 
+                            25.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "44145154-65d5-4527-9909-2b5f21243a51"
+                }
+            ], 
+            "event_list": [], 
+            "name": "ysd", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    60.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "d0a7c5af-5659-4a14-9220-3484aa5faac8"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                0.0, 
+                1020.0, 
+                0.0, 
+                1830.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        48.0, 
+                        -13.0, 
+                        75.0, 
+                        -10.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 108405, 
+                    "name": "img", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            87.5, 
+                            -0.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            97.22222222222221, 
+                            -0.8333333333333334
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            25.0, 
+                            25.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "bc43f17a-28fb-492a-9cd4-f8fdd20730e7"
+                }
+            ], 
+            "event_list": [], 
+            "name": "ddd", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    60.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "21cdd1c3-993d-49f2-905e-5af817f3b115"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                404.0, 
+                576.0, 
+                541.3200073242188, 
+                1278.6799926757812
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        98.46666240692139, 
+                        -3.7333364486694336, 
+                        -34.766685485839844, 
+                        63.233314514160156
+                    ], 
+                    "background_type": 0, 
+                    "bg_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "children": [], 
+                    "color": {
+                        "__tuple__": true, 
+                        "items": [
+                            223, 
+                            213, 
+                            213, 
+                            255
+                        ]
+                    }, 
+                    "current_value": 100.0, 
+                    "event_list": [], 
+                    "name": "\u6ed1\u52a8\u6761", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1.0, 
+                            -1.0999994277954102
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            1.0, 
+                            -1.0999994277954102
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            71.53337097167969, 
+                            5.266674041748047
+                        ]
+                    }, 
+                    "type": 5, 
+                    "uid": "1ef0ccbc-cf10-44a8-95e7-0e75cdcca874"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u6ed1\u52a8\u6761\u7a7a\u8282\u70b9", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "40e0ea31-235f-4e90-876a-1e005b728ec7"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_6", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "a011c63e-9e5a-4a28-ac22-309fe646a781"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_5", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "63382998-92a2-4681-bdde-27ccd95181d2"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_4", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "b199519e-64d5-4fed-9053-617bf62678ab"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_3", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "cf912e6a-714e-4134-a606-4111723895da"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_2", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "902c6b5c-ac58-4453-88e1-d390dc7c01ce"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "5dc5f71f-96ec-4099-a352-aa93b7346973"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "SceneUI", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "79d06d00-636f-4093-b6c6-fda25984bfe2", 
+    "visible": true, 
+    "zorder": 400
+}

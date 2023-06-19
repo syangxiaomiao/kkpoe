@@ -1,0 +1,139 @@
+{
+    "trigger_dict": {
+        "1323147331": {
+            "action": [
+                {
+                    "action_type": "SET_ROLE_MOUSE_LEFT_CLICK", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1323147331000013, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_MOUSE_MOVE_SELECT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1323147331000022, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_MOUSE_WHEEL", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1323147331000029, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1323147331000003, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "trigger_id": 1323147331, 
+            "trigger_name": "\u955c\u5934", 
+            "valid": true
+        }, 
+        "1959194682": {
+            "action": [
+                1673351227, 
+                515776572, 
+                1656631357, 
+                2077753406, 
+                1997144128, 
+                1644826689, 
+                120717378
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1959194682000011, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": "gB6N3gbZEe6E7bQumWaqGe", 
+            "p_trigger_id": null, 
+            "trigger_id": 1959194682, 
+            "trigger_name": "\u9009\u62e9\u82f1\u96c4", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1959194682, 
+                    "\u9009\u62e9\u82f1\u96c4"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1323147331, 
+                    "\u955c\u5934"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "gB6N3gbZEe6E7bQumWaqGe", 
+        "name": "\u521d\u59cb\u5316"
+    }
+}

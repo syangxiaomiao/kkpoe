@@ -1,0 +1,612 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        0.0, 
+                        0.0, 
+                        -156.0, 
+                        -124.0
+                    ], 
+                    "anchor": {
+                        "__tuple__": true, 
+                        "items": [
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920.0, 
+                            1078.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "bar_status": true, 
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "hero_enter_0", 
+                                    "sound_id": null, 
+                                    "type": 1
+                                }
+                            ], 
+                            "name": "hero_enter", 
+                            "normal_picture": 107525, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u786e\u8ba4\u9009\u62e9", 
+                                    false
+                                ]
+                            }, 
+                            "opacity": 0.9400000000000001, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1095.0, 
+                                    86.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.77272727272727, 
+                                    7.962962962962964
+                                ]
+                            }, 
+                            "press_picture": 107527, 
+                            "press_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u786e\u8ba4\u9009\u62e9", 
+                                    false
+                                ]
+                            }, 
+                            "suspend_picture": 107526, 
+                            "suspend_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u786e\u8ba4\u9009\u62e9", 
+                                    false
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "1b015aaa-1ca8-4ee2-ab12-0f4baa14ff66", 
+                            "visible": false
+                        }, 
+                        {
+                            "adapter_option": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                635.715, 
+                                1.7150000000000034, 
+                                837.0, 
+                                783.0
+                            ], 
+                            "background_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    255, 
+                                    255, 
+                                    255, 
+                                    0
+                                ]
+                            }, 
+                            "camera_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.0, 
+                                    1.5, 
+                                    7.0
+                                ]
+                            }, 
+                            "camera_viewport": 40, 
+                            "children": [], 
+                            "event_list": [], 
+                            "focus_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.0, 
+                                    0.0, 
+                                    -18.0
+                                ]
+                            }, 
+                            "idle_anim": "skill", 
+                            "model": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "editor_model", 
+                                    201650
+                                ]
+                            }, 
+                            "name": "hero_model", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1116.0, 
+                                    447.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.727272727272734, 
+                                    41.388888888888886
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    880.96, 
+                                    1008.0
+                                ]
+                            }, 
+                            "type": 6, 
+                            "uid": "1b1bf326-1fac-471f-b248-a7624a768588"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            45
+                                        ]
+                                    }, 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            147, 
+                                            1, 
+                                            1, 
+                                            255
+                                        ]
+                                    }, 
+                                    "label_effect": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            false, 
+                                            false, 
+                                            false, 
+                                            true
+                                        ]
+                                    }, 
+                                    "name": "hero_txt", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            287.0, 
+                                            644.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            92.79538904899135
+                                        ]
+                                    }, 
+                                    "shadow": true, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            193.6, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u82f1\u96c4\u9009\u62e9", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "typewriter_effect": 1, 
+                                    "uid": "d767c9ff-7ef5-45df-9049-8cb3a52a2fa9"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        128.0, 
+                                        466.0, 
+                                        73.48004150390625, 
+                                        400.51995849609375
+                                    ], 
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 133155, 
+                                            "name": "hero_select_1", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.00010681152344, 
+                                                    50.00006103515625
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.00010681152344, 
+                                                    50.00006103515625
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    105.0, 
+                                                    105.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "5180d888-e7e6-4e15-bb6d-9bacf0e737c4", 
+                                            "visible": false
+                                        }
+                                    ], 
+                                    "event_list": [
+                                        {
+                                            "action_list": [
+                                                {
+                                                    "anim_duration": 1.0, 
+                                                    "anim_id": null, 
+                                                    "anim_type": 0, 
+                                                    "comp": "5180d888-e7e6-4e15-bb6d-9bacf0e737c4", 
+                                                    "ease_type": 0, 
+                                                    "name": "Show_1", 
+                                                    "open_timeline": true, 
+                                                    "type": 2
+                                                }
+                                            ], 
+                                            "enabled": true, 
+                                            "name": "hero_btn1_stop", 
+                                            "sound_id": null, 
+                                            "time": 0.05, 
+                                            "type": 23
+                                        }, 
+                                        {
+                                            "action_list": [], 
+                                            "enabled": true, 
+                                            "name": "hero_btn1_click", 
+                                            "sound_id": null, 
+                                            "type": 1
+                                        }, 
+                                        {
+                                            "action_list": [], 
+                                            "enabled": true, 
+                                            "name": "hero_btn1_move", 
+                                            "sound_id": null, 
+                                            "type": 25
+                                        }
+                                    ], 
+                                    "name": "hero_btn1", 
+                                    "normal_picture": 132195, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            123.48001098632812, 
+                                            516.0001220703125
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            21.512197035945665, 
+                                            74.35160260379142
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 106366, 
+                                    "type": 1, 
+                                    "uid": "a95960ee-5e0a-45f7-b898-93f297537c7c"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 133155, 
+                                            "name": "hero_select_2", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.000091552734375, 
+                                                    49.50006103515625
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.000091552734375, 
+                                                    49.50006103515625
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    105.0, 
+                                                    105.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "739c3d83-13ae-4071-80a9-216d8169daeb", 
+                                            "visible": false
+                                        }
+                                    ], 
+                                    "event_list": [
+                                        {
+                                            "action_list": [
+                                                {
+                                                    "anim_duration": 1.0, 
+                                                    "anim_id": null, 
+                                                    "anim_type": 0, 
+                                                    "comp": "739c3d83-13ae-4071-80a9-216d8169daeb", 
+                                                    "ease_type": 0, 
+                                                    "name": "Show_5", 
+                                                    "open_timeline": true, 
+                                                    "type": 2
+                                                }
+                                            ], 
+                                            "enabled": true, 
+                                            "name": "hero_btn2_stop", 
+                                            "sound_id": null, 
+                                            "time": 0.05, 
+                                            "type": 23
+                                        }, 
+                                        {
+                                            "action_list": [], 
+                                            "enabled": true, 
+                                            "name": "hero_btn2_click", 
+                                            "sound_id": null, 
+                                            "type": 1
+                                        }, 
+                                        {
+                                            "action_list": [], 
+                                            "enabled": true, 
+                                            "name": "hero_btn2_move", 
+                                            "sound_id": null, 
+                                            "type": 25
+                                        }
+                                    ], 
+                                    "name": "hero_btn2", 
+                                    "normal_picture": 132223, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            287.0, 
+                                            516.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            74.35158501440922
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 1, 
+                                    "uid": "fc31a986-c432-4c70-a0d3-9822fab3b35f"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 133155, 
+                                            "name": "hero_select_3", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    49.00006103515625
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    49.00006103515625
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    105.0, 
+                                                    105.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "3955345c-913d-495d-9f50-5d73146f8f76", 
+                                            "visible": false
+                                        }
+                                    ], 
+                                    "event_list": [
+                                        {
+                                            "action_list": [
+                                                {
+                                                    "anim_duration": 1.0, 
+                                                    "anim_id": null, 
+                                                    "anim_type": 0, 
+                                                    "comp": "3955345c-913d-495d-9f50-5d73146f8f76", 
+                                                    "ease_type": 0, 
+                                                    "name": "Show_6", 
+                                                    "open_timeline": true, 
+                                                    "type": 2
+                                                }
+                                            ], 
+                                            "enabled": true, 
+                                            "name": "hero_btn3_stop", 
+                                            "sound_id": null, 
+                                            "time": 0.05, 
+                                            "type": 23
+                                        }, 
+                                        {
+                                            "action_list": [], 
+                                            "enabled": true, 
+                                            "name": "hero_btn3_click", 
+                                            "sound_id": null, 
+                                            "type": 1
+                                        }, 
+                                        {
+                                            "action_list": [], 
+                                            "enabled": true, 
+                                            "name": "hero_btn3_move", 
+                                            "sound_id": null, 
+                                            "type": 25
+                                        }
+                                    ], 
+                                    "name": "hero_btn3", 
+                                    "normal_picture": 132252, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            440.0, 
+                                            516.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            76.65505226480836, 
+                                            74.35158501440922
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 1, 
+                                    "uid": "4e7acb4f-c372-4774-b9ae-52f5ebf8cff2"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 120132, 
+                            "name": "hero", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    368.0, 
+                                    540.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    16.727272727272727, 
+                                    50.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    574.0, 
+                                    694.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "93f31234-8c7d-44c3-8db7-53423d0f7767"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 131225, 
+                    "name": "background", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            -156.0, 
+                            0.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            -8.125, 
+                            0.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2200.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "9c5f6d4a-2d34-4da6-ac40-4cbc46a1d40f"
+                }
+            ], 
+            "event_list": [], 
+            "name": "hero_select_main", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "278c5c4c-2b89-4aab-9dca-6e285fd7f225"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "\u82f1\u96c4\u9009\u62e9", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "ecf8833d-d2d4-44f4-8149-9e29dbf8b58d", 
+    "visible": true, 
+    "zorder": 400
+}
