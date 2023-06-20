@@ -384,6 +384,37 @@
                 "\u7c7b\u578b": false
             }
         }, 
+        "636670032": {
+            "variable_dict": {
+                "ABILITY": {
+                    "skill": null
+                }, 
+                "DAMAGE_TYPE": {
+                    "damageType": 0
+                }, 
+                "FLOAT": {
+                    "damage": 0.0
+                }, 
+                "UNIT_ENTITY": {
+                    "targetUnit": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "damage": 0, 
+                "damageType": 0, 
+                "skill": 0, 
+                "targetUnit": 0, 
+                "unit": 0
+            }, 
+            "variable_type_dict": {
+                "damage": false, 
+                "damageType": false, 
+                "skill": false, 
+                "targetUnit": false, 
+                "unit": false
+            }
+        }, 
         "706760752": {
             "variable_dict": {
                 "ABILITY": {}, 
@@ -535,6 +566,41 @@
                 "unit": false, 
                 "unitGroup": false, 
                 "unitGroupEffect": false
+            }
+        }, 
+        "879771726": {
+            "variable_dict": {
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "POINT": {
+                    "createPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "owner": 0
+                }, 
+                "UNIT_NAME": {
+                    "unitType": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "createPoint": 0, 
+                "owner": 0, 
+                "player": 0, 
+                "unitType": 0
+            }, 
+            "variable_type_dict": {
+                "createPoint": false, 
+                "owner": false, 
+                "player": false, 
+                "unitType": false
             }
         }, 
         "882499599": {
@@ -938,6 +1004,29 @@
                 "i": false, 
                 "\u6280\u80fd\u69fd\u4f4d\u8868": false, 
                 "\u73a9\u5bb6": false
+            }
+        }, 
+        "1452855375": {
+            "variable_dict": {
+                "ABILITY": {
+                    "skill": null
+                }, 
+                "BOOLEAN": {
+                    "flag": false
+                }, 
+                "INTEGER": {
+                    "playerid": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "flag": 0, 
+                "playerid": 0, 
+                "skill": 0
+            }, 
+            "variable_type_dict": {
+                "flag": false, 
+                "playerid": false, 
+                "skill": false
             }
         }, 
         "1479794696": {

@@ -80,7 +80,7 @@
     "defense_mag_grow": 0.0, 
     "defense_phy": 10.0, 
     "defense_phy_grow": 0.0, 
-    "description": -545435836, 
+    "description": 1347571375, 
     "destroy_after_die": true, 
     "die_anim": "die", 
     "dmg_reduction": 0.0, 
@@ -114,6 +114,7 @@
     "healing_effect": 0, 
     "healing_effect_grow": 0, 
     "height_num": -1, 
+    "height_offset": 0, 
     "hero_ability_list": {
         "__tuple__": true, 
         "items": []
@@ -138,14 +139,14 @@
     "is_z_offset": false, 
     "keep_dead_body_time": 2.0, 
     "keep_target": true, 
-    "key": 134238067, 
+    "key": 134248228, 
     "kv": {}, 
     "level": 1, 
     "main_attr": "strength", 
     "max_stock": 5, 
     "mini_map_icon": 130091, 
     "mini_map_icon_scale": 1.0, 
-    "model": 100624, 
+    "model": 203511, 
     "model_height": 0.0, 
     "model_opacity": 1, 
     "move_channel": 0, 
@@ -157,7 +158,7 @@
     "mp_max_grow": 0.0, 
     "mp_rec": 10, 
     "mp_rec_grow": 2, 
-    "name": -3787028, 
+    "name": 1812068817, 
     "need_preview_billboard": true, 
     "ori_bits": 256, 
     "ori_speed": 2.0, 
@@ -259,7 +260,7 @@
         "items": []
     }, 
     "type": 4, 
-    "uid": "134238067", 
+    "uid": "134248228", 
     "use_base_tint_color": false, 
     "use_fresnel": false, 
     "use_simple_mini_map_icon": false, 
@@ -283,5 +284,6 @@
     "vision_true": 0.0, 
     "vision_true_grow": 0, 
     "walk_anim": "walk", 
-    "width_num": -1
+    "width_num": -1, 
+    "width_offset": 0
 }

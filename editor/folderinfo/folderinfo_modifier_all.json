@@ -8,42 +8,65 @@
     2147483647, 
     "code_explorer_custom_root_folder_name"
    ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "bUvE4Q9wEe6xhbQumWaqGZ", 
+    "\u6c34\u5143\u7d20"
+   ]
   }
  ], 
  "d": {
-  "134239924": {
+  "134239596": {
    "__tuple__": true, 
    "items": [
-    2147483647, 
+    "bUvE4Q9wEe6xhbQumWaqGZ", 
     0
    ]
   }, 
-  "134271225": {
+  "134249484": {
+   "__tuple__": true, 
+   "items": [
+    "bUvE4Q9wEe6xhbQumWaqGZ", 
+    1
+   ]
+  }, 
+  "134239924": {
    "__tuple__": true, 
    "items": [
     2147483647, 
     1
    ]
   }, 
-  "134278809": {
+  "134271225": {
    "__tuple__": true, 
    "items": [
     2147483647, 
     2
    ]
   }, 
-  "134223336": {
+  "134278809": {
    "__tuple__": true, 
    "items": [
     2147483647, 
     3
    ]
   }, 
-  "134261378": {
+  "134223336": {
    "__tuple__": true, 
    "items": [
     2147483647, 
     4
+   ]
+  }, 
+  "134261378": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    5
    ]
   }
  }

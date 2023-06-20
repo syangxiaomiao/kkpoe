@@ -149,16 +149,27 @@
     "is_meele": false, 
     "key": 134226996, 
     "kv": {
-        "\u53ec\u5524\u7269\u4e0a\u9650": {
+        "countMax": {
             "annotation": "", 
             "desc": "", 
             "etype": 1, 
-            "key": "\u53ec\u5524\u7269\u4e0a\u9650", 
+            "key": "countMax", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 2, 
+            "value": 1
+        }, 
+        "level": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "level", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 0, 
             "type": 2, 
-            "value": 3
+            "value": 1
         }
     }, 
     "magicbook_list": {

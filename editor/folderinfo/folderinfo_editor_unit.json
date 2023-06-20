@@ -8,56 +8,113 @@
     2147483647, 
     "code_explorer_custom_root_folder_name"
    ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "rTivHg9pEe6gDLQumWaqGa", 
+    "\u53ec\u5524\u7269"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/rTivHg9pEe6gDLQumWaqGa", 
+    0, 
+    "LXIDjw9uEe6S77QumWaqGR", 
+    "\u53ec\u5524\u6c34\u5143\u7d20"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/rTivHg9pEe6gDLQumWaqGa", 
+    1, 
+    "u8aTQA9pEe63OLQumWaqGa", 
+    "\u53ec\u5524\u718a"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/rTivHg9pEe6gDLQumWaqGa", 
+    2, 
+    "tFRLcA9pEe6bwbQumWaqGf", 
+    "\u53ec\u5524\u50f5\u5c38"
+   ]
   }
  ], 
  "d": {
-  "134279955": {
+  "134241869": {
    "__tuple__": true, 
    "items": [
-    2147483647, 
+    "LXIDjw9uEe6S77QumWaqGR", 
     0
    ]
   }, 
+  "134238067": {
+   "__tuple__": true, 
+   "items": [
+    "u8aTQA9pEe63OLQumWaqGa", 
+    0
+   ]
+  }, 
+  "134226498": {
+   "__tuple__": true, 
+   "items": [
+    "u8aTQA9pEe63OLQumWaqGa", 
+    1
+   ]
+  }, 
+  "134248228": {
+   "__tuple__": true, 
+   "items": [
+    "u8aTQA9pEe63OLQumWaqGa", 
+    2
+   ]
+  }, 
   "134268600": {
+   "__tuple__": true, 
+   "items": [
+    "tFRLcA9pEe6bwbQumWaqGf", 
+    0
+   ]
+  }, 
+  "134279433": {
+   "__tuple__": true, 
+   "items": [
+    "tFRLcA9pEe6bwbQumWaqGf", 
+    1
+   ]
+  }, 
+  "134235025": {
+   "__tuple__": true, 
+   "items": [
+    "tFRLcA9pEe6bwbQumWaqGf", 
+    2
+   ]
+  }, 
+  "134279955": {
    "__tuple__": true, 
    "items": [
     2147483647, 
     1
    ]
   }, 
-  "134238067": {
+  "134241669": {
    "__tuple__": true, 
    "items": [
     2147483647, 
     2
    ]
   }, 
-  "134241669": {
-   "__tuple__": true, 
-   "items": [
-    2147483647, 
-    3
-   ]
-  }, 
   "134258892": {
    "__tuple__": true, 
    "items": [
     2147483647, 
-    4
-   ]
-  }, 
-  "134235025": {
-   "__tuple__": true, 
-   "items": [
-    2147483647, 
-    5
-   ]
-  }, 
-  "134279433": {
-   "__tuple__": true, 
-   "items": [
-    2147483647, 
-    6
+    3
    ]
   }
  }

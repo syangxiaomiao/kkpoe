@@ -29,6 +29,12 @@
         "item_key": 134267267, 
         "prop_key": "name"
     }, 
+    "-1582899631": {
+        "editor_type": "modifier_all", 
+        "index_type": "object_editor", 
+        "item_key": 134249484, 
+        "prop_key": "name"
+    }, 
     "-1575804459": {
         "editor_type": "modifier_all", 
         "index_type": "object_editor", 
@@ -39,6 +45,12 @@
         "editor_type": "editor_unit", 
         "index_type": "object_editor", 
         "item_key": 134279433, 
+        "prop_key": "name"
+    }, 
+    "-1408799925": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134281641, 
         "prop_key": "name"
     }, 
     "-1277103820": {
@@ -107,6 +119,12 @@
         "item_key": 134268362, 
         "prop_key": "name"
     }, 
+    "-452938948": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134244361, 
+        "prop_key": "name"
+    }, 
     "-376324828": {
         "editor_type": "ability_all", 
         "index_type": "object_editor", 
@@ -161,6 +179,12 @@
         "item_key": 134223336, 
         "prop_key": "name"
     }, 
+    "456772863": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134241869, 
+        "prop_key": "name"
+    }, 
     "613604414": {
         "editor_type": "ability_all", 
         "index_type": "object_editor", 
@@ -203,6 +227,12 @@
         "item_key": 134245689, 
         "prop_key": "name"
     }, 
+    "1350795139": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134246335, 
+        "prop_key": "name"
+    }, 
     "1413174319": {
         "editor_type": "editor_item", 
         "index_type": "object_editor", 
@@ -221,11 +251,23 @@
         "item_key": 134242156, 
         "prop_key": "name"
     }, 
+    "1702614657": {
+        "editor_type": "projectile_all", 
+        "index_type": "object_editor", 
+        "item_key": 134227344, 
+        "prop_key": "name"
+    }, 
     "1733962325": {
         "editor_type": "editor_item", 
         "index_type": "object_editor", 
         "item_key": 134218915, 
         "prop_key": "desc"
+    }, 
+    "1812068817": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134248228, 
+        "prop_key": "name"
     }, 
     "1915621422": {
         "editor_type": "ability_all", 

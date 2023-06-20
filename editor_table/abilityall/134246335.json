@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134267216, 
+    "_ref_": 134226996, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -120,7 +120,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "description": -1646108082, 
+    "description": -1546656289, 
     "end_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -147,7 +147,7 @@
     "is_charge_ability": false, 
     "is_immediate": false, 
     "is_meele": false, 
-    "key": 134242156, 
+    "key": 134246335, 
     "kv": {
         "countMax": {
             "annotation": "", 
@@ -156,9 +156,9 @@
             "key": "countMax", 
             "prop_cls": "PInt", 
             "remark": "", 
-            "sort": 0, 
+            "sort": 1, 
             "type": 2, 
-            "value": 3
+            "value": 1
         }, 
         "level": {
             "annotation": "", 
@@ -167,7 +167,7 @@
             "key": "level", 
             "prop_cls": "PInt", 
             "remark": "", 
-            "sort": 1, 
+            "sort": 0, 
             "type": 2, 
             "value": 1
         }
@@ -176,7 +176,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "name": 1612024048, 
+    "name": 1350795139, 
     "need_turn_to_target": false, 
     "pick_count": 1, 
     "player_props_cost": [], 
@@ -238,5 +238,5 @@
     "type_priority_destructible": 1, 
     "type_priority_hero": 1, 
     "type_priority_item": 1, 
-    "uid": "134242156"
+    "uid": "134246335"
 }
