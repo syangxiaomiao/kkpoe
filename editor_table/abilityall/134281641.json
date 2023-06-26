@@ -13,7 +13,7 @@
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "1.5"
+            "(get_owner_float_attr(\"attack_range\")*100)/100"
         ]
     }, 
     "ability_cast_type": 1, 
@@ -109,7 +109,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "0"
+            "get_owner_float_attr(\"attack_interval\")"
         ]
     }, 
     "collection_animation": "", 

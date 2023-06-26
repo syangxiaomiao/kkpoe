@@ -231,132 +231,93 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
-                                    "action_type": "FOR_INT_DO_ACTION", 
+                                    "action_type": "CALL_TRIGGER_FUNC", 
                                     "args_list": [
                                         {
-                                            "arg_type": 100002, 
-                                            "args_list": [
-                                                [
-                                                    "INTEGER", 
-                                                    "i", 
-                                                    "local"
-                                                ]
-                                            ], 
-                                            "sub_type": 6
-                                        }, 
-                                        {
-                                            "arg_type": 100002, 
-                                            "args_list": [
-                                                1
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100002, 
-                                            "args_list": [
-                                                3
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100022, 
+                                            "arg_type": 100177, 
                                             "args_list": [
                                                 {
-                                                    "action_type": "CALL_TRIGGER_FUNC", 
+                                                    "arg_type": 100002, 
                                                     "args_list": [
-                                                        {
-                                                            "arg_type": 100177, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100002, 
-                                                                    "args_list": [
-                                                                        [
-                                                                            "INTEGER", 
-                                                                            "playerid", 
-                                                                            "local"
-                                                                        ]
-                                                                    ], 
-                                                                    "sub_type": 6
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100014, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "CUR_ABILITY"
-                                                                }
-                                                            ], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "b98c290f0f6811ee82adb42e9966aa19"
-                                                        }
+                                                        [
+                                                            "INTEGER", 
+                                                            "playerid", 
+                                                            "local"
+                                                        ]
                                                     ], 
-                                                    "bp": false, 
-                                                    "call_rt_arg_idxes": [], 
-                                                    "element_id": 268054531310455, 
-                                                    "enable": true
+                                                    "sub_type": 6
                                                 }, 
                                                 {
-                                                    "action_type": "CALL_TRIGGER_FUNC", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100177, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100116, 
-                                                                    "args_list": [
-                                                                        134241869
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100006, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "ABILITY_OWNER"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100025, 
-                                                                    "args_list": [
-                                                                        [
-                                                                            "PLAYER", 
-                                                                            "player", 
-                                                                            "local"
-                                                                        ]
-                                                                    ], 
-                                                                    "sub_type": "VARIABLE"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100004, 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100025, 
-                                                                            "args_list": [
-                                                                                [
-                                                                                    "PLAYER", 
-                                                                                    "player", 
-                                                                                    "local"
-                                                                                ]
-                                                                            ], 
-                                                                            "sub_type": "VARIABLE"
-                                                                        }
-                                                                    ], 
-                                                                    "sub_type": "GET_PLAYER_POINTING_POS"
-                                                                }
-                                                            ], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "366dfccf0f6711ee8555b42e9966aa19"
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "call_rt_arg_idxes": [], 
-                                                    "element_id": 268054531310615, 
-                                                    "enable": true
+                                                    "arg_type": 100014, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_ABILITY"
                                                 }
                                             ], 
-                                            "sub_type": 1
+                                            "op_arg": [], 
+                                            "op_arg_enable": [], 
+                                            "sub_type": "b98c290f0f6811ee82adb42e9966aa19"
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 268054531310277, 
+                                    "call_rt_arg_idxes": [], 
+                                    "element_id": 268054531310455, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "CALL_TRIGGER_FUNC", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100177, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100116, 
+                                                    "args_list": [
+                                                        134241869
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100006, 
+                                                    "args_list": [], 
+                                                    "sub_type": "ABILITY_OWNER"
+                                                }, 
+                                                {
+                                                    "arg_type": 100025, 
+                                                    "args_list": [
+                                                        [
+                                                            "PLAYER", 
+                                                            "player", 
+                                                            "local"
+                                                        ]
+                                                    ], 
+                                                    "sub_type": "VARIABLE"
+                                                }, 
+                                                {
+                                                    "arg_type": 100004, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100025, 
+                                                            "args_list": [
+                                                                [
+                                                                    "PLAYER", 
+                                                                    "player", 
+                                                                    "local"
+                                                                ]
+                                                            ], 
+                                                            "sub_type": "VARIABLE"
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_PLAYER_POINTING_POS"
+                                                }
+                                            ], 
+                                            "op_arg": [], 
+                                            "op_arg_enable": [], 
+                                            "sub_type": "366dfccf0f6711ee8555b42e9966aa19"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "call_rt_arg_idxes": [], 
+                                    "element_id": 268054531310615, 
                                     "enable": true
                                 }
                             ], 

@@ -81,11 +81,10 @@
             "7": 133311, 
             "8": 133312, 
             "9": 133313, 
-            "png_path": "official_font_crit_magic"
+            "png_path": "font_crit_magic"
         }, 
-        "is_dirty": false, 
         "is_official": true, 
-        "name": "code_font_magic", 
+        "name": "\u9b54\u6cd5\u4f24\u5bb3", 
         "normal": {
             "0": 133304, 
             "1": 133305, 
@@ -101,7 +100,7 @@
             "S": 133474, 
             "minus": 999, 
             "plus": 999, 
-            "png_path": "official_font_normal_magic"
+            "png_path": "font_normal_magic"
         }
     }, 
     "physics": {

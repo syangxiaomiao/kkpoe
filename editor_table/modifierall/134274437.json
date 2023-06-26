@@ -45,6 +45,7 @@
         "items": []
     }, 
     "ign_inf_unit_type": 2, 
+    "inf_unit_tag": [], 
     "influence_rng": 0, 
     "is_influence_self": true, 
     "key": 134274437, 

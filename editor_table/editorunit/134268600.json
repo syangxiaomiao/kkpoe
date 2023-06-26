@@ -10,7 +10,7 @@
     "alarm_range": 20.0, 
     "angle_tolerance": 1, 
     "armor_type": 20000, 
-    "attack_interval": 1.0, 
+    "attack_interval": 2.8, 
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 

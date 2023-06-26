@@ -1,6 +1,13 @@
 {
+    "bloom": {
+        "bloom_decay": 0.0, 
+        "bloom_strength": 0.30000000000000004
+    }, 
     "color_grading": {
-        "color_grading_type": 7
+        "color_grading_type": 1
+    }, 
+    "env_time_of_day": {
+        "time_of_day_template": 300002
     }, 
     "post_style": {
         "post_style_shader_params": {
@@ -30,6 +37,9 @@
             }
         }, 
         "post_style_type": 0
+    }, 
+    "sky_box": {
+        "sky_box_type": 100002
     }, 
     "terrain": {
         "terrain_version": 2, 
@@ -69,5 +79,9 @@
                 "original": true
             }
         ]
+    }, 
+    "vignetting": {
+        "vignetting_open": false, 
+        "vignetting_size": 1.0
     }
 }

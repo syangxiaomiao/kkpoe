@@ -177,7 +177,7 @@
         "items": []
     }, 
     "name": -167975782, 
-    "need_turn_to_target": false, 
+    "need_turn_to_target": true, 
     "pick_count": 1, 
     "player_props_cost": [], 
     "precondition_list": {

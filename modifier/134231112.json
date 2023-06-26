@@ -1,0 +1,39 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {}, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [], 
+            "key": 134231112, 
+            "name": "134231112"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "NEW_TIMER": {
+            "timer": -1
+        }, 
+        "SFX_ENTITY": {
+            "effect": 0
+        }
+    }, 
+    "variable_group_info": [
+        [
+            "effect", 
+            "effect"
+        ], 
+        [
+            "timer", 
+            "timer"
+        ]
+    ], 
+    "variable_length_dict": {
+        "effect": 0, 
+        "timer": 0
+    }, 
+    "variable_type_dict": {
+        "effect": false, 
+        "timer": false
+    }
+}

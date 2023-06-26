@@ -4,6 +4,82 @@
         "110407681": {
             "action": [
                 {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100148, 
+                            "args_list": [
+                                [
+                                    "SFX_ENTITY", 
+                                    "effect", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": 4
+                        }, 
+                        {
+                            "arg_type": 100148, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100066, 
+                                    "args_list": [
+                                        102843
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "MODIFIER_OWNER"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "hit_point"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 500220, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100001, 
+                                    "args_list": [
+                                        true
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [
+                                null, 
+                                null, 
+                                null, 
+                                {
+                                    "arg_type": 100001, 
+                                    "args_list": [
+                                        true
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg_enable": [
+                                false, 
+                                false, 
+                                false, 
+                                false
+                            ], 
+                            "sub_type": "CREATE_SFX_ON_UNIT_NEW"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 110407681650016, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "ADD_ATTR", 
                     "args_list": [
                         {
@@ -28,13 +104,13 @@
                         {
                             "arg_type": 100000, 
                             "args_list": [
-                                200.0
+                                100.0
                             ], 
                             "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 110407681000002, 
+                    "element_id": 110407681650078, 
                     "enable": true
                 }
             ], 
@@ -71,6 +147,37 @@
         "1637163010": {
             "action": [
                 {
+                    "action_type": "DELETE_SFX_ENTITY", 
+                    "args_list": [
+                        {
+                            "arg_type": 100148, 
+                            "args_list": [
+                                [
+                                    "SFX_ENTITY", 
+                                    "effect", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": 4
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1637163010650023, 
+                    "enable": true, 
+                    "op_arg": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "op_arg_enable": [
+                        false
+                    ]
+                }, 
+                {
                     "action_type": "ADD_ATTR", 
                     "args_list": [
                         {
@@ -98,7 +205,7 @@
                                 {
                                     "arg_type": 100000, 
                                     "args_list": [
-                                        200.0
+                                        100.0
                                     ], 
                                     "sub_type": 1
                                 }, 
@@ -121,7 +228,7 @@
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 1637163010000002, 
+                    "element_id": 110407681650078, 
                     "enable": true
                 }
             ], 
@@ -174,8 +281,21 @@
         }
     ], 
     "trigger_version": "1.2", 
-    "variable_dict": {}, 
-    "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_dict": {
+        "SFX_ENTITY": {
+            "effect": 0
+        }
+    }, 
+    "variable_group_info": [
+        [
+            "effect", 
+            "effect"
+        ]
+    ], 
+    "variable_length_dict": {
+        "effect": 0
+    }, 
+    "variable_type_dict": {
+        "effect": false
+    }
 }

@@ -983,6 +983,34 @@
                 "\u9009\u4e2d\u7269\u54c1\u680fID": false
             }
         }, 
+        "1319891025": {
+            "variable_dict": {
+                "FLOAT": {
+                    "value": 0.0
+                }, 
+                "INTEGER": {
+                    "playerid": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "playerid": 0, 
+                "unit": 0, 
+                "value": 0
+            }, 
+            "variable_type_dict": {
+                "player": false, 
+                "playerid": false, 
+                "unit": false, 
+                "value": false
+            }
+        }, 
         "1432895540": {
             "variable_dict": {
                 "INTEGER": {

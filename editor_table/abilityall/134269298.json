@@ -92,11 +92,11 @@
     "camp_priority_self": 1, 
     "can_bs_interrupt": true, 
     "can_cache": true, 
-    "can_cast_interrupt": false, 
+    "can_cast_interrupt": true, 
     "can_cast_when_hp_insufficient": false, 
     "can_cost_hp": false, 
     "can_interrupt_others": true, 
-    "can_prepare_interrupt": false, 
+    "can_prepare_interrupt": true, 
     "can_ps_interrupt": true, 
     "cast_ignore_ability_command": true, 
     "cast_ignore_move_command": true, 
@@ -110,7 +110,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "get_owner_attr_base(\"attack_interval\")"
+            "get_owner_float_attr(\"attack_interval\")"
         ]
     }, 
     "collection_animation": "", 
