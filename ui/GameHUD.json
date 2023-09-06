@@ -38333,7 +38333,6 @@
             "visible": false
         }
     ], 
-    "editor_visible": false, 
     "name": "GameHUD", 
     "opacity": 1.0, 
     "type": 2, 

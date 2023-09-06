@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "tx": 0
-            }, 
-            "variable_type_dict": {
-                "tx": false
             }
         }
     }, 
@@ -664,8 +661,5 @@
     ], 
     "variable_length_dict": {
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "tx": false
     }
 }

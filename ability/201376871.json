@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "unit": false
             }
         }
     }, 
@@ -332,10 +329,5 @@
         "Caster": 0, 
         "string": 10, 
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "Caster": false, 
-        "string": true, 
-        "trigger": false
     }
 }

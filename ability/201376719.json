@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "Range": 0, 
                 "found": 0
-            }, 
-            "variable_type_dict": {
-                "Range": false, 
-                "found": false
             }
         }
     }, 
@@ -1223,6 +1219,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

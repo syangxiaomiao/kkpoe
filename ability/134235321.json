@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "damage": 0, 
                 "missile": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false, 
-                "missile": false
             }
         }
     }, 
@@ -2012,14 +2008,5 @@
         "t2": 0, 
         "\u89e6\u53d1\u683c\u6321": 0, 
         "\u9ed8\u8ba4\u53d8\u91cf\u540d": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "jd": false, 
-        "knife": false, 
-        "knife_2": false, 
-        "t2": false, 
-        "\u89e6\u53d1\u683c\u6321": false, 
-        "\u9ed8\u8ba4\u53d8\u91cf\u540d": false
     }
 }

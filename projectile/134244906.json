@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "tsw": 0
-            }, 
-            "variable_type_dict": {
-                "tsw": false
             }
         }
     }, 
@@ -500,8 +497,5 @@
     ], 
     "variable_length_dict": {
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false
     }
 }

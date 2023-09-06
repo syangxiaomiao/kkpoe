@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }, 
         "1693216769": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }
     }, 
@@ -1740,9 +1734,5 @@
     "variable_length_dict": {
         "knife": 0, 
         "t": 0
-    }, 
-    "variable_type_dict": {
-        "knife": false, 
-        "t": false
     }
 }

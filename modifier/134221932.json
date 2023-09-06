@@ -652,10 +652,5 @@
         "effect_1": 0, 
         "effect_2": 0, 
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "effect_1": false, 
-        "effect_2": false, 
-        "trigger": false
     }
 }

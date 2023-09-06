@@ -4,8 +4,7 @@
             "variable_dict": {
                 "FLOAT": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -557,9 +556,5 @@
     "variable_length_dict": {
         "\u70b9\u6570": 0, 
         "\u70b9\u6570\u589e\u52a0": 0
-    }, 
-    "variable_type_dict": {
-        "\u70b9\u6570": false, 
-        "\u70b9\u6570\u589e\u52a0": false
     }
 }

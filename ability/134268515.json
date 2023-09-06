@@ -542,12 +542,5 @@
         "\u52a0\u957f\u8ddd\u79bb": 0, 
         "\u76ee\u6807": 0, 
         "\u989d\u5916\u8303\u56f4": 0
-    }, 
-    "variable_type_dict": {
-        "le": false, 
-        "tail": false, 
-        "\u52a0\u957f\u8ddd\u79bb": false, 
-        "\u76ee\u6807": false, 
-        "\u989d\u5916\u8303\u56f4": false
     }
 }

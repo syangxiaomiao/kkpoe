@@ -1107,13 +1107,5 @@
         "Tr_toughness": 0, 
         "U": 0, 
         "speedUp?": 0
-    }, 
-    "variable_type_dict": {
-        "Fl_spdAdd": false, 
-        "Tr_spdUp": false, 
-        "Tr_spdUp_2": false, 
-        "Tr_toughness": false, 
-        "U": false, 
-        "speedUp?": false
     }
 }

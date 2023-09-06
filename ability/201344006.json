@@ -454,8 +454,5 @@
     ], 
     "variable_length_dict": {
         "particle": 0
-    }, 
-    "variable_type_dict": {
-        "particle": false
     }
 }

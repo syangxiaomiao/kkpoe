@@ -22,14 +22,6 @@
                 "temp": 0, 
                 "\u5f53\u524d\u5355\u4f4d": 0, 
                 "\u6392\u5e8f\u8868": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "j": false, 
-                "len": false, 
-                "temp": false, 
-                "\u5f53\u524d\u5355\u4f4d": false, 
-                "\u6392\u5e8f\u8868": false
             }
         }, 
         "994226178": {
@@ -58,23 +50,13 @@
                 "temp": 0, 
                 "\u5f53\u524d\u5355\u4f4d": 0, 
                 "\u6392\u5e8f\u8868": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "j": false, 
-                "len": false, 
-                "t": false, 
-                "temp": false, 
-                "\u5f53\u524d\u5355\u4f4d": false, 
-                "\u6392\u5e8f\u8868": false
             }
         }, 
         "1292222465": {
             "variable_dict": {
                 "DYNAMIC_TRIGGER_INSTANCE": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -2420,9 +2402,5 @@
     "variable_length_dict": {
         "\u5f53\u524d\u4f4d\u7f6e": 0, 
         "\u8f6c\u5411\u5668": 0
-    }, 
-    "variable_type_dict": {
-        "\u5f53\u524d\u4f4d\u7f6e": false, 
-        "\u8f6c\u5411\u5668": false
     }
 }

@@ -27,14 +27,6 @@
                 "buff2": 0, 
                 "damage": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "attack_ability": false, 
-                "buff": false, 
-                "buff2": false, 
-                "damage": false, 
-                "target": false
             }
         }
     }, 
@@ -656,13 +648,5 @@
         "\u504f\u79fb\u8ddd\u79bb": 0, 
         "\u5206\u8eab\u5355\u4f4d\u7ec4": 0, 
         "\u5f53\u524d\u89d2\u5ea6": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "n": false, 
-        "\u4fbf\u5b9c\u89d2\u5ea6": false, 
-        "\u504f\u79fb\u8ddd\u79bb": false, 
-        "\u5206\u8eab\u5355\u4f4d\u7ec4": false, 
-        "\u5f53\u524d\u89d2\u5ea6": false
     }
 }

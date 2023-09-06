@@ -241,9 +241,5 @@
     "variable_length_dict": {
         "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668": 0, 
         "\u79fb\u901f": 0
-    }, 
-    "variable_type_dict": {
-        "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668": false, 
-        "\u79fb\u901f": false
     }
 }

@@ -1636,8 +1636,5 @@
     ], 
     "variable_length_dict": {
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false
     }
 }

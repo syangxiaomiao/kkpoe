@@ -426,10 +426,5 @@
         "R": 0, 
         "T": 0, 
         "timer2": 0
-    }, 
-    "variable_type_dict": {
-        "R": false, 
-        "T": false, 
-        "timer2": false
     }
 }

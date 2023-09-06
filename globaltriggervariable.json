@@ -14,11 +14,6 @@
                 "Select_item": 0, 
                 "Shop_Settings": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "Select_item": false, 
-                "Shop_Settings": false, 
-                "unit": false
             }
         }, 
         "99549217": {
@@ -29,9 +24,6 @@
             }, 
             "variable_length_dict": {
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "\u73a9\u5bb6": false
             }
         }, 
         "120717378": {
@@ -42,9 +34,6 @@
             }, 
             "variable_length_dict": {
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "skill": false
             }
         }, 
         "247672871": {
@@ -59,10 +48,6 @@
             "variable_length_dict": {
                 "x_pos": 0, 
                 "y_pos": 0
-            }, 
-            "variable_type_dict": {
-                "x_pos": false, 
-                "y_pos": false
             }
         }, 
         "254148634": {
@@ -91,15 +76,6 @@
                 "n": 0, 
                 "\u4e34\u65f6\u8868": 0, 
                 "\u9a6c\u7532\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "comp": false, 
-                "i": false, 
-                "j": false, 
-                "lv_panel": false, 
-                "n": false, 
-                "\u4e34\u65f6\u8868": false, 
-                "\u9a6c\u7532\u73a9\u5bb6": false
             }
         }, 
         "280129562": {
@@ -131,15 +107,6 @@
                 "\u9009\u4e2d\u5546\u54c1": 0, 
                 "\u9009\u4e2d\u5546\u5e97": 0, 
                 "\u9009\u4e2d\u7269\u54c1\u680f": 0
-            }, 
-            "variable_type_dict": {
-                "Shop_settings": false, 
-                "bool": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false, 
-                "\u9009\u4e2d\u5546\u54c1": false, 
-                "\u9009\u4e2d\u5546\u5e97": false, 
-                "\u9009\u4e2d\u7269\u54c1\u680f": false
             }
         }, 
         "311238667": {
@@ -155,10 +122,33 @@
             "variable_length_dict": {
                 "n": 0, 
                 "\u73a9\u5bb6": 0
+            }
+        }, 
+        "352354386": {
+            "variable_dict": {
+                "ABILITY": {}, 
+                "FLOAT": {
+                    "skill_range": 0.0
+                }, 
+                "INTEGER": {}, 
+                "POINT": {
+                    "skill_point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
             }, 
-            "variable_type_dict": {
-                "n": false, 
-                "\u73a9\u5bb6": false
+            "variable_length_dict": {
+                "skill_point": 0, 
+                "skill_range": 0, 
+                "unit": 0
             }
         }, 
         "444342298": {
@@ -175,10 +165,6 @@
             "variable_length_dict": {
                 "Shop_Settings": 0, 
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "Shop_Settings": false, 
-                "\u73a9\u5bb6": false
             }
         }, 
         "446099500": {
@@ -218,17 +204,6 @@
                 "\u7269\u54c1\u4f4d\u7f6e": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0
-            }, 
-            "variable_type_dict": {
-                "ID": false, 
-                "Skill": false, 
-                "bool": false, 
-                "detail": false, 
-                "item": false, 
-                "title": false, 
-                "\u7269\u54c1\u4f4d\u7f6e": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false
             }
         }, 
         "478867458": {
@@ -247,11 +222,6 @@
                 "Select_item": 0, 
                 "Shop_Settings": 0, 
                 "\u8ba1\u65f6\u5668_\u5237\u65b0\u5546\u5e97": 0
-            }, 
-            "variable_type_dict": {
-                "Select_item": false, 
-                "Shop_Settings": false, 
-                "\u8ba1\u65f6\u5668_\u5237\u65b0\u5546\u5e97": false
             }
         }, 
         "521285671": {
@@ -298,19 +268,6 @@
                 "\u9009\u4e2d\u5355\u4f4d": 0, 
                 "\u9009\u4e2d\u5546\u5e97": 0, 
                 "\u9009\u4e2d\u9875\u6570": 0
-            }, 
-            "variable_type_dict": {
-                "ID": false, 
-                "Shop_settings": false, 
-                "Skill": false, 
-                "bool": false, 
-                "detail": false, 
-                "item": false, 
-                "title": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false, 
-                "\u9009\u4e2d\u5546\u5e97": false, 
-                "\u9009\u4e2d\u9875\u6570": false
             }
         }, 
         "546029571": {
@@ -321,9 +278,6 @@
             }, 
             "variable_length_dict": {
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "\u73a9\u5bb6": false
             }
         }, 
         "579055630": {
@@ -345,12 +299,6 @@
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0, 
                 "\u9009\u4e2d\u5546\u5e97": 0
-            }, 
-            "variable_type_dict": {
-                "\u7269\u54c1\u7c7b\u578b": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false, 
-                "\u9009\u4e2d\u5546\u5e97": false
             }
         }, 
         "588083239": {
@@ -375,13 +323,6 @@
                 "\u72b6\u6001": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u7c7b\u578b": 0
-            }, 
-            "variable_type_dict": {
-                "ID": false, 
-                "bool": false, 
-                "\u72b6\u6001": false, 
-                "\u73a9\u5bb6": false, 
-                "\u7c7b\u578b": false
             }
         }, 
         "636670032": {
@@ -406,13 +347,6 @@
                 "skill": 0, 
                 "targetUnit": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false, 
-                "damageType": false, 
-                "skill": false, 
-                "targetUnit": false, 
-                "unit": false
             }
         }, 
         "706760752": {
@@ -448,16 +382,6 @@
                 "title": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0
-            }, 
-            "variable_type_dict": {
-                "Buff": false, 
-                "ID": false, 
-                "bool": false, 
-                "detail": false, 
-                "n": false, 
-                "title": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false
             }
         }, 
         "811716643": {
@@ -474,10 +398,6 @@
             "variable_length_dict": {
                 "str": 0, 
                 "\u6570\u503c": 0
-            }, 
-            "variable_type_dict": {
-                "str": false, 
-                "\u6570\u503c": false
             }
         }, 
         "829931573": {
@@ -510,15 +430,6 @@
                 "\u6280\u80fd\u69fd\u4f4d\u8868": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0
-            }, 
-            "variable_type_dict": {
-                "UI\u69fd\u4f4d": false, 
-                "i": false, 
-                "\u6280\u80fd\u5206\u7c7b": false, 
-                "\u6280\u80fd\u69fd\u4f4d": false, 
-                "\u6280\u80fd\u69fd\u4f4d\u8868": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false
             }
         }, 
         "878456909": {
@@ -529,6 +440,9 @@
                 "INTEGER": {
                     "account": 0, 
                     "i": 0
+                }, 
+                "LINK_SFX_KEY": {
+                    "\u94fe\u63a5\u7c7b\u578b": 0
                 }, 
                 "NEW_TIMER": {
                     "timer": -1
@@ -554,18 +468,8 @@
                 "timer": 0, 
                 "unit": 0, 
                 "unitGroup": 0, 
-                "unitGroupEffect": 0
-            }, 
-            "variable_type_dict": {
-                "account": false, 
-                "damage": false, 
-                "i": false, 
-                "player": false, 
-                "targetUnit": false, 
-                "timer": false, 
-                "unit": false, 
-                "unitGroup": false, 
-                "unitGroupEffect": false
+                "unitGroupEffect": 0, 
+                "\u94fe\u63a5\u7c7b\u578b": 0
             }
         }, 
         "879771726": {
@@ -595,12 +499,6 @@
                 "owner": 0, 
                 "player": 0, 
                 "unitType": 0
-            }, 
-            "variable_type_dict": {
-                "createPoint": false, 
-                "owner": false, 
-                "player": false, 
-                "unitType": false
             }
         }, 
         "882499599": {
@@ -613,9 +511,6 @@
             }, 
             "variable_length_dict": {
                 "\u9009\u4e2d": 0
-            }, 
-            "variable_type_dict": {
-                "\u9009\u4e2d": false
             }
         }, 
         "938496034": {
@@ -630,10 +525,6 @@
             "variable_length_dict": {
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0
-            }, 
-            "variable_type_dict": {
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false
             }
         }, 
         "945233976": {
@@ -648,10 +539,6 @@
             "variable_length_dict": {
                 "\u89e6\u53d1\u5355\u4f4d": 0, 
                 "\u89e6\u53d1\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "\u89e6\u53d1\u5355\u4f4d": false, 
-                "\u89e6\u53d1\u73a9\u5bb6": false
             }
         }, 
         "1037758525": {
@@ -710,26 +597,6 @@
                 "\u6280\u80fd\u69fd\u4f4d\u8868": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0
-            }, 
-            "variable_type_dict": {
-                "Skill": false, 
-                "Skill_num": false, 
-                "Skill_num_2": false, 
-                "UI\u69fd\u4f4d": false, 
-                "comp2": false, 
-                "comp2_X": false, 
-                "i": false, 
-                "j": false, 
-                "lv": false, 
-                "lv_max": false, 
-                "lv_panel": false, 
-                "\u5355\u4f4d": false, 
-                "\u6280\u80fd\u5206\u7c7b": false, 
-                "\u6280\u80fd\u53d8\u52a8\u8ba1\u65f6": false, 
-                "\u6280\u80fd\u69fd\u4f4d": false, 
-                "\u6280\u80fd\u69fd\u4f4d\u8868": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false
             }
         }, 
         "1057452061": {
@@ -745,10 +612,6 @@
             "variable_length_dict": {
                 "i": 0, 
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "\u73a9\u5bb6": false
             }
         }, 
         "1066213386": {
@@ -793,20 +656,6 @@
                 "n": 0, 
                 "player_Shop_tab_n": 0, 
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "Select_item": false, 
-                "Shop": false, 
-                "Shop_Settings": false, 
-                "Shop_tab_num": false, 
-                "Tab_txt": false, 
-                "comp_Tab": false, 
-                "comp_item": false, 
-                "i": false, 
-                "item": false, 
-                "n": false, 
-                "player_Shop_tab_n": false, 
-                "\u73a9\u5bb6": false
             }
         }, 
         "1134522426": {
@@ -819,9 +668,6 @@
             }, 
             "variable_length_dict": {
                 "\u5b9e\u9645\u653b\u51fb\u95f4\u9694": 0
-            }, 
-            "variable_type_dict": {
-                "\u5b9e\u9645\u653b\u51fb\u95f4\u9694": false
             }
         }, 
         "1196486674": {
@@ -872,22 +718,6 @@
                 "\u653b\u901f\u53d8\u5316\u89e6\u53d1": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u7ecf\u9a8c\u53d8\u5316\u89e6\u53d1": 0
-            }, 
-            "variable_type_dict": {
-                "Skill": false, 
-                "comp2": false, 
-                "comp2_X": false, 
-                "i": false, 
-                "j": false, 
-                "lv": false, 
-                "lv_max": false, 
-                "lv_panel": false, 
-                "\u5355\u4f4d": false, 
-                "\u5b9e\u9645\u653b\u51fb\u95f4\u9694": false, 
-                "\u6280\u80fd\u69fd\u4f4d\u8868": false, 
-                "\u653b\u901f\u53d8\u5316\u89e6\u53d1": false, 
-                "\u73a9\u5bb6": false, 
-                "\u7ecf\u9a8c\u53d8\u5316\u89e6\u53d1": false
             }
         }, 
         "1198170189": {
@@ -910,12 +740,6 @@
                 "player": 0, 
                 "playerid": 0, 
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "hero": false, 
-                "player": false, 
-                "playerid": false, 
-                "skill": false
             }
         }, 
         "1231839298": {
@@ -939,12 +763,6 @@
                 "player": 0, 
                 "playerid": 0, 
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "hero": false, 
-                "player": false, 
-                "playerid": false, 
-                "skill": false
             }
         }, 
         "1285480478": {
@@ -973,14 +791,6 @@
                 "\u9009\u4e2d\u5546\u5e97": 0, 
                 "\u9009\u4e2d\u7269\u54c1\u680f": 0, 
                 "\u9009\u4e2d\u7269\u54c1\u680fID": 0
-            }, 
-            "variable_type_dict": {
-                "Shop_settings": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false, 
-                "\u9009\u4e2d\u5546\u5e97": false, 
-                "\u9009\u4e2d\u7269\u54c1\u680f": false, 
-                "\u9009\u4e2d\u7269\u54c1\u680fID": false
             }
         }, 
         "1319891025": {
@@ -1003,12 +813,6 @@
                 "playerid": 0, 
                 "unit": 0, 
                 "value": 0
-            }, 
-            "variable_type_dict": {
-                "player": false, 
-                "playerid": false, 
-                "unit": false, 
-                "value": false
             }
         }, 
         "1432895540": {
@@ -1027,11 +831,6 @@
                 "i": 0, 
                 "\u6280\u80fd\u69fd\u4f4d\u8868": 0, 
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "\u6280\u80fd\u69fd\u4f4d\u8868": false, 
-                "\u73a9\u5bb6": false
             }
         }, 
         "1452855375": {
@@ -1050,11 +849,6 @@
                 "flag": 0, 
                 "playerid": 0, 
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "flag": false, 
-                "playerid": false, 
-                "skill": false
             }
         }, 
         "1479794696": {
@@ -1090,17 +884,25 @@
                 "\u9009\u4e2dID": 0, 
                 "\u9009\u4e2d\u7269\u54c1\u8868": 0, 
                 "\u9009\u4e2d\u9875\u6570": 0
+            }
+        }, 
+        "1495666771": {
+            "variable_dict": {
+                "FLOAT": {
+                    "final_range": 0.0, 
+                    "range": 0.0, 
+                    "range_add": 0.0
+                }, 
+                "INTEGER": {}, 
+                "PLAYER": {
+                    "player": 0
+                }
             }, 
-            "variable_type_dict": {
-                "ID": false, 
-                "Shop": false, 
-                "Shop_settings": false, 
-                "n": false, 
-                "\u7269\u54c1\u7c7b\u578b": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2dID": false, 
-                "\u9009\u4e2d\u7269\u54c1\u8868": false, 
-                "\u9009\u4e2d\u9875\u6570": false
+            "variable_length_dict": {
+                "final_range": 0, 
+                "player": 0, 
+                "range": 0, 
+                "range_add": 0
             }
         }, 
         "1519349829": {
@@ -1123,13 +925,6 @@
                 "n": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u9a6c\u7532\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "comp": false, 
-                "i": false, 
-                "n": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9a6c\u7532\u73a9\u5bb6": false
             }
         }, 
         "1670840365": {
@@ -1170,26 +965,13 @@
                 "\u6280\u80fd\u69fd\u4f4d\u8868": 0, 
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0
-            }, 
-            "variable_type_dict": {
-                "ID": false, 
-                "Skill": false, 
-                "bool": false, 
-                "detail": false, 
-                "i": false, 
-                "title": false, 
-                "\u5355\u4f4d": false, 
-                "\u6280\u80fd\u69fd\u4f4d\u8868": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false
             }
         }, 
         "1682063384": {
             "variable_dict": {
                 "NEW_TIMER": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }, 
         "1689354308": {
             "variable_dict": {
@@ -1210,10 +992,6 @@
             "variable_length_dict": {
                 "\u5355\u4f4d": 0, 
                 "\u5355\u4f4d\u70b9": 0
-            }, 
-            "variable_type_dict": {
-                "\u5355\u4f4d": false, 
-                "\u5355\u4f4d\u70b9": false
             }
         }, 
         "1729798172": {
@@ -1248,17 +1026,6 @@
                 "\u9009\u4e2d\u5355\u4f4d": 0, 
                 "\u9009\u4e2d\u7269\u54c1\u8868": 0, 
                 "\u9009\u4e2d\u9875\u6570": 0
-            }, 
-            "variable_type_dict": {
-                "ID": false, 
-                "Shop": false, 
-                "Shop_settings": false, 
-                "\u7269\u54c1\u7c7b\u578b": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2dID": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false, 
-                "\u9009\u4e2d\u7269\u54c1\u8868": false, 
-                "\u9009\u4e2d\u9875\u6570": false
             }
         }, 
         "1777578020": {
@@ -1273,11 +1040,6 @@
                 "Skill_slot": 0, 
                 "i": 0, 
                 "lv": 0
-            }, 
-            "variable_type_dict": {
-                "Skill_slot": false, 
-                "i": false, 
-                "lv": false
             }
         }, 
         "1783373882": {
@@ -1288,9 +1050,6 @@
             }, 
             "variable_length_dict": {
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "\u73a9\u5bb6": false
             }
         }, 
         "1849528343": {
@@ -1315,13 +1074,6 @@
                 "\u76d1\u542c\u7269\u54c1\u5237\u65b0": 0, 
                 "\u8ba1\u65f6\u5668_\u5237\u65b0\u5546\u5e97": 0, 
                 "\u91d1\u5e01\u53d8\u5316\u76d1\u542c": 0
-            }, 
-            "variable_type_dict": {
-                "Shop_Settings": false, 
-                "\u73a9\u5bb6": false, 
-                "\u76d1\u542c\u7269\u54c1\u5237\u65b0": false, 
-                "\u8ba1\u65f6\u5668_\u5237\u65b0\u5546\u5e97": false, 
-                "\u91d1\u5e01\u53d8\u5316\u76d1\u542c": false
             }
         }, 
         "1859448887": {
@@ -1344,13 +1096,6 @@
                 "\u65f6\u95f4": 0, 
                 "\u65f6\u95f4_\u5206": 0, 
                 "\u65f6\u95f4_\u65f6": 0
-            }, 
-            "variable_type_dict": {
-                "str": false, 
-                "\u5b57\u7b26\u957f\u5ea6": false, 
-                "\u65f6\u95f4": false, 
-                "\u65f6\u95f4_\u5206": false, 
-                "\u65f6\u95f4_\u65f6": false
             }
         }, 
         "1891225617": {
@@ -1380,14 +1125,6 @@
                 "\u9009\u4e2d\u5546\u5e97": 0, 
                 "\u9009\u4e2d\u7269\u54c1": 0, 
                 "\u9875\u7801": 0
-            }, 
-            "variable_type_dict": {
-                "\u5546\u54c1": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false, 
-                "\u9009\u4e2d\u5546\u5e97": false, 
-                "\u9009\u4e2d\u7269\u54c1": false, 
-                "\u9875\u7801": false
             }
         }, 
         "1956155466": {
@@ -1404,11 +1141,6 @@
                 "Select_item": 0, 
                 "Shop_Settings": 0, 
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "Select_item": false, 
-                "Shop_Settings": false, 
-                "\u73a9\u5bb6": false
             }
         }, 
         "1959194682": {
@@ -1419,9 +1151,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }, 
         "1983475738": {
@@ -1454,15 +1183,6 @@
                 "\u73a9\u5bb6": 0, 
                 "\u9009\u4e2d\u5355\u4f4d": 0, 
                 "\u9009\u4e2d\u5546\u5e97": 0
-            }, 
-            "variable_type_dict": {
-                "comp": false, 
-                "i": false, 
-                "item": false, 
-                "n": false, 
-                "\u73a9\u5bb6": false, 
-                "\u9009\u4e2d\u5355\u4f4d": false, 
-                "\u9009\u4e2d\u5546\u5e97": false
             }
         }, 
         "2022514693": {
@@ -1485,14 +1205,6 @@
                 "tab\u8868": 0, 
                 "\u4e34\u65f6\u8868": 0, 
                 "\u7269\u54c1\u680f\u8868": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "n": false, 
-                "tab_n": false, 
-                "tab\u8868": false, 
-                "\u4e34\u65f6\u8868": false, 
-                "\u7269\u54c1\u680f\u8868": false
             }
         }, 
         "2091622473": {
@@ -1527,15 +1239,6 @@
                 "item": 0, 
                 "title": 0, 
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "ID": false, 
-                "Skill": false, 
-                "bool": false, 
-                "detail": false, 
-                "item": false, 
-                "title": false, 
-                "\u73a9\u5bb6": false
             }
         }, 
         "2091675723": {
@@ -1552,11 +1255,6 @@
                 "\u521d\u59cb\u4f24\u5bb3": 0, 
                 "\u6700\u7ec8\u4f24\u5bb3": 0, 
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "\u521d\u59cb\u4f24\u5bb3": false, 
-                "\u6700\u7ec8\u4f24\u5bb3": false, 
-                "\u73a9\u5bb6": false
             }
         }, 
         "2095947833": {
@@ -1567,9 +1265,6 @@
             }, 
             "variable_length_dict": {
                 "\u73a9\u5bb6": 0
-            }, 
-            "variable_type_dict": {
-                "\u73a9\u5bb6": false
             }
         }
     }, 
@@ -1693,18 +1388,5 @@
         "timer": 10, 
         "tips_scale": 10, 
         "\u53ec\u5524\u7269": 10
-    }, 
-    "variable_type_dict": {
-        "BUFF_UI_table": false, 
-        "Equip_UI_table": false, 
-        "Player Unit": true, 
-        "Shop_Goods": false, 
-        "Shop_UI_table": false, 
-        "Skill_UI_table": false, 
-        "clickHeroFlag": false, 
-        "hero_ui_click": true, 
-        "timer": true, 
-        "tips_scale": true, 
-        "\u53ec\u5524\u7269": true
     }
 }

@@ -14,11 +14,6 @@
                 "check": 0, 
                 "checkGroup": 10, 
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "check": false, 
-                "checkGroup": true, 
-                "i": false
             }
         }
     }, 
@@ -371,6 +366,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -395,6 +394,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -405,6 +408,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -562,10 +569,5 @@
         "j": 0, 
         "\u5927\u62db\u8303\u56f4": 0, 
         "\u6295\u5c04\u7269": 10
-    }, 
-    "variable_type_dict": {
-        "j": false, 
-        "\u5927\u62db\u8303\u56f4": false, 
-        "\u6295\u5c04\u7269": true
     }
 }

@@ -12,9 +12,6 @@
             }, 
             "variable_length_dict": {
                 "p": 0
-            }, 
-            "variable_type_dict": {
-                "p": false
             }
         }
     }, 
@@ -660,6 +657,10 @@
                                                     "element_id": 235503619190080, 
                                                     "enable": true, 
                                                     "fake_op": [], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -678,6 +679,13 @@
                                                         null, 
                                                         null, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -685,6 +693,13 @@
                                                         false, 
                                                         false, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false, 
                                                         false, 
@@ -941,6 +956,10 @@
                                                     "element_id": 235503619190107, 
                                                     "enable": true, 
                                                     "fake_op": [], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -959,6 +978,13 @@
                                                         null, 
                                                         null, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -966,6 +992,13 @@
                                                         false, 
                                                         false, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false, 
                                                         false, 
@@ -1053,6 +1086,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1083,6 +1120,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1094,6 +1135,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1216,9 +1261,5 @@
     "variable_length_dict": {
         "U": 0, 
         "pro": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "pro": false
     }
 }

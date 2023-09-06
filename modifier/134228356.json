@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "skill": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "skill": false, 
-                "target": false
             }
         }
     }, 
@@ -1050,9 +1046,5 @@
     "variable_length_dict": {
         "knife": 0, 
         "\u53cc\u6297": 0
-    }, 
-    "variable_type_dict": {
-        "knife": false, 
-        "\u53cc\u6297": false
     }
 }

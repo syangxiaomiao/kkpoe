@@ -627,9 +627,5 @@
     "variable_length_dict": {
         "u": 0, 
         "\u51b3\u6597": 0
-    }, 
-    "variable_type_dict": {
-        "u": false, 
-        "\u51b3\u6597": false
     }
 }

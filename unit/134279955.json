@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u6280\u80fd\u97f3\u6548": 0
-            }, 
-            "variable_type_dict": {
-                "\u6280\u80fd\u97f3\u6548": false
             }
         }
     }, 
@@ -440,6 +437,5 @@
         "UNIT_GROUP": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

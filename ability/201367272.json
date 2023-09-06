@@ -549,8 +549,5 @@
     ], 
     "variable_length_dict": {
         "line": 0
-    }, 
-    "variable_type_dict": {
-        "line": false
     }
 }

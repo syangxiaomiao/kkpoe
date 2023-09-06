@@ -352,8 +352,5 @@
     ], 
     "variable_length_dict": {
         "\u51cf\u901f\u5e45\u5ea6": 0
-    }, 
-    "variable_type_dict": {
-        "\u51cf\u901f\u5e45\u5ea6": false
     }
 }

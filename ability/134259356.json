@@ -28,13 +28,6 @@
                 "\u71e7\u77f3\u53d8\u91cf": 0, 
                 "\u76ee\u6807\u70b9": 0, 
                 "\u76ee\u6807\u70b92": 0
-            }, 
-            "variable_type_dict": {
-                "m": false, 
-                "n": false, 
-                "\u71e7\u77f3\u53d8\u91cf": false, 
-                "\u76ee\u6807\u70b9": false, 
-                "\u76ee\u6807\u70b92": false
             }
         }
     }, 
@@ -637,6 +630,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

@@ -391,9 +391,5 @@
     "variable_length_dict": {
         "timer": 0, 
         "\u89c6\u91ce\u9a6c\u7532": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false, 
-        "\u89c6\u91ce\u9a6c\u7532": false
     }
 }

@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "Ani": 0
-            }, 
-            "variable_type_dict": {
-                "Ani": false
             }
         }
     }, 
@@ -607,8 +604,5 @@
     ], 
     "variable_length_dict": {
         "Damage": 0
-    }, 
-    "variable_type_dict": {
-        "Damage": false
     }
 }

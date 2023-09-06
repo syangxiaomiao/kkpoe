@@ -335,8 +335,5 @@
     ], 
     "variable_length_dict": {
         "Tim_secDam": 0
-    }, 
-    "variable_type_dict": {
-        "Tim_secDam": false
     }
 }

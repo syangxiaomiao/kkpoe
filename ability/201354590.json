@@ -18,11 +18,6 @@
                 "Ability Effect": 0, 
                 "Aiming Target": 0, 
                 "Now Target": 0
-            }, 
-            "variable_type_dict": {
-                "Ability Effect": false, 
-                "Aiming Target": false, 
-                "Now Target": false
             }
         }
     }, 
@@ -1467,6 +1462,10 @@
                                                                                                                     "fake_op": [
                                                                                                                         9
                                                                                                                     ], 
+                                                                                                                    "local_var": [
+                                                                                                                        {}, 
+                                                                                                                        {}
+                                                                                                                    ], 
                                                                                                                     "op_arg": [
                                                                                                                         null, 
                                                                                                                         null, 
@@ -1497,6 +1496,13 @@
                                                                                                                         null, 
                                                                                                                         null, 
                                                                                                                         null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
                                                                                                                         null
                                                                                                                     ], 
                                                                                                                     "op_arg_enable": [
@@ -1506,6 +1512,13 @@
                                                                                                                         false, 
                                                                                                                         true, 
                                                                                                                         true, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
                                                                                                                         false, 
                                                                                                                         false, 
                                                                                                                         false, 
@@ -1951,6 +1964,10 @@
                                                                                     "fake_op": [
                                                                                         9
                                                                                     ], 
+                                                                                    "local_var": [
+                                                                                        {}, 
+                                                                                        {}
+                                                                                    ], 
                                                                                     "op_arg": [
                                                                                         null, 
                                                                                         null, 
@@ -1981,6 +1998,13 @@
                                                                                         null, 
                                                                                         null, 
                                                                                         null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
                                                                                         null
                                                                                     ], 
                                                                                     "op_arg_enable": [
@@ -1990,6 +2014,13 @@
                                                                                         false, 
                                                                                         true, 
                                                                                         true, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
                                                                                         false, 
                                                                                         false, 
                                                                                         false, 
@@ -2468,6 +2499,10 @@
                                                     "fake_op": [
                                                         9
                                                     ], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -2498,6 +2533,13 @@
                                                         null, 
                                                         null, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -2507,6 +2549,13 @@
                                                         false, 
                                                         true, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false, 
                                                         false, 
@@ -2952,6 +3001,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -2982,6 +3035,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -2991,6 +3051,13 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -3042,6 +3109,5 @@
         "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

@@ -1460,13 +1460,5 @@
         "\u52a8\u4f5c\u901f\u7387": 0, 
         "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "index": false, 
-        "j": false, 
-        "\u52a8\u4f5c\u901f\u7387": false, 
-        "\u666e\u653b\u52a8\u4f5c": false, 
-        "\u66b4\u51fb": false
     }
 }

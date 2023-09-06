@@ -25,12 +25,6 @@
                 "hero": 0, 
                 "player": 0, 
                 "point": 0
-            }, 
-            "variable_type_dict": {
-                "ability": false, 
-                "hero": false, 
-                "player": false, 
-                "point": false
             }
         }, 
         "1313062913": {
@@ -41,9 +35,6 @@
             }, 
             "variable_length_dict": {
                 "missile": 0
-            }, 
-            "variable_type_dict": {
-                "missile": false
             }
         }
     }, 
@@ -885,9 +876,5 @@
     "variable_length_dict": {
         "t": 0, 
         "u": 0
-    }, 
-    "variable_type_dict": {
-        "t": false, 
-        "u": false
     }
 }

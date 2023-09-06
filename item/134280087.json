@@ -456,9 +456,5 @@
     "variable_length_dict": {
         "U": 0, 
         "\u51b0\u971c\u94e0\u7532\u4e09\u9636": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u51b0\u971c\u94e0\u7532\u4e09\u9636": false
     }
 }

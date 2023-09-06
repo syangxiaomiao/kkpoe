@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u79fb\u901f": 0
-            }, 
-            "variable_type_dict": {
-                "\u79fb\u901f": false
             }
         }, 
         "314830850": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "\u79fb\u901f": 0
-            }, 
-            "variable_type_dict": {
-                "\u79fb\u901f": false
             }
         }
     }, 
@@ -471,8 +465,5 @@
     ], 
     "variable_length_dict": {
         "\u5077\u53d6\u79fb\u901f": 0
-    }, 
-    "variable_type_dict": {
-        "\u5077\u53d6\u79fb\u901f": false
     }
 }

@@ -374,8 +374,5 @@
     ], 
     "variable_length_dict": {
         "TriggerInstance": 0
-    }, 
-    "variable_type_dict": {
-        "TriggerInstance": false
     }
 }

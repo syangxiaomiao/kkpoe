@@ -1238,13 +1238,5 @@
         "Tr_spdUp": 0, 
         "U": 0, 
         "spdUp\uff1f": 0
-    }, 
-    "variable_type_dict": {
-        "Data_spdAdd": false, 
-        "Tr_damReduce": false, 
-        "Tr_spdDown": false, 
-        "Tr_spdUp": false, 
-        "U": false, 
-        "spdUp\uff1f": false
     }
 }

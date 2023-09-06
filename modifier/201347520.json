@@ -236,8 +236,5 @@
     ], 
     "variable_length_dict": {
         "speed down": 0
-    }, 
-    "variable_type_dict": {
-        "speed down": false
     }
 }

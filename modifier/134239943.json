@@ -24,13 +24,6 @@
                 "target": 0, 
                 "\u4f24\u5bb3": 0, 
                 "\u51cf\u514d\u9b54\u6cd5": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "skill": false, 
-                "target": false, 
-                "\u4f24\u5bb3": false, 
-                "\u51cf\u514d\u9b54\u6cd5": false
             }
         }
     }, 
@@ -705,8 +698,5 @@
     ], 
     "variable_length_dict": {
         "\u53cc\u6297": 0
-    }, 
-    "variable_type_dict": {
-        "\u53cc\u6297": false
     }
 }

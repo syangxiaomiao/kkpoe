@@ -20,11 +20,6 @@
                 "i": 0, 
                 "p": 0, 
                 "us": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "p": false, 
-                "us": false
             }
         }
     }, 
@@ -748,7 +743,15 @@
                                                                     "element_id": 13934346250012, 
                                                                     "enable": true, 
                                                                     "fake_op": [], 
+                                                                    "local_var": [
+                                                                        {}, 
+                                                                        {}
+                                                                    ], 
                                                                     "op_arg": [
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
                                                                         null, 
                                                                         null, 
                                                                         null, 
@@ -763,6 +766,10 @@
                                                                         null
                                                                     ], 
                                                                     "op_arg_enable": [
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
                                                                         false, 
                                                                         false, 
                                                                         false, 
@@ -889,11 +896,5 @@
         "\u62c9\u56de\u65f6\u95f4": 0, 
         "\u62c9\u56de\u6765\u7684\u5355\u4f4d": 0, 
         "\u989d\u5916\u8ddd\u79bb": 0
-    }, 
-    "variable_type_dict": {
-        "\u56de\u62c9\u70b9": false, 
-        "\u62c9\u56de\u65f6\u95f4": false, 
-        "\u62c9\u56de\u6765\u7684\u5355\u4f4d": false, 
-        "\u989d\u5916\u8ddd\u79bb": false
     }
 }

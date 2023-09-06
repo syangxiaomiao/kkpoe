@@ -10,10 +10,6 @@
             "variable_length_dict": {
                 "\u51b7\u53741": 0, 
                 "\u51b7\u53742": 0
-            }, 
-            "variable_type_dict": {
-                "\u51b7\u53741": false, 
-                "\u51b7\u53742": false
             }
         }, 
         "1984061441": {
@@ -27,10 +23,6 @@
             "variable_length_dict": {
                 "\u51b7\u53741": 0, 
                 "\u51b7\u53742": 0
-            }, 
-            "variable_type_dict": {
-                "\u51b7\u53741": false, 
-                "\u51b7\u53742": false
             }
         }
     }, 
@@ -1883,11 +1875,5 @@
         "\u6280\u80fd\u8303\u56f4": 0, 
         "\u653b\u51fb\u529b": 0, 
         "\u751f\u547d\u4e0a\u9650": 0
-    }, 
-    "variable_type_dict": {
-        "eff": false, 
-        "\u6280\u80fd\u8303\u56f4": false, 
-        "\u653b\u51fb\u529b": false, 
-        "\u751f\u547d\u4e0a\u9650": false
     }
 }

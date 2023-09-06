@@ -83,6 +83,7 @@
     "description": -545435836, 
     "destroy_after_die": true, 
     "die_anim": "die", 
+    "disk_shadow_size": 1, 
     "dmg_reduction": 0.0, 
     "dmg_reduction_grow": 0.0, 
     "dodge_rate": 0.0, 
@@ -114,6 +115,7 @@
     "healing_effect": 0, 
     "healing_effect_grow": 0, 
     "height_num": -1, 
+    "height_offset": 0, 
     "hero_ability_list": {
         "__tuple__": true, 
         "items": []
@@ -132,6 +134,7 @@
     "is_apply_role_color": false, 
     "is_mini_map_show": false, 
     "is_open_Xray": false, 
+    "is_open_disk_shadow": false, 
     "is_open_outline_pass": false, 
     "is_shop": false, 
     "is_x_offset": false, 
@@ -283,5 +286,6 @@
     "vision_true": 0.0, 
     "vision_true_grow": 0, 
     "walk_anim": "walk", 
-    "width_num": -1
+    "width_num": -1, 
+    "width_offset": 0
 }

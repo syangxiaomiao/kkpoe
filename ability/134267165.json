@@ -30,14 +30,6 @@
                 "tsw": 0, 
                 "\u6d41\u706b": 0, 
                 "\u9b54\u6cd5\u6548\u679c": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "p": false, 
-                "time": false, 
-                "tsw": false, 
-                "\u6d41\u706b": false, 
-                "\u9b54\u6cd5\u6548\u679c": false
             }
         }
     }, 
@@ -386,8 +378,5 @@
     ], 
     "variable_length_dict": {
         "\u6d41\u706b\u5751": 0
-    }, 
-    "variable_type_dict": {
-        "\u6d41\u706b\u5751": false
     }
 }

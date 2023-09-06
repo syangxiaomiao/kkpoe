@@ -626,12 +626,5 @@
         "U": 0, 
         "halo": 0, 
         "immuneControl?": 0
-    }, 
-    "variable_type_dict": {
-        "Tr_immCon": false, 
-        "Tr_immCon_2": false, 
-        "U": false, 
-        "halo": false, 
-        "immuneControl?": false
     }
 }

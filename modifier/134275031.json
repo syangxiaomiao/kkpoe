@@ -241,9 +241,5 @@
     "variable_length_dict": {
         "\u51cf\u901f\u5e45\u5ea6": 0, 
         "\u964d\u4f4e\u503c": 0
-    }, 
-    "variable_type_dict": {
-        "\u51cf\u901f\u5e45\u5ea6": false, 
-        "\u964d\u4f4e\u503c": false
     }
 }

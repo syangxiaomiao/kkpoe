@@ -1,0 +1,166 @@
+{
+    "local_variable": {
+        "45060098": {
+            "variable_dict": {
+                "ANGLE": {}, 
+                "FLOAT": {
+                    "damage": 0.0
+                }, 
+                "INTEGER": {}, 
+                "PROJECTILE_ENTITY": {}, 
+                "UNIT_ENTITY": {
+                    "targetUnit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "damage": 0, 
+                "targetUnit": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "45060098": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100076, 
+                            "args_list": [
+                                [
+                                    "MODIFIER_ENTITY", 
+                                    "effect", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": 11
+                        }, 
+                        {
+                            "arg_type": 100076, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "ABILITY_OWNER"
+                                }, 
+                                {
+                                    "arg_type": 100046, 
+                                    "args_list": [
+                                        134258797
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [
+                                null, 
+                                null, 
+                                null, 
+                                null, 
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                false
+                            ], 
+                            "sub_type": "ADD_MODIFIER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 45060098210025, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 45060098000001, 
+                    "enable": true, 
+                    "event_type": "ABILITY_OBTAIN"
+                }
+            ], 
+            "group_id": 134260892, 
+            "p_trigger_id": null, 
+            "trigger_id": 45060098, 
+            "trigger_name": "trigger_2", 
+            "valid": true
+        }, 
+        "486105090": {
+            "action": [
+                {
+                    "action_type": "REMOVE_BUFF_INS", 
+                    "args_list": [
+                        {
+                            "arg_type": 100076, 
+                            "args_list": [
+                                [
+                                    "MODIFIER_ENTITY", 
+                                    "effect", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": 11
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 45060098210025, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 45060098000001, 
+                    "enable": true, 
+                    "event_type": "ABILITY_LOSE"
+                }
+            ], 
+            "group_id": 134260892, 
+            "p_trigger_id": null, 
+            "trigger_id": 486105090, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    45060098, 
+                    "trigger_2"
+                ], 
+                [
+                    486105090, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134260892, 
+            "name": "134260892"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "MODIFIER_ENTITY": {
+            "effect": 0
+        }, 
+        "POINT": {}
+    }, 
+    "variable_group_info": [
+        [
+            "effect", 
+            "effect"
+        ]
+    ], 
+    "variable_length_dict": {
+        "effect": 0
+    }
+}

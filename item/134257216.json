@@ -1396,11 +1396,5 @@
         "Tr_melee": 0, 
         "Tr_remote": 0, 
         "U": 0
-    }, 
-    "variable_type_dict": {
-        "InCD\uff1f": false, 
-        "Tr_melee": false, 
-        "Tr_remote": false, 
-        "U": false
     }
 }

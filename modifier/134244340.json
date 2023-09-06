@@ -260,9 +260,5 @@
     "variable_length_dict": {
         "\u653b\u51fb\u589e\u52a0": 0, 
         "\u6cbb\u7597\u5668": 0
-    }, 
-    "variable_type_dict": {
-        "\u653b\u51fb\u589e\u52a0": false, 
-        "\u6cbb\u7597\u5668": false
     }
 }

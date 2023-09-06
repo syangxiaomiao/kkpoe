@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }, 
         "1644036097": {
@@ -36,13 +33,6 @@
                 "damage": 0, 
                 "skill": 0, 
                 "\u964d\u4f4e": 0
-            }, 
-            "variable_type_dict": {
-                "AttackTarget": false, 
-                "Projectile": false, 
-                "damage": false, 
-                "skill": false, 
-                "\u964d\u4f4e": false
             }
         }
     }, 
@@ -1696,6 +1686,10 @@
                                     "element_id": 1644036097970588, 
                                     "enable": true, 
                                     "fake_op": [], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -1726,6 +1720,13 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -1736,6 +1737,13 @@
                                         false, 
                                         false, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -1843,13 +1851,5 @@
         "\u5f39\u9053": 0, 
         "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "j": false, 
-        "\u52a8\u4f5c\u901f\u7387": false, 
-        "\u5f39\u9053": false, 
-        "\u666e\u653b\u52a8\u4f5c": false, 
-        "\u66b4\u51fb": false
     }
 }

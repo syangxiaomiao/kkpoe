@@ -17,11 +17,6 @@
                 "missile": 0, 
                 "target": 0, 
                 "tips effect": 0
-            }, 
-            "variable_type_dict": {
-                "missile": false, 
-                "target": false, 
-                "tips effect": false
             }
         }
     }, 
@@ -848,6 +843,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -872,6 +871,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -882,6 +885,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1007,6 +1014,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

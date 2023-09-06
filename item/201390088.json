@@ -615,12 +615,5 @@
         "\u666e\u653b": 0, 
         "\u666e\u653b2": 0, 
         "\u81ea\u7136\u6062\u590d": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u51fb\u6740\u6062\u590d": false, 
-        "\u666e\u653b": false, 
-        "\u666e\u653b2": false, 
-        "\u81ea\u7136\u6062\u590d": false
     }
 }

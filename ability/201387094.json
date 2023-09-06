@@ -310,6 +310,10 @@
                                     "element_id": 1742454786000111, 
                                     "enable": true, 
                                     "fake_op": [], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -352,7 +356,11 @@
                                                 true
                                             ], 
                                             "sub_type": 1
-                                        }
+                                        }, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null
                                     ], 
                                     "op_arg_enable": [
                                         false, 
@@ -360,6 +368,10 @@
                                         false, 
                                         false, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -653,9 +665,5 @@
     "variable_length_dict": {
         "\u7279\u65481": 0, 
         "\u7279\u65482": 0
-    }, 
-    "variable_type_dict": {
-        "\u7279\u65481": false, 
-        "\u7279\u65482": false
     }
 }

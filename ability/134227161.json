@@ -4,8 +4,7 @@
             "variable_dict": {
                 "UNIT_GROUP": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -492,8 +491,5 @@
     ], 
     "variable_length_dict": {
         "modifier": 0
-    }, 
-    "variable_type_dict": {
-        "modifier": false
     }
 }

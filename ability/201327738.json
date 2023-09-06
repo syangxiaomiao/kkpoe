@@ -153,8 +153,5 @@
     ], 
     "variable_length_dict": {
         "bf": 0
-    }, 
-    "variable_type_dict": {
-        "bf": false
     }
 }

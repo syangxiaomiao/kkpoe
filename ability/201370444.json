@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "pro1": 0, 
                 "u": 0
-            }, 
-            "variable_type_dict": {
-                "pro1": false, 
-                "u": false
             }
         }
     }, 
@@ -1138,6 +1134,10 @@
                                                                                     "fake_op": [
                                                                                         9
                                                                                     ], 
+                                                                                    "local_var": [
+                                                                                        {}, 
+                                                                                        {}
+                                                                                    ], 
                                                                                     "op_arg": [
                                                                                         null, 
                                                                                         null, 
@@ -1168,6 +1168,13 @@
                                                                                         null, 
                                                                                         null, 
                                                                                         null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
                                                                                         null
                                                                                     ], 
                                                                                     "op_arg_enable": [
@@ -1178,6 +1185,13 @@
                                                                                         true, 
                                                                                         true, 
                                                                                         true, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
                                                                                         false, 
                                                                                         false, 
                                                                                         false, 
@@ -1234,6 +1248,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1264,6 +1282,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1275,6 +1297,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1365,9 +1391,5 @@
     "variable_length_dict": {
         "atack1": 0, 
         "pro": 0
-    }, 
-    "variable_type_dict": {
-        "atack1": false, 
-        "pro": false
     }
 }

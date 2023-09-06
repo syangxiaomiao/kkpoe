@@ -672,6 +672,10 @@
                     "fake_op": [
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -696,6 +700,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -703,6 +714,13 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -795,12 +813,5 @@
         "td": 0, 
         "\u65a9\u6740": 0, 
         "\u76ee\u6807\u5355\u4f4d\u7ec4": 0
-    }, 
-    "variable_type_dict": {
-        "S": false, 
-        "U": false, 
-        "td": false, 
-        "\u65a9\u6740": false, 
-        "\u76ee\u6807\u5355\u4f4d\u7ec4": false
     }
 }

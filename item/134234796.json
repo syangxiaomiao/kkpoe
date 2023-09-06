@@ -401,11 +401,5 @@
         "Tr_rebouDam": 0, 
         "U": 0, 
         "dq": 0
-    }, 
-    "variable_type_dict": {
-        "CD": false, 
-        "Tr_rebouDam": false, 
-        "U": false, 
-        "dq": false
     }
 }

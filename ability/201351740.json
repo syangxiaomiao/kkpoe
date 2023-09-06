@@ -621,6 +621,10 @@
                                     "fake_op": [
                                         9
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -645,6 +649,13 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -655,6 +666,13 @@
                                         false, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -886,6 +904,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -916,6 +938,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -927,6 +953,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -985,8 +1015,5 @@
     ], 
     "variable_length_dict": {
         "Ability effect": 0
-    }, 
-    "variable_type_dict": {
-        "Ability effect": false
     }
 }

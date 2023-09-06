@@ -4,8 +4,7 @@
             "variable_dict": {
                 "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -582,10 +581,5 @@
         "cnt": 0, 
         "trg": 0, 
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "cnt": false, 
-        "trg": false, 
-        "tx": false
     }
 }

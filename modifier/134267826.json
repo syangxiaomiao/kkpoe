@@ -4,8 +4,7 @@
             "variable_dict": {
                 "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -284,8 +283,5 @@
     ], 
     "variable_length_dict": {
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false
     }
 }

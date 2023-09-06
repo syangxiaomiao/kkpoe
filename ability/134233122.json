@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u89c6\u91ce": 0
-            }, 
-            "variable_type_dict": {
-                "\u89c6\u91ce": false
             }
         }
     }, 
@@ -693,6 +690,10 @@
                     "element_id": 2145366018180080, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -735,7 +736,11 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -743,6 +748,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -832,12 +841,5 @@
         "\u52a0\u901f\u5ea6": 0, 
         "\u7ea2\u7eff\u5708": 0, 
         "\u8ddd\u79bb": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "pro": false, 
-        "\u52a0\u901f\u5ea6": false, 
-        "\u7ea2\u7eff\u5708": false, 
-        "\u8ddd\u79bb": false
     }
 }

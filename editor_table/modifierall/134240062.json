@@ -45,6 +45,10 @@
         "items": []
     }, 
     "ign_inf_unit_type": 2, 
+    "inf_unit_tag": {
+        "__tuple__": true, 
+        "items": []
+    }, 
     "influence_rng": 0, 
     "is_influence_self": true, 
     "key": 134240062, 

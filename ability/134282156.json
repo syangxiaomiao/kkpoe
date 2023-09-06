@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u79fb\u901f": 0
-            }, 
-            "variable_type_dict": {
-                "\u79fb\u901f": false
             }
         }
     }, 
@@ -330,7 +327,18 @@
                     "element_id": 16713809930062, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null, 
                         null, 
                         null, 
@@ -345,6 +353,13 @@
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -479,9 +494,5 @@
     "variable_length_dict": {
         "U": 0, 
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "tx": false
     }
 }

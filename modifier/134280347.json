@@ -4,8 +4,7 @@
             "variable_dict": {
                 "NEW_TIMER": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -350,8 +349,5 @@
     ], 
     "variable_length_dict": {
         "t1": 0
-    }, 
-    "variable_type_dict": {
-        "t1": false
     }
 }

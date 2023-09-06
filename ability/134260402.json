@@ -4,8 +4,7 @@
             "variable_dict": {
                 "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -684,11 +683,5 @@
         "skill1": 0, 
         "skill2": 0, 
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "owner": false, 
-        "skill1": false, 
-        "skill2": false, 
-        "trigger": false
     }
 }

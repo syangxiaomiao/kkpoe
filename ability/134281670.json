@@ -28,13 +28,6 @@
                 "pro": 0, 
                 "timer": 0, 
                 "tragets": 0
-            }, 
-            "variable_type_dict": {
-                "center": false, 
-                "point": false, 
-                "pro": false, 
-                "timer": false, 
-                "tragets": false
             }
         }
     }, 
@@ -1066,6 +1059,10 @@
                                                                                     "element_id": 18282823700016, 
                                                                                     "enable": true, 
                                                                                     "fake_op": [], 
+                                                                                    "local_var": [
+                                                                                        {}, 
+                                                                                        {}
+                                                                                    ], 
                                                                                     "op_arg": [
                                                                                         null, 
                                                                                         null, 
@@ -1084,12 +1081,26 @@
                                                                                         null, 
                                                                                         null, 
                                                                                         null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
                                                                                         null
                                                                                     ], 
                                                                                     "op_arg_enable": [
                                                                                         false, 
                                                                                         false, 
                                                                                         true, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
                                                                                         false, 
                                                                                         false, 
                                                                                         false, 
@@ -1327,10 +1338,5 @@
         "loop": 0, 
         "\u52a0\u901f\u503c": 0, 
         "\u83b2\u82b1\u9a6c\u7532": 0
-    }, 
-    "variable_type_dict": {
-        "loop": false, 
-        "\u52a0\u901f\u503c": false, 
-        "\u83b2\u82b1\u9a6c\u7532": false
     }
 }

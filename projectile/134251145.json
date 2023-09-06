@@ -9,9 +9,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }
     }, 
@@ -789,6 +786,10 @@
                                                                                                                     "element_id": 1877684225900136, 
                                                                                                                     "enable": true, 
                                                                                                                     "fake_op": [], 
+                                                                                                                    "local_var": [
+                                                                                                                        {}, 
+                                                                                                                        {}
+                                                                                                                    ], 
                                                                                                                     "op_arg": [
                                                                                                                         null, 
                                                                                                                         null, 
@@ -825,9 +826,17 @@
                                                                                                                                 true
                                                                                                                             ], 
                                                                                                                             "sub_type": 1
-                                                                                                                        }
+                                                                                                                        }, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null
                                                                                                                     ], 
                                                                                                                     "op_arg_enable": [
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
                                                                                                                         false, 
                                                                                                                         false, 
                                                                                                                         false, 
@@ -1402,13 +1411,5 @@
         "timer2": 0, 
         "trigger": 0, 
         "unit": 0
-    }, 
-    "variable_type_dict": {
-        "new_point": false, 
-        "pro": false, 
-        "timer1": false, 
-        "timer2": false, 
-        "trigger": false, 
-        "unit": false
     }
 }

@@ -325,8 +325,5 @@
     ], 
     "variable_length_dict": {
         "effect": 0
-    }, 
-    "variable_type_dict": {
-        "effect": false
     }
 }

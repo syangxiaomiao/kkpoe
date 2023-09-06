@@ -358,9 +358,5 @@
     "variable_length_dict": {
         "3s\u5185\u6709\u65e0\u62a4\u76fe": 0, 
         "\u62a4\u76fe": 0
-    }, 
-    "variable_type_dict": {
-        "3s\u5185\u6709\u65e0\u62a4\u76fe": false, 
-        "\u62a4\u76fe": false
     }
 }

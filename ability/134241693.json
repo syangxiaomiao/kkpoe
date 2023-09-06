@@ -26,12 +26,6 @@
                 "new_point": 0, 
                 "point": 0, 
                 "u": 0
-            }, 
-            "variable_type_dict": {
-                "hits": false, 
-                "new_point": false, 
-                "point": false, 
-                "u": false
             }
         }
     }, 
@@ -396,7 +390,15 @@
                     "fake_op": [
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null, 
                         null, 
                         null, 
@@ -411,6 +413,10 @@
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1237,6 +1243,10 @@
                                                         7, 
                                                         8
                                                     ], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -1267,6 +1277,10 @@
                                                             "sub_type": 1
                                                         }, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -1280,6 +1294,10 @@
                                                         false, 
                                                         false, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false
                                                     ]
@@ -1311,6 +1329,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1335,6 +1357,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1345,6 +1371,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1402,8 +1432,5 @@
     ], 
     "variable_length_dict": {
         "pro": 0
-    }, 
-    "variable_type_dict": {
-        "pro": false
     }
 }

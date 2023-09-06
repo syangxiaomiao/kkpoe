@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }
     }, 
@@ -225,12 +222,5 @@
         "total_hero_dmg": 0, 
         "total_unit_dmg": 0, 
         "unit_dmg_count": 0
-    }, 
-    "variable_type_dict": {
-        "hero_dmg_count": false, 
-        "recover_num": false, 
-        "total_hero_dmg": false, 
-        "total_unit_dmg": false, 
-        "unit_dmg_count": false
     }
 }

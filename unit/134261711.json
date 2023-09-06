@@ -664,9 +664,5 @@
     "variable_length_dict": {
         "U": 0, 
         "XJ": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "XJ": false
     }
 }

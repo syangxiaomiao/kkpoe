@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "tsw": 0
-            }, 
-            "variable_type_dict": {
-                "tsw": false
             }
         }, 
         "774381570": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "tsw": 0
-            }, 
-            "variable_type_dict": {
-                "tsw": false
             }
         }, 
         "1881780228": {
@@ -34,9 +28,6 @@
             }, 
             "variable_length_dict": {
                 "tsw": 0
-            }, 
-            "variable_type_dict": {
-                "tsw": false
             }
         }
     }, 
@@ -335,6 +326,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -389,7 +384,11 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -399,6 +398,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -718,6 +721,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -772,7 +779,11 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -782,6 +793,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1176,6 +1191,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1230,7 +1249,11 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -1240,6 +1263,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1801,10 +1828,5 @@
         "timer": 0, 
         "tx": 0, 
         "\u97f3\u6548": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false, 
-        "tx": false, 
-        "\u97f3\u6548": false
     }
 }

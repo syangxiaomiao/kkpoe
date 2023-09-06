@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u8718\u86db": 0
-            }, 
-            "variable_type_dict": {
-                "\u8718\u86db": false
             }
         }
     }, 
@@ -389,9 +386,5 @@
     "variable_length_dict": {
         "BoomTimer": 0, 
         "Spider": 0
-    }, 
-    "variable_type_dict": {
-        "BoomTimer": false, 
-        "Spider": false
     }
 }

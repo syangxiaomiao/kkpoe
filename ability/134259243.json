@@ -8,13 +8,13 @@
                 }, 
                 "INTEGER": {}, 
                 "PROJECTILE_ENTITY": {}, 
-                "UNIT_ENTITY": {}
+                "UNIT_ENTITY": {
+                    "targetUnit": 0
+                }
             }, 
             "variable_length_dict": {
-                "damage": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false
+                "damage": 0, 
+                "targetUnit": 0
             }
         }
     }, 
@@ -363,6 +363,39 @@
                                     "call_rt_arg_idxes": [], 
                                     "element_id": 45060098000060, 
                                     "enable": true
+                                }, 
+                                {
+                                    "action_type": "CALL_TRIGGER_FUNC", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100177, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100006, 
+                                                    "args_list": [], 
+                                                    "sub_type": "ABILITY_OWNER"
+                                                }, 
+                                                {
+                                                    "arg_type": 100004, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100006, 
+                                                            "args_list": [], 
+                                                            "sub_type": "FOR_EACH_SELECTED_UNIT"
+                                                        }
+                                                    ], 
+                                                    "sub_type": "UNIT_ENTITY_POINT"
+                                                }
+                                            ], 
+                                            "op_arg": [], 
+                                            "op_arg_enable": [], 
+                                            "sub_type": "5740afc0197111eea6efb42e9966aa19"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "call_rt_arg_idxes": [], 
+                                    "element_id": 300593153971016, 
+                                    "enable": true
                                 }
                             ], 
                             "sub_type": 1
@@ -412,6 +445,5 @@
         "UNIT_GROUP": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

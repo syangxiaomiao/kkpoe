@@ -369,10 +369,5 @@
         "attack": 0, 
         "imba\u91ca\u653e\u8303\u56f4": 0, 
         "speed": 0
-    }, 
-    "variable_type_dict": {
-        "attack": false, 
-        "imba\u91ca\u653e\u8303\u56f4": false, 
-        "speed": false
     }
 }

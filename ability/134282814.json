@@ -16,10 +16,6 @@
             "variable_length_dict": {
                 "e": 0, 
                 "p": 0
-            }, 
-            "variable_type_dict": {
-                "e": false, 
-                "p": false
             }
         }
     }, 
@@ -586,7 +582,15 @@
                                     "fake_op": [
                                         7
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null, 
                                         null, 
                                         null, 
@@ -601,6 +605,10 @@
                                         null
                                     ], 
                                     "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -949,8 +957,5 @@
     ], 
     "variable_length_dict": {
         "\u76ee\u6807": 0
-    }, 
-    "variable_type_dict": {
-        "\u76ee\u6807": false
     }
 }

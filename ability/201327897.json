@@ -36,16 +36,6 @@
                 "OntologySequence": 0, 
                 "angleOffset": 0, 
                 "\u5faa\u73af": 0
-            }, 
-            "variable_type_dict": {
-                "CenterPoint": false, 
-                "CreatePosition": false, 
-                "LoopTimes": false, 
-                "MirrorUnit": false, 
-                "MirrorsNum": false, 
-                "OntologySequence": false, 
-                "angleOffset": false, 
-                "\u5faa\u73af": false
             }
         }
     }, 
@@ -1109,6 +1099,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

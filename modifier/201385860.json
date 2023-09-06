@@ -195,8 +195,5 @@
     ], 
     "variable_length_dict": {
         "trg": 0
-    }, 
-    "variable_type_dict": {
-        "trg": false
     }
 }

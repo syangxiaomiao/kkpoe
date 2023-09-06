@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "e": 0
-            }, 
-            "variable_type_dict": {
-                "e": false
             }
         }
     }, 
@@ -798,6 +795,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -828,6 +829,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -838,6 +846,13 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1252,9 +1267,5 @@
     "variable_length_dict": {
         "\u4f24\u5bb3\u6570": 0, 
         "\u7981\u7528\u5668": 0
-    }, 
-    "variable_type_dict": {
-        "\u4f24\u5bb3\u6570": false, 
-        "\u7981\u7528\u5668": false
     }
 }

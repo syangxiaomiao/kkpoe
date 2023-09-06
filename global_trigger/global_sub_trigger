@@ -517,14 +517,14 @@
                     {
                         "arg_type": 100001, 
                         "args_list": [
-                            true
+                            false
                         ], 
                         "sub_type": 1
                     }
                 ], 
                 "bp": false, 
                 "element_id": 120717378000119, 
-                "enable": false
+                "enable": true
             }, 
             {
                 "action_type": "NEW_CAMERA_SET_FOLLOW_UNIT", 
@@ -656,6 +656,33 @@
                 ], 
                 "bp": false, 
                 "element_id": 120717378000070, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_ENTITY_KV", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [], 
+                        "sub_type": "TRIGGER_PLAYER"
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "range_add"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            0.0
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 120717378000179, 
                 "enable": true
             }, 
             {
@@ -2760,7 +2787,7 @@
                                         "sub_type": 1
                                     }
                                 ], 
-                                "bp": true, 
+                                "bp": false, 
                                 "element_id": 1644826689000003, 
                                 "enable": true
                             }
@@ -2793,7 +2820,7 @@
                                         "sub_type": 1
                                     }
                                 ], 
-                                "bp": true, 
+                                "bp": false, 
                                 "element_id": 1644826689000004, 
                                 "enable": true
                             }
@@ -4410,7 +4437,7 @@
                                         "sub_type": 1
                                     }
                                 ], 
-                                "bp": true, 
+                                "bp": false, 
                                 "element_id": 1997144128000003, 
                                 "enable": true
                             }
@@ -4443,7 +4470,7 @@
                                         "sub_type": 1
                                     }
                                 ], 
-                                "bp": true, 
+                                "bp": false, 
                                 "element_id": 1997144128000004, 
                                 "enable": true
                             }
@@ -5035,7 +5062,7 @@
                                         "sub_type": 1
                                     }
                                 ], 
-                                "bp": true, 
+                                "bp": false, 
                                 "element_id": 2077753406000310, 
                                 "enable": true
                             }
@@ -5068,7 +5095,7 @@
                                         "sub_type": 1
                                     }
                                 ], 
-                                "bp": true, 
+                                "bp": false, 
                                 "element_id": 2077753406000347, 
                                 "enable": true
                             }

@@ -294,8 +294,5 @@
     ], 
     "variable_length_dict": {
         "dq": 0
-    }, 
-    "variable_type_dict": {
-        "dq": false
     }
 }

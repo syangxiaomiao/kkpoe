@@ -13,10 +13,6 @@
             "variable_length_dict": {
                 "Ability effect": 0, 
                 "\u653b\u51fb\u76ee\u6807": 0
-            }, 
-            "variable_type_dict": {
-                "Ability effect": false, 
-                "\u653b\u51fb\u76ee\u6807": false
             }
         }
     }, 
@@ -728,8 +724,5 @@
     ], 
     "variable_length_dict": {
         "n": 0
-    }, 
-    "variable_type_dict": {
-        "n": false
     }
 }

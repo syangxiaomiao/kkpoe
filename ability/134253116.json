@@ -32,14 +32,6 @@
                 "special": 10, 
                 "target": 0, 
                 "\u65b0\u70b9": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "attack_ability": false, 
-                "damage": false, 
-                "special": true, 
-                "target": false, 
-                "\u65b0\u70b9": false
             }
         }, 
         "1424609281": {
@@ -50,9 +42,6 @@
             }, 
             "variable_length_dict": {
                 "special": 0
-            }, 
-            "variable_type_dict": {
-                "special": false
             }
         }
     }, 
@@ -1287,10 +1276,5 @@
         "i": 0, 
         "knife": 0, 
         "knife_2": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "knife": false, 
-        "knife_2": false
     }
 }

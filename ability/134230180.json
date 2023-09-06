@@ -16,11 +16,6 @@
                 "index": 0, 
                 "pro": 0, 
                 "weapon_skill": 0
-            }, 
-            "variable_type_dict": {
-                "index": false, 
-                "pro": false, 
-                "weapon_skill": false
             }
         }
     }, 
@@ -2656,6 +2651,10 @@
                                     "fake_op": [
                                         9
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -2686,6 +2685,10 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -2696,6 +2699,10 @@
                                         false, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -4648,16 +4655,5 @@
         "wait": 0, 
         "wait_timer": 0, 
         "\u51b7\u5374\u7f29\u51cf": 0
-    }, 
-    "variable_type_dict": {
-        "bullet_buff": false, 
-        "bullet_count": false, 
-        "bullet_timer": false, 
-        "cur_interval": false, 
-        "index_timer": false, 
-        "time_index": false, 
-        "wait": false, 
-        "wait_timer": false, 
-        "\u51b7\u5374\u7f29\u51cf": false
     }
 }

@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "u": 0
-            }, 
-            "variable_type_dict": {
-                "u": false
             }
         }
     }, 
@@ -927,7 +924,15 @@
                     "element_id": 13460111380057, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null, 
                         null, 
                         null, 
@@ -942,6 +947,10 @@
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1176,11 +1185,5 @@
         "distance": 0, 
         "pro": 0, 
         "start_effect": 0
-    }, 
-    "variable_type_dict": {
-        "dir": false, 
-        "distance": false, 
-        "pro": false, 
-        "start_effect": false
     }
 }

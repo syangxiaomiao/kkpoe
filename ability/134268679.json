@@ -11,10 +11,6 @@
             "variable_length_dict": {
                 "hp_percent": 0, 
                 "mp_percent": 0
-            }, 
-            "variable_type_dict": {
-                "hp_percent": false, 
-                "mp_percent": false
             }
         }, 
         "1124290564": {
@@ -27,10 +23,6 @@
             "variable_length_dict": {
                 "hp_percent": 0, 
                 "mp_percent": 0
-            }, 
-            "variable_type_dict": {
-                "hp_percent": false, 
-                "mp_percent": false
             }
         }
     }, 
@@ -2053,10 +2045,5 @@
         "timer": 0, 
         "\u51b7\u5374\u7f29\u51cf": 0, 
         "\u8303\u56f4": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false, 
-        "\u51b7\u5374\u7f29\u51cf": false, 
-        "\u8303\u56f4": false
     }
 }

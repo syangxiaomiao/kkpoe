@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "U": 0
-            }, 
-            "variable_type_dict": {
-                "U": false
             }
         }
     }, 
@@ -189,8 +186,5 @@
     ], 
     "variable_length_dict": {
         "\u6218\u795e": 0
-    }, 
-    "variable_type_dict": {
-        "\u6218\u795e": false
     }
 }

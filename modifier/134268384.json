@@ -311,8 +311,5 @@
     ], 
     "variable_length_dict": {
         "\u53d8\u5316\u503c": 0
-    }, 
-    "variable_type_dict": {
-        "\u53d8\u5316\u503c": false
     }
 }

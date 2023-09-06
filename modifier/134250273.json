@@ -13,10 +13,6 @@
             "variable_length_dict": {
                 "i": 0, 
                 "mf": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "mf": false
             }
         }, 
         "1637384195": {
@@ -27,9 +23,6 @@
             }, 
             "variable_length_dict": {
                 "u": 0
-            }, 
-            "variable_type_dict": {
-                "u": false
             }
         }
     }, 
@@ -1331,11 +1324,5 @@
         "\u4fee\u6539\u52a8\u4f5c": 0, 
         "\u51cf\u5c11\u5c42\u6570": 0, 
         "\u5c42\u6570": 0
-    }, 
-    "variable_type_dict": {
-        "t": false, 
-        "\u4fee\u6539\u52a8\u4f5c": false, 
-        "\u51cf\u5c11\u5c42\u6570": false, 
-        "\u5c42\u6570": false
     }
 }

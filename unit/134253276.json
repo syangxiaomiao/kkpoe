@@ -14,10 +14,6 @@
             "variable_length_dict": {
                 "trigger": 0, 
                 "\u53cb\u65b9\u5355\u4f4d": 0
-            }, 
-            "variable_type_dict": {
-                "trigger": false, 
-                "\u53cb\u65b9\u5355\u4f4d": false
             }
         }
     }, 
@@ -1593,13 +1589,5 @@
         "triggers": 10, 
         "\u53cb\u65b9\u82f1\u96c4\u4eec": 0, 
         "\u627f\u53d7\u4f24\u5bb3\u4e0a\u9650": 0
-    }, 
-    "variable_type_dict": {
-        "effect": false, 
-        "index": false, 
-        "timer": false, 
-        "triggers": true, 
-        "\u53cb\u65b9\u82f1\u96c4\u4eec": false, 
-        "\u627f\u53d7\u4f24\u5bb3\u4e0a\u9650": false
     }
 }

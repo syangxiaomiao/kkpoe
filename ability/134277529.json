@@ -22,13 +22,6 @@
                 "\u5f39\u9053": 0, 
                 "\u7b2c\u4e00\u6b21": 0, 
                 "\u89d2\u5ea6": 0
-            }, 
-            "variable_type_dict": {
-                "Projectile": false, 
-                "i": false, 
-                "\u5f39\u9053": false, 
-                "\u7b2c\u4e00\u6b21": false, 
-                "\u89d2\u5ea6": false
             }
         }
     }, 
@@ -1043,6 +1036,10 @@
                                                     "fake_op": [
                                                         9
                                                     ], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -1073,6 +1070,10 @@
                                                         null, 
                                                         null, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -1084,6 +1085,10 @@
                                                         true, 
                                                         true, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false, 
                                                         false, 
@@ -1437,8 +1442,5 @@
     ], 
     "variable_length_dict": {
         "\u5f39\u9053": 0
-    }, 
-    "variable_type_dict": {
-        "\u5f39\u9053": false
     }
 }

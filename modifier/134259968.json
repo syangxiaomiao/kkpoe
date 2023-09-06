@@ -649,10 +649,5 @@
         "TX": 0, 
         "U": 0, 
         "\u6218\u795e": 0
-    }, 
-    "variable_type_dict": {
-        "TX": false, 
-        "U": false, 
-        "\u6218\u795e": false
     }
 }

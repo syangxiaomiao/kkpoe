@@ -536,10 +536,5 @@
         "p": 0, 
         "tx": 0, 
         "tx1": 0
-    }, 
-    "variable_type_dict": {
-        "p": false, 
-        "tx": false, 
-        "tx1": false
     }
 }

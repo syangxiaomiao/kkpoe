@@ -986,10 +986,5 @@
         "test": 0, 
         "\u71d5\u4ebaon": 0, 
         "\u71d5\u4eba\u8840\u8109": 0
-    }, 
-    "variable_type_dict": {
-        "test": false, 
-        "\u71d5\u4ebaon": false, 
-        "\u71d5\u4eba\u8840\u8109": false
     }
 }

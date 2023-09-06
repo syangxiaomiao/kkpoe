@@ -14,11 +14,6 @@
                 "other": 0, 
                 "skill": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "other": false, 
-                "skill": false, 
-                "target": false
             }
         }
     }, 
@@ -1002,6 +997,5 @@
         "ABILITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

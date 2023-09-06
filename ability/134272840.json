@@ -4,8 +4,7 @@
             "variable_dict": {
                 "BOOLEAN": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }, 
         "1601527810": {
             "variable_dict": {
@@ -15,9 +14,6 @@
             }, 
             "variable_length_dict": {
                 "isDie": 0
-            }, 
-            "variable_type_dict": {
-                "isDie": false
             }
         }
     }, 
@@ -1640,9 +1636,5 @@
     "variable_length_dict": {
         "trigger": 0, 
         "wepon_skill": 0
-    }, 
-    "variable_type_dict": {
-        "trigger": false, 
-        "wepon_skill": false
     }
 }

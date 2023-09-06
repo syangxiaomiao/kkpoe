@@ -568,10 +568,5 @@
         "count": 0, 
         "modifier": 0, 
         "weapon_skill": 0
-    }, 
-    "variable_type_dict": {
-        "count": false, 
-        "modifier": false, 
-        "weapon_skill": false
     }
 }

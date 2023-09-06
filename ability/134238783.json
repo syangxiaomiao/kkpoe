@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "l": 0
-            }, 
-            "variable_type_dict": {
-                "l": false
             }
         }, 
         "1220173825": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "l": 0
-            }, 
-            "variable_type_dict": {
-                "l": false
             }
         }
     }, 
@@ -1489,8 +1483,5 @@
     ], 
     "variable_length_dict": {
         "\u51cfcd": 0
-    }, 
-    "variable_type_dict": {
-        "\u51cfcd": false
     }
 }

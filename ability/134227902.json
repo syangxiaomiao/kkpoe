@@ -13,10 +13,6 @@
             "variable_length_dict": {
                 "i": 0, 
                 "point": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "point": false
             }
         }
     }, 
@@ -1200,10 +1196,5 @@
         "p": 0, 
         "\u504f\u79fb\u8ddd\u79bb": 0, 
         "\u5f39\u9053\u6570\u91cf": 0
-    }, 
-    "variable_type_dict": {
-        "p": false, 
-        "\u504f\u79fb\u8ddd\u79bb": false, 
-        "\u5f39\u9053\u6570\u91cf": false
     }
 }

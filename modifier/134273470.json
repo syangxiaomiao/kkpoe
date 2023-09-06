@@ -115,6 +115,10 @@
                     "element_id": 4025057290005, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -145,6 +149,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -153,6 +161,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -271,8 +283,5 @@
     ], 
     "variable_length_dict": {
         "test": 0
-    }, 
-    "variable_type_dict": {
-        "test": false
     }
 }

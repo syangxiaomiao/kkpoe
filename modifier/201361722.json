@@ -212,8 +212,5 @@
     ], 
     "variable_length_dict": {
         "mv_spd": 0
-    }, 
-    "variable_type_dict": {
-        "mv_spd": false
     }
 }

@@ -46,20 +46,6 @@
                 "SecondSkill": 0, 
                 "Skill": 0, 
                 "StartPoint": 0
-            }, 
-            "variable_type_dict": {
-                "Bullet": false, 
-                "BulletSpeed": false, 
-                "BulletTrajectory": false, 
-                "Caster": false, 
-                "CollisionTarget": false, 
-                "CurDistance": false, 
-                "Direction": false, 
-                "IsHurtHero": false, 
-                "MaxDistance": false, 
-                "SecondSkill": false, 
-                "Skill": false, 
-                "StartPoint": false
             }
         }
     }, 
@@ -3173,6 +3159,10 @@
                         6, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -3221,6 +3211,10 @@
                             ], 
                             "sub_type": "GET_INTEGER_KV"
                         }, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -3235,6 +3229,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false
                     ]
                 }
@@ -4397,8 +4395,5 @@
     ], 
     "variable_length_dict": {
         "SoulOrb": 0
-    }, 
-    "variable_type_dict": {
-        "SoulOrb": false
     }
 }

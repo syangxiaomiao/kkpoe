@@ -40,16 +40,6 @@
                 "\u4f24\u5bb3": 0, 
                 "\u51cf\u514d\u9b54\u6cd5": 0, 
                 "\u5206\u8eab\u79fb\u52a8\u8ddd\u79bb": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "i": false, 
-                "skill": false, 
-                "target": false, 
-                "x2": false, 
-                "\u4f24\u5bb3": false, 
-                "\u51cf\u514d\u9b54\u6cd5": false, 
-                "\u5206\u8eab\u79fb\u52a8\u8ddd\u79bb": false
             }
         }
     }, 
@@ -893,6 +883,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -935,6 +929,10 @@
                             ], 
                             "sub_type": 1
                         }, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -946,6 +944,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1237,11 +1239,5 @@
         "sfx": 0, 
         "\u4fbf\u5b9c\u89d2\u5ea6": 0, 
         "\u5f53\u524d\u89d2\u5ea6": 0
-    }, 
-    "variable_type_dict": {
-        "n": false, 
-        "sfx": false, 
-        "\u4fbf\u5b9c\u89d2\u5ea6": false, 
-        "\u5f53\u524d\u89d2\u5ea6": false
     }
 }

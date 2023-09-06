@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "weapon_skill": 0, 
                 "\u904d\u5386\u8303\u56f4": 0
-            }, 
-            "variable_type_dict": {
-                "weapon_skill": false, 
-                "\u904d\u5386\u8303\u56f4": false
             }
         }
     }, 
@@ -621,6 +617,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

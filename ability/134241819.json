@@ -23,11 +23,6 @@
                 "i": 0, 
                 "p": 0, 
                 "\u8150\u8680\u70b9": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "p": false, 
-                "\u8150\u8680\u70b9": false
             }
         }
     }, 
@@ -899,6 +894,10 @@
                         6, 
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -929,7 +928,14 @@
                                 0.0
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -943,6 +949,13 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false
                     ]
                 }, 
@@ -1038,10 +1051,5 @@
         "\u6295\u5c04\u7269": 0, 
         "\u76ee\u6807": 0, 
         "\u8352\u829c": 0
-    }, 
-    "variable_type_dict": {
-        "\u6295\u5c04\u7269": false, 
-        "\u76ee\u6807": false, 
-        "\u8352\u829c": false
     }
 }

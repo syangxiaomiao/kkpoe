@@ -14,19 +14,13 @@
                 "i": 0, 
                 "lv": 0, 
                 "point": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "lv": false, 
-                "point": false
             }
         }, 
         "1896697858": {
             "variable_dict": {
                 "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -721,10 +715,5 @@
         "\u504f\u79fb\u8ddd\u79bb": 0, 
         "\u5f39\u9053\u6570\u91cf": 0, 
         "\u706b\u7130\u96e8": 0
-    }, 
-    "variable_type_dict": {
-        "\u504f\u79fb\u8ddd\u79bb": false, 
-        "\u5f39\u9053\u6570\u91cf": false, 
-        "\u706b\u7130\u96e8": false
     }
 }

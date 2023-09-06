@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "count": 0, 
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "count": false, 
-                "skill": false
             }
         }
     }, 
@@ -630,8 +626,5 @@
     ], 
     "variable_length_dict": {
         "skill": 0
-    }, 
-    "variable_type_dict": {
-        "skill": false
     }
 }

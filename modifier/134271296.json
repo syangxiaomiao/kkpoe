@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "e": 0
-            }, 
-            "variable_type_dict": {
-                "e": false
             }
         }
     }, 
@@ -170,8 +167,5 @@
     ], 
     "variable_length_dict": {
         "fx": 0
-    }, 
-    "variable_type_dict": {
-        "fx": false
     }
 }

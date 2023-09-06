@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u5f3a\u5316": 0
-            }, 
-            "variable_type_dict": {
-                "\u5f3a\u5316": false
             }
         }
     }, 
@@ -868,13 +865,5 @@
         "\u62a4\u76fe": 0, 
         "\u9b54\u6cd5\u6548\u679c": 0, 
         "\u9b54\u6cd5\u6548\u679c2": 0
-    }, 
-    "variable_type_dict": {
-        "e1": false, 
-        "e2": false, 
-        "\u6295\u5c04\u7269": false, 
-        "\u62a4\u76fe": false, 
-        "\u9b54\u6cd5\u6548\u679c": false, 
-        "\u9b54\u6cd5\u6548\u679c2": false
     }
 }

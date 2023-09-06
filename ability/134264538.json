@@ -395,8 +395,5 @@
     ], 
     "variable_length_dict": {
         "\u5355\u4f4d\u6b7b\u4ea1": 0
-    }, 
-    "variable_type_dict": {
-        "\u5355\u4f4d\u6b7b\u4ea1": false
     }
 }

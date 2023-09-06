@@ -4,15 +4,13 @@
             "variable_dict": {
                 "FLOAT": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }, 
         "1842655233": {
             "variable_dict": {
                 "FLOAT": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -397,8 +395,5 @@
     ], 
     "variable_length_dict": {
         "\u79fb\u901f": 0
-    }, 
-    "variable_type_dict": {
-        "\u79fb\u901f": false
     }
 }

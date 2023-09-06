@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }
     }, 
@@ -369,8 +366,5 @@
     ], 
     "variable_length_dict": {
         "dd": 0
-    }, 
-    "variable_type_dict": {
-        "dd": false
     }
 }

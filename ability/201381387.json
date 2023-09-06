@@ -924,9 +924,5 @@
     "variable_length_dict": {
         "scale": 0, 
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "scale": false, 
-        "tx": false
     }
 }

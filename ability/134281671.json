@@ -19,12 +19,6 @@
                 "p": 0, 
                 "t": 0, 
                 "\u6bd4\u4f8b": 0
-            }, 
-            "variable_type_dict": {
-                "d": false, 
-                "p": false, 
-                "t": false, 
-                "\u6bd4\u4f8b": false
             }
         }, 
         "836907009": {
@@ -35,9 +29,6 @@
             }, 
             "variable_length_dict": {
                 "g": 0
-            }, 
-            "variable_type_dict": {
-                "g": false
             }
         }, 
         "1401729030": {
@@ -48,9 +39,6 @@
             }, 
             "variable_length_dict": {
                 "p": 0
-            }, 
-            "variable_type_dict": {
-                "p": false
             }
         }
     }, 
@@ -4112,7 +4100,18 @@
                                                                         6, 
                                                                         7
                                                                     ], 
+                                                                    "local_var": [
+                                                                        {}, 
+                                                                        {}
+                                                                    ], 
                                                                     "op_arg": [
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
                                                                         null, 
                                                                         null, 
                                                                         null, 
@@ -4127,6 +4126,13 @@
                                                                         null
                                                                     ], 
                                                                     "op_arg_enable": [
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
                                                                         false, 
                                                                         false, 
                                                                         false, 
@@ -4893,11 +4899,5 @@
         "\u6570\u91cf": 0, 
         "\u76d1\u542c": 0, 
         "\u8303\u56f4": 0
-    }, 
-    "variable_type_dict": {
-        "cnt": false, 
-        "\u6570\u91cf": false, 
-        "\u76d1\u542c": false, 
-        "\u8303\u56f4": false
     }
 }

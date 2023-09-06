@@ -31,17 +31,6 @@
                 "ug": 0, 
                 "us": 0, 
                 "xgs": 0
-            }, 
-            "variable_type_dict": {
-                "f": false, 
-                "fg": false, 
-                "i": false, 
-                "j": false, 
-                "t": false, 
-                "u": false, 
-                "ug": false, 
-                "us": false, 
-                "xgs": false
             }
         }
     }, 
@@ -1852,6 +1841,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

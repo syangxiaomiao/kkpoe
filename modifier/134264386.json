@@ -147,9 +147,5 @@
     "variable_length_dict": {
         "test": 0, 
         "test2": 0
-    }, 
-    "variable_type_dict": {
-        "test": false, 
-        "test2": false
     }
 }

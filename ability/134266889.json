@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "damage": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false
             }
         }
     }, 
@@ -932,9 +929,5 @@
     "variable_length_dict": {
         "\u6280\u80fd\u4ea4\u6362": 0, 
         "\u95ea\u70c1\u95f4\u9694": 0
-    }, 
-    "variable_type_dict": {
-        "\u6280\u80fd\u4ea4\u6362": false, 
-        "\u95ea\u70c1\u95f4\u9694": false
     }
 }

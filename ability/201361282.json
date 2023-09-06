@@ -4,8 +4,7 @@
             "variable_dict": {
                 "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1862,7 +1861,15 @@
                     "element_id": 8120811540050, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null, 
                         null, 
                         null, 
@@ -1877,6 +1884,10 @@
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -2186,10 +2197,5 @@
         "distance": 0, 
         "fire1": 0, 
         "fire2": 0
-    }, 
-    "variable_type_dict": {
-        "distance": false, 
-        "fire1": false, 
-        "fire2": false
     }
 }

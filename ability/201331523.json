@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "index": 0, 
                 "sum_damage": 0
-            }, 
-            "variable_type_dict": {
-                "index": false, 
-                "sum_damage": false
             }
         }
     }, 
@@ -203,7 +199,15 @@
                     "element_id": 6453288980048, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null, 
                         null, 
                         null, 
@@ -218,6 +222,10 @@
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -397,13 +405,5 @@
         "frame": 0, 
         "points": 10, 
         "tail": 0
-    }, 
-    "variable_type_dict": {
-        "damages_frames": true, 
-        "damages_index": false, 
-        "damages_values": true, 
-        "frame": false, 
-        "points": true, 
-        "tail": false
     }
 }

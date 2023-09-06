@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "damage": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false
             }
         }
     }, 
@@ -977,9 +974,5 @@
     "variable_length_dict": {
         "effect": 0, 
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "effect": false, 
-        "timer": false
     }
 }

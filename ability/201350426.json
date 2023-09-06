@@ -502,8 +502,5 @@
     ], 
     "variable_length_dict": {
         "n": 0
-    }, 
-    "variable_type_dict": {
-        "n": false
     }
 }

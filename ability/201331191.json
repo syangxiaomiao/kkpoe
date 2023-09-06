@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "ConcentrationFormule": 0
-            }, 
-            "variable_type_dict": {
-                "ConcentrationFormule": false
             }
         }
     }, 
@@ -1909,9 +1906,5 @@
     "variable_length_dict": {
         "SpellEffect": 0, 
         "SpellTimer": 0
-    }, 
-    "variable_type_dict": {
-        "SpellEffect": false, 
-        "SpellTimer": false
     }
 }

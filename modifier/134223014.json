@@ -321,8 +321,5 @@
     ], 
     "variable_length_dict": {
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "trigger": false
     }
 }

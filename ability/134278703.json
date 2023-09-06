@@ -15,10 +15,6 @@
             "variable_length_dict": {
                 "damage": 0, 
                 "targetUnit": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false, 
-                "targetUnit": false
             }
         }
     }, 
@@ -456,6 +452,45 @@
                     ]
                 }, 
                 {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "ABILITY_OWNER"
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                [
+                                                    "UNIT_ENTITY", 
+                                                    "targetUnit", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": 11
+                                        }
+                                    ], 
+                                    "sub_type": "UNIT_ENTITY_POINT"
+                                }
+                            ], 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "5740afc0197111eea6efb42e9966aa19"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 300593153971016, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "SET_ENTITY_KV", 
                     "args_list": [
                         {
@@ -550,6 +585,5 @@
         "POINT": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

@@ -1218,15 +1218,5 @@
         "halo_2": 0, 
         "makeDamage": 0, 
         "usingHalo?": 0
-    }, 
-    "variable_type_dict": {
-        "Tr_speDown": false, 
-        "Tr_speDown_2": false, 
-        "U": false, 
-        "getDamage": false, 
-        "halo": false, 
-        "halo_2": false, 
-        "makeDamage": false, 
-        "usingHalo?": false
     }
 }

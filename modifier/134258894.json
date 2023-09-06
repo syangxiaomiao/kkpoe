@@ -889,9 +889,5 @@
     "variable_length_dict": {
         "\u4f20\u67d3\u5668": 0, 
         "\u963b\u76fe\u5668": 0
-    }, 
-    "variable_type_dict": {
-        "\u4f20\u67d3\u5668": false, 
-        "\u963b\u76fe\u5668": false
     }
 }

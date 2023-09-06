@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "buff": 0
-            }, 
-            "variable_type_dict": {
-                "buff": false
             }
         }
     }, 
@@ -538,6 +535,5 @@
         "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

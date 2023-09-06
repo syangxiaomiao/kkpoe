@@ -14,11 +14,6 @@
                 "dragon": 0, 
                 "missile": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "dragon": false, 
-                "missile": false, 
-                "target": false
             }
         }
     }, 
@@ -524,6 +519,10 @@
                     "element_id": 16440360970006, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -548,6 +547,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -558,6 +564,13 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -845,6 +858,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

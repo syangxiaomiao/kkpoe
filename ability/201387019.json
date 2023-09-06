@@ -10,10 +10,6 @@
             "variable_length_dict": {
                 "t": 0, 
                 "t1": 0
-            }, 
-            "variable_type_dict": {
-                "t": false, 
-                "t1": false
             }
         }
     }, 
@@ -508,8 +504,5 @@
     ], 
     "variable_length_dict": {
         "\u4f24\u5bb3": 0
-    }, 
-    "variable_type_dict": {
-        "\u4f24\u5bb3": false
     }
 }

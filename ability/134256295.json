@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "Projectile": 0, 
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "Projectile": false, 
-                "skill": false
             }
         }
     }, 
@@ -2734,16 +2730,5 @@
         "wepon_skill": 0, 
         "\u52a8\u4f5c\u901f\u7387": 0, 
         "\u66b4\u51fb": 0
-    }, 
-    "variable_type_dict": {
-        "anim": false, 
-        "i": false, 
-        "index": false, 
-        "j": false, 
-        "modifier": false, 
-        "w_skill": false, 
-        "wepon_skill": false, 
-        "\u52a8\u4f5c\u901f\u7387": false, 
-        "\u66b4\u51fb": false
     }
 }

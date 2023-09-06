@@ -2,7 +2,7 @@
     "camp": {
         "1": {
             "camp_name": "$faction 1", 
-            "camp_name_en": "Faction 1", 
+            "camp_name_en": "$faction 1", 
             "camp_name_zh": "\u9635\u8425 1", 
             "least_num": 0, 
             "roles": [
@@ -21,7 +21,7 @@
         }, 
         "9999": {
             "camp_name": "$faction 9999", 
-            "camp_name_en": "Neutral", 
+            "camp_name_en": "$faction 9999", 
             "camp_name_zh": "\u4e2d\u7acb", 
             "least_num": 0, 
             "roles": [
@@ -37,7 +37,7 @@
             "camp_id": 1, 
             "role_color": "#FF0000", 
             "role_name": "$player 1", 
-            "role_name_en": "Player 1", 
+            "role_name_en": "$player 1", 
             "role_name_zh": "\u73a9\u5bb6 1", 
             "role_type": 1
         }, 
@@ -45,7 +45,7 @@
             "camp_id": 1, 
             "role_color": "#FF8000", 
             "role_name": "$player 2", 
-            "role_name_en": "Player 2", 
+            "role_name_en": "$player 2", 
             "role_name_zh": "\u73a9\u5bb6 2", 
             "role_type": 1
         }, 
@@ -53,7 +53,7 @@
             "camp_id": 9999, 
             "role_color": "#808080", 
             "role_name": "$player 31", 
-            "role_name_en": "Neutral Hostile", 
+            "role_name_en": "$player 31", 
             "role_name_zh": "\u4e2d\u7acb \u654c\u5bf9", 
             "role_type": 2
         }, 
@@ -61,7 +61,7 @@
             "camp_id": 9999, 
             "role_color": "#808080", 
             "role_name": "$player 32", 
-            "role_name_en": "Neutral Friendly", 
+            "role_name_en": "$player 32", 
             "role_name_zh": "\u4e2d\u7acb \u53cb\u5584", 
             "role_type": 2
         }

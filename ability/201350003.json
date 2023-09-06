@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "caster": 0
-            }, 
-            "variable_type_dict": {
-                "caster": false
             }
         }
     }, 
@@ -244,6 +241,5 @@
             "name": "\u81ea\u5b9a\u4e49\u7ec4"
         }
     ], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

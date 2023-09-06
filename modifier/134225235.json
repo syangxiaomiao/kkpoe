@@ -962,11 +962,5 @@
         "dun2": 0, 
         "dun3": 0, 
         "\u76fe": 0
-    }, 
-    "variable_type_dict": {
-        "dun1": false, 
-        "dun2": false, 
-        "dun3": false, 
-        "\u76fe": false
     }
 }

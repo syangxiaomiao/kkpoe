@@ -20,12 +20,6 @@
                 "new": 0, 
                 "point": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "missile": false, 
-                "new": false, 
-                "point": false, 
-                "target": false
             }
         }, 
         "1968979971": {
@@ -50,12 +44,6 @@
                 "point": 0, 
                 "target": 0, 
                 "\u91ca\u653e\u5141\u8bb8": 0
-            }, 
-            "variable_type_dict": {
-                "missile": false, 
-                "point": false, 
-                "target": false, 
-                "\u91ca\u653e\u5141\u8bb8": false
             }
         }
     }, 
@@ -1383,6 +1371,10 @@
                                                         7, 
                                                         9
                                                     ], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -1407,6 +1399,10 @@
                                                         null, 
                                                         null, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -1417,6 +1413,10 @@
                                                         false, 
                                                         true, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false, 
                                                         false, 
@@ -2414,6 +2414,10 @@
                                                         7, 
                                                         9
                                                     ], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -2438,6 +2442,10 @@
                                                         null, 
                                                         null, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -2448,6 +2456,10 @@
                                                         false, 
                                                         true, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false, 
                                                         false, 
@@ -2838,6 +2850,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

@@ -12,9 +12,6 @@
             }, 
             "variable_length_dict": {
                 "point": 0
-            }, 
-            "variable_type_dict": {
-                "point": false
             }
         }
     }, 
@@ -432,6 +429,10 @@
                     "element_id": 1140981762000014, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -480,13 +481,21 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -536,6 +545,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "ConcentrationFormule": 0
-            }, 
-            "variable_type_dict": {
-                "ConcentrationFormule": false
             }
         }
     }, 
@@ -4265,6 +4262,10 @@
                         8, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -4301,6 +4302,10 @@
                             "sub_type": 1
                         }, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -4314,6 +4319,10 @@
                         true, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false
                     ]
@@ -4368,8 +4377,5 @@
     ], 
     "variable_length_dict": {
         "SpellTimer": 0
-    }, 
-    "variable_type_dict": {
-        "SpellTimer": false
     }
 }

@@ -177,8 +177,5 @@
     ], 
     "variable_length_dict": {
         "\u52a0\u901f\u503c": 0
-    }, 
-    "variable_type_dict": {
-        "\u52a0\u901f\u503c": false
     }
 }

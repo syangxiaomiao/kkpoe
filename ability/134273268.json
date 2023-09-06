@@ -24,12 +24,6 @@
                 "path": 0, 
                 "point": 0, 
                 "t": 0
-            }, 
-            "variable_type_dict": {
-                "missile": false, 
-                "path": false, 
-                "point": false, 
-                "t": false
             }
         }, 
         "2130620419": {
@@ -40,9 +34,6 @@
             }, 
             "variable_length_dict": {
                 "dis": 0
-            }, 
-            "variable_type_dict": {
-                "dis": false
             }
         }
     }, 
@@ -1283,9 +1274,5 @@
     "variable_length_dict": {
         "target": 0, 
         "target_point": 0
-    }, 
-    "variable_type_dict": {
-        "target": false, 
-        "target_point": false
     }
 }

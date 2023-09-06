@@ -13,10 +13,6 @@
             "variable_length_dict": {
                 "i": 0, 
                 "pro": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "pro": false
             }
         }
     }, 
@@ -1224,9 +1220,5 @@
     "variable_length_dict": {
         "\u504f\u79fb\u8ddd\u79bb": 0, 
         "\u5f39\u9053\u6570\u91cf": 0
-    }, 
-    "variable_type_dict": {
-        "\u504f\u79fb\u8ddd\u79bb": false, 
-        "\u5f39\u9053\u6570\u91cf": false
     }
 }

@@ -299,8 +299,5 @@
     ], 
     "variable_length_dict": {
         "\u653b\u901f\u589e\u5e45": 0
-    }, 
-    "variable_type_dict": {
-        "\u653b\u901f\u589e\u5e45": false
     }
 }

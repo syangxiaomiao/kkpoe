@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u4e13\u6b66": 0
-            }, 
-            "variable_type_dict": {
-                "\u4e13\u6b66": false
             }
         }, 
         "1797791746": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "\u4e13\u6b66": 0
-            }, 
-            "variable_type_dict": {
-                "\u4e13\u6b66": false
             }
         }
     }, 
@@ -1006,10 +1000,5 @@
         "i": 0, 
         "\u53cc\u91cd\u65bd\u6cd5": 0, 
         "\u6280\u80fd": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "\u53cc\u91cd\u65bd\u6cd5": false, 
-        "\u6280\u80fd": false
     }
 }

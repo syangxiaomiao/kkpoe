@@ -11,10 +11,6 @@
             "variable_length_dict": {
                 "\u7384\u673a\u75324\u9636\u8fd1\u6218\u88ab\u52a8": 0, 
                 "\u7384\u673a\u75324\u9636\u8fdc\u7a0b\u88ab\u52a8": 0
-            }, 
-            "variable_type_dict": {
-                "\u7384\u673a\u75324\u9636\u8fd1\u6218\u88ab\u52a8": false, 
-                "\u7384\u673a\u75324\u9636\u8fdc\u7a0b\u88ab\u52a8": false
             }
         }
     }, 
@@ -99,9 +95,5 @@
     "variable_length_dict": {
         "U": 0, 
         "jsq": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "jsq": false
     }
 }

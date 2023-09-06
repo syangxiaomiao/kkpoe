@@ -1112,10 +1112,5 @@
         "area": 0, 
         "pr": 0, 
         "pr2": 0
-    }, 
-    "variable_type_dict": {
-        "area": false, 
-        "pr": false, 
-        "pr2": false
     }
 }

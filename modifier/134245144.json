@@ -9,9 +9,6 @@
             }, 
             "variable_length_dict": {
                 "damage": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false
             }
         }, 
         "431128577": {
@@ -22,9 +19,6 @@
             }, 
             "variable_length_dict": {
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "skill": false
             }
         }
     }, 
@@ -856,10 +850,5 @@
         "t": 0, 
         "\u6280\u80fd\u8303\u56f4": 0, 
         "\u653b\u51fb\u8ddd\u79bb": 0
-    }, 
-    "variable_type_dict": {
-        "t": false, 
-        "\u6280\u80fd\u8303\u56f4": false, 
-        "\u653b\u51fb\u8ddd\u79bb": false
     }
 }

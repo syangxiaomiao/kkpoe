@@ -259,8 +259,5 @@
     ], 
     "variable_length_dict": {
         "knife": 0
-    }, 
-    "variable_type_dict": {
-        "knife": false
     }
 }

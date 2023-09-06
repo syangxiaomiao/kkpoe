@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "p": 0
-            }, 
-            "variable_type_dict": {
-                "p": false
             }
         }, 
         "336941057": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "p": 0
-            }, 
-            "variable_type_dict": {
-                "p": false
             }
         }
     }, 
@@ -448,8 +442,5 @@
     ], 
     "variable_length_dict": {
         "\u7729\u6655": 0
-    }, 
-    "variable_type_dict": {
-        "\u7729\u6655": false
     }
 }

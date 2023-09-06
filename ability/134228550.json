@@ -16,11 +16,6 @@
                 "percent": 0, 
                 "pro": 0, 
                 "weapon_skill": 0
-            }, 
-            "variable_type_dict": {
-                "percent": false, 
-                "pro": false, 
-                "weapon_skill": false
             }
         }
     }, 
@@ -1500,6 +1495,10 @@
                                     "element_id": 7318609940101, 
                                     "enable": true, 
                                     "fake_op": [], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -1524,6 +1523,13 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -1531,6 +1537,13 @@
                                         false, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -1592,6 +1605,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

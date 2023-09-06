@@ -26,13 +26,6 @@
                 "US": 0, 
                 "p": 0, 
                 "\u5f3a\u5316": 0
-            }, 
-            "variable_type_dict": {
-                "U": false, 
-                "U2": false, 
-                "US": false, 
-                "p": false, 
-                "\u5f3a\u5316": false
             }
         }
     }, 
@@ -717,6 +710,10 @@
                     "fake_op": [
                         6
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -747,6 +744,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -757,6 +761,13 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -816,9 +827,5 @@
     "variable_length_dict": {
         "\u6295\u5c04\u7269": 0, 
         "\u6ce2": 0
-    }, 
-    "variable_type_dict": {
-        "\u6295\u5c04\u7269": false, 
-        "\u6ce2": false
     }
 }

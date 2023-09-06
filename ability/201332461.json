@@ -910,7 +910,15 @@
                                     "element_id": 19690168340016, 
                                     "enable": true, 
                                     "fake_op": [], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null, 
                                         null, 
                                         null, 
@@ -925,6 +933,10 @@
                                         null
                                     ], 
                                     "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -1060,9 +1072,5 @@
     "variable_length_dict": {
         "fog_center": 0, 
         "start_point": 0
-    }, 
-    "variable_type_dict": {
-        "fog_center": false, 
-        "start_point": false
     }
 }

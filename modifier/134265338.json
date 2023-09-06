@@ -488,11 +488,5 @@
         "T": 0, 
         "U": 0, 
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "C": false, 
-        "T": false, 
-        "U": false, 
-        "timer": false
     }
 }

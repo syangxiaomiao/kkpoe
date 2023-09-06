@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u96ea\u9f99\u5377": 10
-            }, 
-            "variable_type_dict": {
-                "\u96ea\u9f99\u5377": true
             }
         }, 
         "1213612033": {
@@ -25,10 +22,6 @@
             "variable_length_dict": {
                 "skill": 0, 
                 "u": 0
-            }, 
-            "variable_type_dict": {
-                "skill": false, 
-                "u": false
             }
         }, 
         "1398161410": {
@@ -39,9 +32,6 @@
             }, 
             "variable_length_dict": {
                 "u": 0
-            }, 
-            "variable_type_dict": {
-                "u": false
             }
         }
     }, 
@@ -1041,11 +1031,5 @@
         "timer": 0, 
         "total_damage": 0, 
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "j": false, 
-        "timer": false, 
-        "total_damage": false, 
-        "trigger": false
     }
 }

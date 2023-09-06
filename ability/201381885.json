@@ -16,11 +16,6 @@
                 "damage": 0, 
                 "damageGroup": 0, 
                 "missile": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false, 
-                "damageGroup": false, 
-                "missile": false
             }
         }
     }, 
@@ -1333,6 +1328,10 @@
                                     "fake_op": [
                                         9
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -1363,6 +1362,10 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -1374,6 +1377,10 @@
                                         true, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -1441,6 +1448,5 @@
         "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

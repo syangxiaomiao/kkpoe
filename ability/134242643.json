@@ -14,11 +14,6 @@
                 "pro": 0, 
                 "\u52a0\u901f\u5ea6": 0, 
                 "\u6280\u80fd\u8303\u56f4": 0
-            }, 
-            "variable_type_dict": {
-                "pro": false, 
-                "\u52a0\u901f\u5ea6": false, 
-                "\u6280\u80fd\u8303\u56f4": false
             }
         }
     }, 
@@ -543,6 +538,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -583,6 +582,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -593,6 +596,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -725,8 +732,5 @@
     ], 
     "variable_length_dict": {
         "weapon_skill": 0
-    }, 
-    "variable_type_dict": {
-        "weapon_skill": false
     }
 }

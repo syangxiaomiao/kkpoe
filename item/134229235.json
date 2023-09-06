@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u5929\u7f61\u6218\u5f79\u56db\u9636": 0
-            }, 
-            "variable_type_dict": {
-                "\u5929\u7f61\u6218\u5f79\u56db\u9636": false
             }
         }
     }, 
@@ -390,9 +387,5 @@
     "variable_length_dict": {
         "U": 0, 
         "\u5929\u7f61\u6218\u8863\u4e8c\u9636": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u5929\u7f61\u6218\u8863\u4e8c\u9636": false
     }
 }

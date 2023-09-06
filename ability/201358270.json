@@ -20,13 +20,6 @@
                 "ejector target": 0, 
                 "shackles": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "distance": false, 
-                "ejector target": false, 
-                "shackles": false, 
-                "target": false
             }
         }
     }, 
@@ -1517,7 +1510,15 @@
                                                                     "element_id": 1660559390021, 
                                                                     "enable": true, 
                                                                     "fake_op": [], 
+                                                                    "local_var": [
+                                                                        {}, 
+                                                                        {}
+                                                                    ], 
                                                                     "op_arg": [
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
                                                                         null, 
                                                                         null, 
                                                                         null, 
@@ -1532,6 +1533,10 @@
                                                                         null
                                                                     ], 
                                                                     "op_arg_enable": [
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
                                                                         false, 
                                                                         false, 
                                                                         false, 
@@ -1675,7 +1680,15 @@
                                                                     "element_id": 1660559390022, 
                                                                     "enable": true, 
                                                                     "fake_op": [], 
+                                                                    "local_var": [
+                                                                        {}, 
+                                                                        {}
+                                                                    ], 
                                                                     "op_arg": [
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
+                                                                        null, 
                                                                         null, 
                                                                         null, 
                                                                         null, 
@@ -1690,6 +1703,10 @@
                                                                         null
                                                                     ], 
                                                                     "op_arg_enable": [
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
+                                                                        false, 
                                                                         false, 
                                                                         false, 
                                                                         false, 
@@ -1809,6 +1826,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1833,6 +1854,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1843,6 +1868,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -2008,6 +2037,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

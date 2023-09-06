@@ -334,9 +334,5 @@
     "variable_length_dict": {
         "\u89c6\u91ce\u9a6c\u7532": 0, 
         "\u9a6c\u7532\u63a7\u5236": 0
-    }, 
-    "variable_type_dict": {
-        "\u89c6\u91ce\u9a6c\u7532": false, 
-        "\u9a6c\u7532\u63a7\u5236": false
     }
 }

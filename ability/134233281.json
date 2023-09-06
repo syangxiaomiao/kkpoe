@@ -13,10 +13,6 @@
             "variable_length_dict": {
                 "damage": 0, 
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "damage": false, 
-                "i": false
             }
         }
     }, 
@@ -2120,11 +2116,5 @@
         "\u6280\u80fd\u4ea4\u6362": 0, 
         "\u95ea\u70c1\u95f4\u9694": 0, 
         "\u96f7\u7403": 0
-    }, 
-    "variable_type_dict": {
-        "j": false, 
-        "\u6280\u80fd\u4ea4\u6362": false, 
-        "\u95ea\u70c1\u95f4\u9694": false, 
-        "\u96f7\u7403": false
     }
 }

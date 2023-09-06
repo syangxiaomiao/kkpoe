@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "f": 0
-            }, 
-            "variable_type_dict": {
-                "f": false
             }
         }
     }, 
@@ -218,10 +215,5 @@
         "f": 0, 
         "t": 0, 
         "u": 0
-    }, 
-    "variable_type_dict": {
-        "f": false, 
-        "t": false, 
-        "u": false
     }
 }

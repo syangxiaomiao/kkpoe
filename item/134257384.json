@@ -545,13 +545,5 @@
         "dq": 0, 
         "halo": 0, 
         "\u7279\u6548": 0
-    }, 
-    "variable_type_dict": {
-        "CD": false, 
-        "Tr_rebouDam": false, 
-        "U": false, 
-        "dq": false, 
-        "halo": false, 
-        "\u7279\u6548": false
     }
 }

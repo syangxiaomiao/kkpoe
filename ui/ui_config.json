@@ -1,4 +1,12 @@
 {
+    "design_resolution": {
+        "__tuple__": true, 
+        "items": [
+            1920, 
+            1080
+        ]
+    }, 
+    "design_resolution_index": 0, 
     "first_init_ui_editor": true, 
     "prefab_data": {
         "7df3d99d-6a4c-47ea-8e9e-415864025f95": {

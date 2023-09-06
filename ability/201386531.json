@@ -995,6 +995,10 @@
                                                     "element_id": 15683338260012, 
                                                     "enable": true, 
                                                     "fake_op": [], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -1013,7 +1017,14 @@
                                                                 60.0
                                                             ], 
                                                             "sub_type": 1
-                                                        }
+                                                        }, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null
                                                     ], 
                                                     "op_arg_enable": [
                                                         false, 
@@ -1027,7 +1038,14 @@
                                                         false, 
                                                         false, 
                                                         false, 
-                                                        true
+                                                        true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false
                                                     ]
                                                 }
                                             ], 
@@ -1928,8 +1946,5 @@
     ], 
     "variable_length_dict": {
         "n1": 0
-    }, 
-    "variable_type_dict": {
-        "n1": false
     }
 }

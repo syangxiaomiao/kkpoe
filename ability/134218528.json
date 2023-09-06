@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "ammo": 0, 
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "ammo": false, 
-                "i": false
             }
         }
     }, 
@@ -474,7 +470,18 @@
                     "fake_op": [
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null, 
                         null, 
                         null, 
@@ -489,6 +496,13 @@
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -646,17 +660,5 @@
         "\u76ee\u6807": 0, 
         "\u76ee\u6807\u5355\u4f4d": 0, 
         "\u989d\u5916\u8303\u56f4": 0
-    }, 
-    "variable_type_dict": {
-        "hero_dmg_count": false, 
-        "le": false, 
-        "recover_num": false, 
-        "tail": false, 
-        "total_hero_dmg": false, 
-        "total_unit_dmg": false, 
-        "unit_dmg_count": false, 
-        "\u76ee\u6807": false, 
-        "\u76ee\u6807\u5355\u4f4d": false, 
-        "\u989d\u5916\u8303\u56f4": false
     }
 }

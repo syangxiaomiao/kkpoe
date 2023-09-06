@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "CurRound": 0
-            }, 
-            "variable_type_dict": {
-                "CurRound": false
             }
         }
     }, 
@@ -1416,12 +1413,5 @@
         "baseAttackSpeedRate": 0, 
         "extraAttackSpeed": 0, 
         "extraAttackSpeedRate": 0
-    }, 
-    "variable_type_dict": {
-        "ChangeSwitch": false, 
-        "baseAttackSpeed": false, 
-        "baseAttackSpeedRate": false, 
-        "extraAttackSpeed": false, 
-        "extraAttackSpeedRate": false
     }
 }

@@ -4,8 +4,7 @@
             "variable_dict": {
                 "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -545,11 +544,5 @@
         "\u76ee\u68071": 0, 
         "\u76ee\u68072": 0, 
         "\u98ce\u901f": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u76ee\u68071": false, 
-        "\u76ee\u68072": false, 
-        "\u98ce\u901f": false
     }
 }

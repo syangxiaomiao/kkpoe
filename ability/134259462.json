@@ -380,9 +380,5 @@
     "variable_length_dict": {
         "target": 0, 
         "value": 0
-    }, 
-    "variable_type_dict": {
-        "target": false, 
-        "value": false
     }
 }

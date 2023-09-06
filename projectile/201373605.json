@@ -12,9 +12,6 @@
             }, 
             "variable_length_dict": {
                 "point": 0
-            }, 
-            "variable_type_dict": {
-                "point": false
             }
         }
     }, 
@@ -397,11 +394,5 @@
         "timer": 0, 
         "trg": 0, 
         "trg1": 0
-    }, 
-    "variable_type_dict": {
-        "area": false, 
-        "timer": false, 
-        "trg": false, 
-        "trg1": false
     }
 }

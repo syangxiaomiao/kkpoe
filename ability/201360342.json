@@ -19,13 +19,6 @@
                 "number_3": 0, 
                 "number_4": 0, 
                 "unit": 10
-            }, 
-            "variable_type_dict": {
-                "number": false, 
-                "number_2": false, 
-                "number_3": false, 
-                "number_4": false, 
-                "unit": true
             }
         }
     }, 
@@ -1600,8 +1593,5 @@
     ], 
     "variable_length_dict": {
         "\u4f24\u5bb3": 0
-    }, 
-    "variable_type_dict": {
-        "\u4f24\u5bb3": false
     }
 }

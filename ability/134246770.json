@@ -30,16 +30,6 @@
                 "\u52a0\u901f\u5ea6": 0, 
                 "\u7b49\u5f85\u65f6\u95f4": 0, 
                 "\u8ddd\u79bb": 0
-            }, 
-            "variable_type_dict": {
-                "_sy": false, 
-                "_yz": false, 
-                "_\u5f71\u5b50": false, 
-                "i": false, 
-                "\u521d\u59cb\u901f\u5ea6": false, 
-                "\u52a0\u901f\u5ea6": false, 
-                "\u7b49\u5f85\u65f6\u95f4": false, 
-                "\u8ddd\u79bb": false
             }
         }, 
         "1417568258": {
@@ -50,9 +40,6 @@
             }, 
             "variable_length_dict": {
                 "fushu": 0
-            }, 
-            "variable_type_dict": {
-                "fushu": false
             }
         }
     }, 
@@ -1603,6 +1590,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1627,6 +1618,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1637,6 +1632,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1862,6 +1861,10 @@
                     "element_id": 678871041660164, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1886,9 +1889,17 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -2157,13 +2168,5 @@
         "sy": 0, 
         "yz": 0, 
         "\u5f71\u5b50": 0
-    }, 
-    "variable_type_dict": {
-        "angry": false, 
-        "gjl": false, 
-        "shiye": false, 
-        "sy": false, 
-        "yz": false, 
-        "\u5f71\u5b50": false
     }
 }

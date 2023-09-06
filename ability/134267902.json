@@ -153,8 +153,5 @@
     ], 
     "variable_length_dict": {
         "modifier": 0
-    }, 
-    "variable_type_dict": {
-        "modifier": false
     }
 }

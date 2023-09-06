@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "tx": 0
-            }, 
-            "variable_type_dict": {
-                "tx": false
             }
         }, 
         "1410519042": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "tx": 0
-            }, 
-            "variable_type_dict": {
-                "tx": false
             }
         }, 
         "1628721155": {
@@ -34,9 +28,6 @@
             }, 
             "variable_length_dict": {
                 "tx": 0
-            }, 
-            "variable_type_dict": {
-                "tx": false
             }
         }
     }, 
@@ -285,6 +276,10 @@
                     "element_id": 1956130818000024, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -333,7 +328,11 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -344,6 +343,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -949,6 +952,10 @@
                     "element_id": 1956130818000024, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -991,13 +998,21 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1062,8 +1077,5 @@
     ], 
     "variable_length_dict": {
         "tx1": 0
-    }, 
-    "variable_type_dict": {
-        "tx1": false
     }
 }

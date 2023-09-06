@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "AttackTarget": 0
-            }, 
-            "variable_type_dict": {
-                "AttackTarget": false
             }
         }
     }, 
@@ -785,10 +782,5 @@
         "eff1": 0, 
         "eff2": 0, 
         "t": 0
-    }, 
-    "variable_type_dict": {
-        "eff1": false, 
-        "eff2": false, 
-        "t": false
     }
 }

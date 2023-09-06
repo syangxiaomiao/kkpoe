@@ -10,10 +10,6 @@
             "variable_length_dict": {
                 "\u52a0\u901f\u5ea6": 0, 
                 "\u6280\u80fd\u904d\u5386\u8ddd\u79bb": 0
-            }, 
-            "variable_type_dict": {
-                "\u52a0\u901f\u5ea6": false, 
-                "\u6280\u80fd\u904d\u5386\u8ddd\u79bb": false
             }
         }
     }, 
@@ -6039,6 +6035,10 @@
                                                                                                                                                     "element_id": 10083328020113, 
                                                                                                                                                     "enable": true, 
                                                                                                                                                     "fake_op": [], 
+                                                                                                                                                    "local_var": [
+                                                                                                                                                        {}, 
+                                                                                                                                                        {}
+                                                                                                                                                    ], 
                                                                                                                                                     "op_arg": [
                                                                                                                                                         null, 
                                                                                                                                                         null, 
@@ -6063,6 +6063,13 @@
                                                                                                                                                         null, 
                                                                                                                                                         null, 
                                                                                                                                                         null, 
+                                                                                                                                                        null, 
+                                                                                                                                                        null, 
+                                                                                                                                                        null, 
+                                                                                                                                                        null, 
+                                                                                                                                                        null, 
+                                                                                                                                                        null, 
+                                                                                                                                                        null, 
                                                                                                                                                         null
                                                                                                                                                     ], 
                                                                                                                                                     "op_arg_enable": [
@@ -6070,6 +6077,13 @@
                                                                                                                                                         false, 
                                                                                                                                                         true, 
                                                                                                                                                         true, 
+                                                                                                                                                        false, 
+                                                                                                                                                        false, 
+                                                                                                                                                        false, 
+                                                                                                                                                        false, 
+                                                                                                                                                        false, 
+                                                                                                                                                        false, 
+                                                                                                                                                        false, 
                                                                                                                                                         false, 
                                                                                                                                                         false, 
                                                                                                                                                         false, 
@@ -6157,6 +6171,10 @@
                                                                                                                     "element_id": 10083328020116, 
                                                                                                                     "enable": true, 
                                                                                                                     "fake_op": [], 
+                                                                                                                    "local_var": [
+                                                                                                                        {}, 
+                                                                                                                        {}
+                                                                                                                    ], 
                                                                                                                     "op_arg": [
                                                                                                                         null, 
                                                                                                                         null, 
@@ -6181,6 +6199,13 @@
                                                                                                                         null, 
                                                                                                                         null, 
                                                                                                                         null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
+                                                                                                                        null, 
                                                                                                                         null
                                                                                                                     ], 
                                                                                                                     "op_arg_enable": [
@@ -6188,6 +6213,13 @@
                                                                                                                         false, 
                                                                                                                         true, 
                                                                                                                         true, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
+                                                                                                                        false, 
                                                                                                                         false, 
                                                                                                                         false, 
                                                                                                                         false, 
@@ -6275,6 +6307,10 @@
                                                                                     "element_id": 10083328020119, 
                                                                                     "enable": true, 
                                                                                     "fake_op": [], 
+                                                                                    "local_var": [
+                                                                                        {}, 
+                                                                                        {}
+                                                                                    ], 
                                                                                     "op_arg": [
                                                                                         null, 
                                                                                         null, 
@@ -6299,6 +6335,13 @@
                                                                                         null, 
                                                                                         null, 
                                                                                         null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null, 
                                                                                         null
                                                                                     ], 
                                                                                     "op_arg_enable": [
@@ -6306,6 +6349,13 @@
                                                                                         false, 
                                                                                         true, 
                                                                                         true, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false, 
                                                                                         false, 
                                                                                         false, 
                                                                                         false, 
@@ -6393,6 +6443,10 @@
                                                     "element_id": 10083328020122, 
                                                     "enable": true, 
                                                     "fake_op": [], 
+                                                    "local_var": [
+                                                        {}, 
+                                                        {}
+                                                    ], 
                                                     "op_arg": [
                                                         null, 
                                                         null, 
@@ -6417,6 +6471,13 @@
                                                         null, 
                                                         null, 
                                                         null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
+                                                        null, 
                                                         null
                                                     ], 
                                                     "op_arg_enable": [
@@ -6424,6 +6485,13 @@
                                                         false, 
                                                         true, 
                                                         true, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
+                                                        false, 
                                                         false, 
                                                         false, 
                                                         false, 
@@ -6511,6 +6579,10 @@
                     "element_id": 10083328020011, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -6535,6 +6607,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -6542,6 +6621,13 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -6639,13 +6725,5 @@
         "weapon_skill": 0, 
         "\u4e0a\u4e00\u4e2a\u76ee\u6807": 0, 
         "\u76ee\u6807\u5355\u4f4d": 0
-    }, 
-    "variable_type_dict": {
-        "pro": false, 
-        "target": false, 
-        "units": false, 
-        "weapon_skill": false, 
-        "\u4e0a\u4e00\u4e2a\u76ee\u6807": false, 
-        "\u76ee\u6807\u5355\u4f4d": false
     }
 }

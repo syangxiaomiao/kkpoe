@@ -8,17 +8,13 @@
             }, 
             "variable_length_dict": {
                 "fushu": 0
-            }, 
-            "variable_type_dict": {
-                "fushu": false
             }
         }, 
         "1689735169": {
             "variable_dict": {
                 "FLOAT": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1164,6 +1160,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1194,6 +1194,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1204,6 +1208,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1281,9 +1289,5 @@
     "variable_length_dict": {
         "number": 0, 
         "\u6b7b\u4ea1": 0
-    }, 
-    "variable_type_dict": {
-        "number": false, 
-        "\u6b7b\u4ea1": false
     }
 }

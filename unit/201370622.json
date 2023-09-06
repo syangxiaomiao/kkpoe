@@ -291,9 +291,5 @@
     "variable_length_dict": {
         "BindEffect": 0, 
         "BoomTimer": 0
-    }, 
-    "variable_type_dict": {
-        "BindEffect": false, 
-        "BoomTimer": false
     }
 }

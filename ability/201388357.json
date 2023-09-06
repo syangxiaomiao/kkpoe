@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "n": 0
-            }, 
-            "variable_type_dict": {
-                "n": false
             }
         }
     }, 
@@ -1481,12 +1478,5 @@
         "g_timer2": 0, 
         "gray_dmg": 0, 
         "trg5": 0
-    }, 
-    "variable_type_dict": {
-        "bf": false, 
-        "g_timer": false, 
-        "g_timer2": false, 
-        "gray_dmg": false, 
-        "trg5": false
     }
 }

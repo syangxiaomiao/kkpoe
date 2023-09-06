@@ -20,12 +20,6 @@
                 "damage": 0, 
                 "missile": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "attack_ability": false, 
-                "damage": false, 
-                "missile": false, 
-                "target": false
             }
         }, 
         "1424609281": {
@@ -36,9 +30,6 @@
             }, 
             "variable_length_dict": {
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "target": false
             }
         }
     }, 
@@ -658,6 +649,10 @@
                     "fake_op": [
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -682,6 +677,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -692,6 +694,13 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1071,9 +1080,5 @@
     "variable_length_dict": {
         "knife": 0, 
         "knife_2": 0
-    }, 
-    "variable_type_dict": {
-        "knife": false, 
-        "knife_2": false
     }
 }

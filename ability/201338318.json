@@ -131,8 +131,5 @@
     ], 
     "variable_length_dict": {
         "\u7279\u65481": 0
-    }, 
-    "variable_type_dict": {
-        "\u7279\u65481": false
     }
 }

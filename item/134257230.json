@@ -446,9 +446,5 @@
     "variable_length_dict": {
         "Tr_spdUp": 0, 
         "U": 0
-    }, 
-    "variable_type_dict": {
-        "Tr_spdUp": false, 
-        "U": false
     }
 }

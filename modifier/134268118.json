@@ -307,9 +307,5 @@
     "variable_length_dict": {
         "\u6218\u795e": 0, 
         "\u71d5\u4eba\u8840\u8109": 0
-    }, 
-    "variable_type_dict": {
-        "\u6218\u795e": false, 
-        "\u71d5\u4eba\u8840\u8109": false
     }
 }

@@ -4,8 +4,7 @@
             "variable_dict": {
                 "ABILITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1471,10 +1470,5 @@
         "count": 0, 
         "skill": 0, 
         "wepon_skill": 0
-    }, 
-    "variable_type_dict": {
-        "count": false, 
-        "skill": false, 
-        "wepon_skill": false
     }
 }

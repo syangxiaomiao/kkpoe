@@ -574,11 +574,5 @@
         "move": 0, 
         "recover_health": 0, 
         "\u79fb\u901f\u589e\u5e45": 0
-    }, 
-    "variable_type_dict": {
-        "atk_speed": false, 
-        "move": false, 
-        "recover_health": false, 
-        "\u79fb\u901f\u589e\u5e45": false
     }
 }

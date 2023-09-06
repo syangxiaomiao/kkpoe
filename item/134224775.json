@@ -325,9 +325,5 @@
     "variable_length_dict": {
         "Tr_hpRec": 0, 
         "U": 0
-    }, 
-    "variable_type_dict": {
-        "Tr_hpRec": false, 
-        "U": false
     }
 }

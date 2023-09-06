@@ -9,9 +9,6 @@
             }, 
             "variable_length_dict": {
                 "\u662f\u5426\u68c0\u6d4b\u5230\u83b2\u82b1\u9a6c\u7532": 0
-            }, 
-            "variable_type_dict": {
-                "\u662f\u5426\u68c0\u6d4b\u5230\u83b2\u82b1\u9a6c\u7532": false
             }
         }
     }, 
@@ -406,6 +403,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

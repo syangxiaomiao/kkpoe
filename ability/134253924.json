@@ -42,20 +42,6 @@
                 "\u6280\u80fd\u8303\u56f4": 0, 
                 "\u96ea\u9f99\u5377": 10, 
                 "\u98de\u9e3f\u8e0f\u96ea": 10
-            }, 
-            "variable_type_dict": {
-                "point": false, 
-                "pro": false, 
-                "proA": false, 
-                "proA1": false, 
-                "proA2": false, 
-                "proB": false, 
-                "proB1": false, 
-                "proB2": false, 
-                "pro\u70b9": false, 
-                "\u6280\u80fd\u8303\u56f4": false, 
-                "\u96ea\u9f99\u5377": true, 
-                "\u98de\u9e3f\u8e0f\u96ea": true
             }
         }
     }, 
@@ -1321,6 +1307,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1357,6 +1347,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1367,6 +1361,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1480,17 +1478,5 @@
         "\u8ba1\u6570B": 0, 
         "\u8ba1\u6570B1": 0, 
         "\u8ba1\u6570B2": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "j": false, 
-        "weapon_skill": false, 
-        "\u8ba1\u6570": false, 
-        "\u8ba1\u6570A": false, 
-        "\u8ba1\u6570A1": false, 
-        "\u8ba1\u6570A2": false, 
-        "\u8ba1\u6570B": false, 
-        "\u8ba1\u6570B1": false, 
-        "\u8ba1\u6570B2": false
     }
 }

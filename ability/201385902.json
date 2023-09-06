@@ -695,6 +695,10 @@
                                     "fake_op": [
                                         9
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -725,6 +729,13 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -735,6 +746,13 @@
                                         true, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -777,6 +795,10 @@
                     "fake_op": [
                         8
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -807,6 +829,10 @@
                             "sub_type": 1
                         }, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -820,6 +846,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false
                     ]
@@ -897,11 +927,5 @@
         "u": 0, 
         "\u6280\u80fd\u62e5\u6709\u80051335": 0, 
         "\u6280\u80fd\u7279\u6548": 0
-    }, 
-    "variable_type_dict": {
-        "beam": false, 
-        "u": false, 
-        "\u6280\u80fd\u62e5\u6709\u80051335": false, 
-        "\u6280\u80fd\u7279\u6548": false
     }
 }

@@ -190,8 +190,5 @@
     ], 
     "variable_length_dict": {
         "rate": 0
-    }, 
-    "variable_type_dict": {
-        "rate": false
     }
 }

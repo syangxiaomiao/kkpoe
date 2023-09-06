@@ -380,8 +380,5 @@
     ], 
     "variable_length_dict": {
         "\u53cc\u6297": 0
-    }, 
-    "variable_type_dict": {
-        "\u53cc\u6297": false
     }
 }

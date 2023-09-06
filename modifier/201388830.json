@@ -543,9 +543,5 @@
     "variable_length_dict": {
         "damage add": 0, 
         "move speed": 0
-    }, 
-    "variable_type_dict": {
-        "damage add": false, 
-        "move speed": false
     }
 }

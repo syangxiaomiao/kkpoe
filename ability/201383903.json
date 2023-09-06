@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "SecondSkill": 0, 
                 "Timer": 0
-            }, 
-            "variable_type_dict": {
-                "SecondSkill": false, 
-                "Timer": false
             }
         }, 
         "1927729155": {
@@ -23,8 +19,7 @@
                 "ABILITY": {}, 
                 "NEW_TIMER": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -560,6 +555,5 @@
         "UNIT_GROUP": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

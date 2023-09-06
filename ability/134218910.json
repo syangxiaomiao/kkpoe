@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "AttackTarget": 0, 
                 "pro": 0
-            }, 
-            "variable_type_dict": {
-                "AttackTarget": false, 
-                "pro": false
             }
         }
     }, 
@@ -933,6 +929,10 @@
                     "element_id": 11957002260007, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -963,6 +963,13 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -973,6 +980,13 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1060,12 +1074,5 @@
         "\u52a8\u4f5c\u901f\u7387": 0, 
         "\u666e\u901a\u653b\u51fb": 0, 
         "\u66b4\u51fb": 0
-    }, 
-    "variable_type_dict": {
-        "i": false, 
-        "j": false, 
-        "\u52a8\u4f5c\u901f\u7387": false, 
-        "\u666e\u901a\u653b\u51fb": false, 
-        "\u66b4\u51fb": false
     }
 }

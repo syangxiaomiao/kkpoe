@@ -418,9 +418,5 @@
     "variable_length_dict": {
         "spell_cnt": 0, 
         "trg": 0
-    }, 
-    "variable_type_dict": {
-        "spell_cnt": false, 
-        "trg": false
     }
 }

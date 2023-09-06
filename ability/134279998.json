@@ -1108,6 +1108,10 @@
                     "element_id": 17282949130018, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1132,7 +1136,14 @@
                                 100.0
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -1146,7 +1157,14 @@
                         false, 
                         false, 
                         false, 
-                        true
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false
                     ]
                 }
             ], 
@@ -1260,14 +1278,5 @@
         "dq": 0, 
         "tuodao": 0, 
         "\u76ee\u6807\u5355\u4f4d": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "cf": false, 
-        "dir": false, 
-        "distance": false, 
-        "dq": false, 
-        "tuodao": false, 
-        "\u76ee\u6807\u5355\u4f4d": false
     }
 }

@@ -56,9 +56,13 @@
                                         {
                                             "arg_type": 100191, 
                                             "args_list": [
-                                                102334
+                                                [
+                                                    "LINK_SFX_KEY", 
+                                                    "\u94fe\u63a5\u7c7b\u578b", 
+                                                    "local"
+                                                ]
                                             ], 
-                                            "sub_type": 1
+                                            "sub_type": 4
                                         }, 
                                         {
                                             "arg_type": 100006, 
@@ -664,7 +668,9 @@
             "condition": [], 
             "enabled": true, 
             "event": [], 
-            "func_des": "\u51fd\u6570\u63cf\u8ff0{unit}{targetUnit}{account}{player}{damage}", 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u51fd\u6570\u63cf\u8ff0{unit}{targetUnit}{account}{player}{damage}{\u94fe\u63a5\u7c7b\u578b}", 
             "func_id": "4fb730f00eb111ee9f75b42e9966aa19", 
             "func_name": "SK00\uff1a\u95ea\u7535\u94fe", 
             "func_param_list": [
@@ -700,6 +706,13 @@
                     "__tuple__": true, 
                     "items": [
                         "damage", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u94fe\u63a5\u7c7b\u578b", 
                         true
                     ]
                 }
@@ -746,6 +759,38 @@
                 "is_sub_folder": true, 
                 "key": "We5GYQ9nEe6QcrQumWaqGZ", 
                 "name": "\u53ec\u5524"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            352354386, 
+                            "SK_\u6fc0\u8361_01\uff1a\u6fc0\u8361\u5224\u65ad"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "T41AQBlxEe66R7QumWaqGT", 
+                "name": "\u95ea\u7535\u9b54\u50cf"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1495666771, 
+                            "SK_\u8303\u56f4\u8ba1\u7b97_01\uff1a\u8ba1\u7b97\u8303\u56f4"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "tCKmwBlyEe6Fy7QumWaqGS", 
+                "name": "\u8303\u56f4\u8ba1\u7b97"
             }
         ], 
         "is_sub_folder": false, 

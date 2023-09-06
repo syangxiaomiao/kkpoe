@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "CD": 0
-            }, 
-            "variable_type_dict": {
-                "CD": false
             }
         }
     }, 
@@ -542,9 +539,5 @@
     "variable_length_dict": {
         "U": 0, 
         "\u91cd\u51fb": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u91cd\u51fb": false
     }
 }

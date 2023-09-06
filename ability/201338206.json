@@ -16,11 +16,6 @@
                 "a": 0, 
                 "aaa": 0, 
                 "chain": 0
-            }, 
-            "variable_type_dict": {
-                "a": false, 
-                "aaa": false, 
-                "chain": false
             }
         }
     }, 
@@ -997,8 +992,5 @@
     ], 
     "variable_length_dict": {
         "aaa": 0
-    }, 
-    "variable_type_dict": {
-        "aaa": false
     }
 }

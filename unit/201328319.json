@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "dragon": 0
-            }, 
-            "variable_type_dict": {
-                "dragon": false
             }
         }
     }, 
@@ -661,8 +658,5 @@
     ], 
     "variable_length_dict": {
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false
     }
 }

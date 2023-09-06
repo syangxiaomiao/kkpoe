@@ -415,10 +415,5 @@
         "U": 0, 
         "\u8bdb\u90aa\u4e8c\u9636": 0, 
         "\u8bdb\u90aa\u56db\u9636": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u8bdb\u90aa\u4e8c\u9636": false, 
-        "\u8bdb\u90aa\u56db\u9636": false
     }
 }

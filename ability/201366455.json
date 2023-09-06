@@ -16,11 +16,6 @@
                 "get number": 0, 
                 "mark": 0, 
                 "missile": 0
-            }, 
-            "variable_type_dict": {
-                "get number": false, 
-                "mark": false, 
-                "missile": false
             }
         }
     }, 
@@ -1174,6 +1169,5 @@
         "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

@@ -34,14 +34,6 @@
                 "\u4f24\u5bb3": 0, 
                 "\u51cf\u514d\u9b54\u6cd5": 0, 
                 "\u5206\u8eab\u79fb\u52a8\u8ddd\u79bb": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "i": false, 
-                "target": false, 
-                "\u4f24\u5bb3": false, 
-                "\u51cf\u514d\u9b54\u6cd5": false, 
-                "\u5206\u8eab\u79fb\u52a8\u8ddd\u79bb": false
             }
         }, 
         "1424609281": {
@@ -52,9 +44,6 @@
             }, 
             "variable_length_dict": {
                 "angle": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false
             }
         }
     }, 
@@ -291,6 +280,10 @@
                     "element_id": 1327800340125, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -327,9 +320,17 @@
                             "sub_type": 1
                         }, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1131,9 +1132,5 @@
     "variable_length_dict": {
         "\u4fbf\u5b9c\u89d2\u5ea6": 0, 
         "\u5f53\u524d\u89d2\u5ea6": 0
-    }, 
-    "variable_type_dict": {
-        "\u4fbf\u5b9c\u89d2\u5ea6": false, 
-        "\u5f53\u524d\u89d2\u5ea6": false
     }
 }

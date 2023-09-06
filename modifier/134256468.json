@@ -972,10 +972,5 @@
         "\u52a0\u901f": 0, 
         "\u52a0\u901f\u503c": 0, 
         "\u989d\u5916\u4f24\u5bb3": 0
-    }, 
-    "variable_type_dict": {
-        "\u52a0\u901f": false, 
-        "\u52a0\u901f\u503c": false, 
-        "\u989d\u5916\u4f24\u5bb3": false
     }
 }

@@ -10,10 +10,6 @@
             "variable_length_dict": {
                 "\u661f\u9635\u56db\u9636\u6cd5\u5f3a": 0, 
                 "\u78d0\u77f3\u4e00\u89d23\u9636\u5c42\u6570": 0
-            }, 
-            "variable_type_dict": {
-                "\u661f\u9635\u56db\u9636\u6cd5\u5f3a": false, 
-                "\u78d0\u77f3\u4e00\u89d23\u9636\u5c42\u6570": false
             }
         }
     }, 
@@ -372,9 +368,5 @@
     "variable_length_dict": {
         "U": 0, 
         "t1": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "t1": false
     }
 }

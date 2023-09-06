@@ -18,11 +18,6 @@
                 "\u52a0\u901f\u5ea6": 0, 
                 "\u6700\u8fdc\u8ddd\u79bb": 0, 
                 "\u9f20\u6807\u4f4d\u7f6e": 0
-            }, 
-            "variable_type_dict": {
-                "\u52a0\u901f\u5ea6": false, 
-                "\u6700\u8fdc\u8ddd\u79bb": false, 
-                "\u9f20\u6807\u4f4d\u7f6e": false
             }
         }
     }, 
@@ -504,6 +499,10 @@
                                     "fake_op": [
                                         7
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -528,6 +527,10 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -538,6 +541,10 @@
                                         false, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -824,12 +831,5 @@
         "gjl": 0, 
         "mbd": 0, 
         "\u4f4d\u7f6e": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "angry": false, 
-        "gjl": false, 
-        "mbd": false, 
-        "\u4f4d\u7f6e": false
     }
 }

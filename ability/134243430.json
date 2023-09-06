@@ -16,11 +16,6 @@
                 "max_hp": 0, 
                 "pro": 0, 
                 "weapon_skill": 0
-            }, 
-            "variable_type_dict": {
-                "max_hp": false, 
-                "pro": false, 
-                "weapon_skill": false
             }
         }
     }, 
@@ -1434,6 +1429,10 @@
                                     "fake_op": [
                                         7
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -1458,12 +1457,26 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
                                         false, 
                                         false, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -1963,11 +1976,5 @@
         "\u662f\u5426\u65bd\u6cd5\u6210\u529f": 0, 
         "\u7b49\u5f85\u51fa\u624b\u8ba1\u65f6\u5668": 0, 
         "\u9009\u4e2d\u9b54\u6cd5\u6548\u679c": 0
-    }, 
-    "variable_type_dict": {
-        "wait_time": false, 
-        "\u662f\u5426\u65bd\u6cd5\u6210\u529f": false, 
-        "\u7b49\u5f85\u51fa\u624b\u8ba1\u65f6\u5668": false, 
-        "\u9009\u4e2d\u9b54\u6cd5\u6548\u679c": false
     }
 }

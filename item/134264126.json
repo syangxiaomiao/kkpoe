@@ -16,13 +16,6 @@
                 "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*-100": 0, 
                 "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*100": 0, 
                 "\u7075\u7280\u56db\u9636\u5f53\u524d\u5c42\u6570": 0
-            }, 
-            "variable_type_dict": {
-                "20%\u6cd5\u529b\u503cMAX": false, 
-                "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b": false, 
-                "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*-100": false, 
-                "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*100": false, 
-                "\u7075\u7280\u56db\u9636\u5f53\u524d\u5c42\u6570": false
             }
         }
     }, 
@@ -777,12 +770,5 @@
         "hl": 0, 
         "\u7075\u7280\u4e8c\u9636": 0, 
         "\u7075\u7280\u56db\u9636": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "bianhua": false, 
-        "hl": false, 
-        "\u7075\u7280\u4e8c\u9636": false, 
-        "\u7075\u7280\u56db\u9636": false
     }
 }

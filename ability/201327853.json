@@ -642,8 +642,5 @@
     ], 
     "variable_length_dict": {
         "targets": 0
-    }, 
-    "variable_type_dict": {
-        "targets": false
     }
 }

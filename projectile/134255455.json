@@ -33,14 +33,6 @@
                 "hero": 0, 
                 "player": 0, 
                 "point": 0
-            }, 
-            "variable_type_dict": {
-                "ability": false, 
-                "damage": false, 
-                "g": false, 
-                "hero": false, 
-                "player": false, 
-                "point": false
             }
         }
     }, 
@@ -1370,9 +1362,5 @@
     "variable_length_dict": {
         "t": 0, 
         "u": 0
-    }, 
-    "variable_type_dict": {
-        "t": false, 
-        "u": false
     }
 }

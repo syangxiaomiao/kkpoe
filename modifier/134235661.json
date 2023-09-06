@@ -17,12 +17,6 @@
                 "d2": 0, 
                 "d3": 0, 
                 "\u8ba1\u6570": 0
-            }, 
-            "variable_type_dict": {
-                "d1": false, 
-                "d2": false, 
-                "d3": false, 
-                "\u8ba1\u6570": false
             }
         }
     }, 
@@ -1234,9 +1228,5 @@
     "variable_length_dict": {
         "u": 0, 
         "\u989d\u5916\u4f24\u5bb3": 0
-    }, 
-    "variable_type_dict": {
-        "u": false, 
-        "\u989d\u5916\u4f24\u5bb3": false
     }
 }

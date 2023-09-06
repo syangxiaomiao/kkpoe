@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "skill": false
             }
         }
     }, 
@@ -298,8 +295,5 @@
     ], 
     "variable_length_dict": {
         "trg": 0
-    }, 
-    "variable_type_dict": {
-        "trg": false
     }
 }

@@ -28,12 +28,6 @@
                 "missile": 0, 
                 "start": 0, 
                 "target": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "missile": false, 
-                "start": false, 
-                "target": false
             }
         }
     }, 
@@ -608,6 +602,10 @@
                     "element_id": 7300218890118, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -626,12 +624,26 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -781,8 +793,5 @@
     ], 
     "variable_length_dict": {
         "\u76ee\u6807\u5355\u4f4d": 0
-    }, 
-    "variable_type_dict": {
-        "\u76ee\u6807\u5355\u4f4d": false
     }
 }

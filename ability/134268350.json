@@ -16,11 +16,6 @@
                 "\u4e13\u6b66": 0, 
                 "\u5355\u4f4d": 0, 
                 "\u8bb0\u5251\u5668": 0
-            }, 
-            "variable_type_dict": {
-                "\u4e13\u6b66": false, 
-                "\u5355\u4f4d": false, 
-                "\u8bb0\u5251\u5668": false
             }
         }
     }, 
@@ -1244,6 +1239,10 @@
                         6, 
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1274,6 +1273,13 @@
                             ], 
                             "sub_type": 1
                         }, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1288,6 +1294,13 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false
                     ]
                 }
@@ -1604,14 +1617,5 @@
         "\u6295\u5c04\u7269": 0, 
         "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
-    }, 
-    "variable_type_dict": {
-        "anim": false, 
-        "i": false, 
-        "j": false, 
-        "\u52a8\u4f5c\u901f\u7387": false, 
-        "\u6295\u5c04\u7269": false, 
-        "\u666e\u653b\u52a8\u4f5c": false, 
-        "\u66b4\u51fb": false
     }
 }

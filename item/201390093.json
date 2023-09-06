@@ -400,9 +400,5 @@
     "variable_length_dict": {
         "U": 0, 
         "\u5c01\u9b54": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u5c01\u9b54": false
     }
 }

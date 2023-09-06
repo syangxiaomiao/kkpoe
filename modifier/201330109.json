@@ -216,8 +216,5 @@
     ], 
     "variable_length_dict": {
         "physical pene%": 0
-    }, 
-    "variable_type_dict": {
-        "physical pene%": false
     }
 }

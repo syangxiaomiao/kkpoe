@@ -19,12 +19,6 @@
                 "\u521d\u59cb\u89d2\u5ea6": 0, 
                 "\u5f39\u9053": 0, 
                 "\u89d2\u5ea6": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "\u521d\u59cb\u89d2\u5ea6": false, 
-                "\u5f39\u9053": false, 
-                "\u89d2\u5ea6": false
             }
         }
     }, 
@@ -900,6 +894,10 @@
                                     "fake_op": [
                                         9
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -930,6 +928,10 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -941,6 +943,10 @@
                                         true, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -1059,8 +1065,5 @@
     ], 
     "variable_length_dict": {
         "p": 0
-    }, 
-    "variable_type_dict": {
-        "p": false
     }
 }

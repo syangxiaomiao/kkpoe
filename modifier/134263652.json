@@ -477,9 +477,5 @@
     "variable_length_dict": {
         "eff": 0, 
         "t1": 0
-    }, 
-    "variable_type_dict": {
-        "eff": false, 
-        "t1": false
     }
 }

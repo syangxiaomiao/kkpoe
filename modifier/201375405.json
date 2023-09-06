@@ -426,9 +426,5 @@
     "variable_length_dict": {
         "armor": 0, 
         "move speed": 0
-    }, 
-    "variable_type_dict": {
-        "armor": false, 
-        "move speed": false
     }
 }

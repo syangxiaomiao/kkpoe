@@ -295,10 +295,5 @@
         "le": 0, 
         "tail": 0, 
         "\u76ee\u6807": 0
-    }, 
-    "variable_type_dict": {
-        "le": false, 
-        "tail": false, 
-        "\u76ee\u6807": false
     }
 }

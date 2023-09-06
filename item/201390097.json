@@ -606,9 +606,5 @@
     "variable_length_dict": {
         "U": 0, 
         "\u56de\u590d": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u56de\u590d": false
     }
 }

@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u88c2\u7532\u621f\u53e0\u52a0\u6b21\u6570": 0
-            }, 
-            "variable_type_dict": {
-                "\u88c2\u7532\u621f\u53e0\u52a0\u6b21\u6570": false
             }
         }
     }, 
@@ -321,9 +318,5 @@
     "variable_length_dict": {
         "U": 0, 
         "\u88ab\u52a8": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u88ab\u52a8": false
     }
 }

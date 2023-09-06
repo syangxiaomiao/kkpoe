@@ -150,6 +150,10 @@
                         7, 
                         8
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -180,6 +184,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -188,6 +196,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -249,9 +261,5 @@
     "variable_length_dict": {
         "test": 0, 
         "test2": 0
-    }, 
-    "variable_type_dict": {
-        "test": false, 
-        "test2": false
     }
 }

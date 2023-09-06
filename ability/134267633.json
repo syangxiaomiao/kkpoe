@@ -30,15 +30,6 @@
                 "range_big": 10, 
                 "range_small": 10, 
                 "timer": 10
-            }, 
-            "variable_type_dict": {
-                "circle_index": false, 
-                "i": false, 
-                "index": false, 
-                "point": false, 
-                "range_big": true, 
-                "range_small": true, 
-                "timer": true
             }
         }
     }, 
@@ -2909,6 +2900,5 @@
         "POINT": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

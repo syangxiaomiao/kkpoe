@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "particle path": 10
-            }, 
-            "variable_type_dict": {
-                "particle path": true
             }
         }
     }, 
@@ -954,10 +951,5 @@
         "particle": 0, 
         "\u51cf\u7532": 0, 
         "\u79fb\u901f": 0
-    }, 
-    "variable_type_dict": {
-        "particle": false, 
-        "\u51cf\u7532": false, 
-        "\u79fb\u901f": false
     }
 }

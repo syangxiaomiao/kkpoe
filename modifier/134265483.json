@@ -485,10 +485,5 @@
         "add": 0, 
         "add2": 0, 
         "add3": 0
-    }, 
-    "variable_type_dict": {
-        "add": false, 
-        "add2": false, 
-        "add3": false
     }
 }

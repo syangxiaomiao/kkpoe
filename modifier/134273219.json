@@ -19,10 +19,6 @@
             "variable_length_dict": {
                 "angle": 0, 
                 "p": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "p": false
             }
         }, 
         "1291792386": {
@@ -43,11 +39,6 @@
                 "lh": 0, 
                 "p": 0, 
                 "\u6c47\u805a": 0
-            }, 
-            "variable_type_dict": {
-                "lh": false, 
-                "p": false, 
-                "\u6c47\u805a": false
             }
         }
     }, 
@@ -1619,6 +1610,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1637,6 +1632,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1647,6 +1646,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -2405,6 +2408,10 @@
                                     "element_id": 1291792386000108, 
                                     "enable": true, 
                                     "fake_op": [], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -2442,6 +2449,13 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -2452,6 +2466,13 @@
                                         false, 
                                         false, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -2556,13 +2577,5 @@
         "\u6d41\u706b": 0, 
         "\u6d41\u706b\u5751": 0, 
         "\u8fd0\u52a8\u7ed3\u675f": 0
-    }, 
-    "variable_type_dict": {
-        "time": false, 
-        "time2": false, 
-        "tsw": false, 
-        "\u6d41\u706b": false, 
-        "\u6d41\u706b\u5751": false, 
-        "\u8fd0\u52a8\u7ed3\u675f": false
     }
 }

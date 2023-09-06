@@ -12,9 +12,6 @@
             }, 
             "variable_length_dict": {
                 "point": 0
-            }, 
-            "variable_type_dict": {
-                "point": false
             }
         }
     }, 
@@ -469,8 +466,5 @@
     ], 
     "variable_length_dict": {
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "tx": false
     }
 }

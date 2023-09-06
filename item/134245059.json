@@ -456,10 +456,5 @@
         "Tr_debufDam": 0, 
         "Tr_debufInj": 0, 
         "U": 0
-    }, 
-    "variable_type_dict": {
-        "Tr_debufDam": false, 
-        "Tr_debufInj": false, 
-        "U": false
     }
 }

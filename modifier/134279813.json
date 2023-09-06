@@ -214,8 +214,5 @@
     ], 
     "variable_length_dict": {
         "value": 0
-    }, 
-    "variable_type_dict": {
-        "value": false
     }
 }

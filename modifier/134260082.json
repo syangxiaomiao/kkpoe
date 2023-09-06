@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "i": 0
-            }, 
-            "variable_type_dict": {
-                "i": false
             }
         }
     }, 
@@ -1799,12 +1796,5 @@
         "RTime": 0, 
         "WDistance": 0, 
         "change_speed": 0
-    }, 
-    "variable_type_dict": {
-        "ADistance": false, 
-        "QDistance": false, 
-        "RTime": false, 
-        "WDistance": false, 
-        "change_speed": false
     }
 }

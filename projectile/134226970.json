@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "sheild": 0
-            }, 
-            "variable_type_dict": {
-                "sheild": false
             }
         }
     }, 
@@ -1906,18 +1903,5 @@
         "u": 0, 
         "unit_dmg_count": 0, 
         "\u8303\u56f4": 0
-    }, 
-    "variable_type_dict": {
-        "hero_dmg_count": false, 
-        "p": false, 
-        "rate1": false, 
-        "rate2": false, 
-        "recover_num": false, 
-        "skill": false, 
-        "total_hero_dmg": false, 
-        "total_unit_dmg": false, 
-        "u": false, 
-        "unit_dmg_count": false, 
-        "\u8303\u56f4": false
     }
 }

@@ -1178,17 +1178,5 @@
         "U": 0, 
         "halo": 0, 
         "timer_get": 0
-    }, 
-    "variable_type_dict": {
-        "InEffect?": false, 
-        "InShield?": false, 
-        "T": false, 
-        "Timer_shield": false, 
-        "Tr_shield": false, 
-        "Tr_shield_2": false, 
-        "Tr_shield_3": false, 
-        "U": false, 
-        "halo": false, 
-        "timer_get": false
     }
 }

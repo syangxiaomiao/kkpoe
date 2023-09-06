@@ -21,13 +21,6 @@
                 "\u6253\u4eba\u4e86": 0, 
                 "\u6700\u5927\u8ddd\u79bb": 0, 
                 "\u6700\u8fdc\u8ddd\u79bb\u901f\u5ea6": 0
-            }, 
-            "variable_type_dict": {
-                "dwz": false, 
-                "\u5f53\u524d\u8ddd\u79bb": false, 
-                "\u6253\u4eba\u4e86": false, 
-                "\u6700\u5927\u8ddd\u79bb": false, 
-                "\u6700\u8fdc\u8ddd\u79bb\u901f\u5ea6": false
             }
         }, 
         "1766776834": {
@@ -44,12 +37,6 @@
                 "\u6700\u5927\u8ddd\u79bb": 0, 
                 "\u6700\u8fdc\u8ddd\u79bb\u901f\u5ea6": 0, 
                 "\u8fd0\u52a8\u65f6\u95f4": 0
-            }, 
-            "variable_type_dict": {
-                "\u5f53\u524d\u8ddd\u79bb": false, 
-                "\u6700\u5927\u8ddd\u79bb": false, 
-                "\u6700\u8fdc\u8ddd\u79bb\u901f\u5ea6": false, 
-                "\u8fd0\u52a8\u65f6\u95f4": false
             }
         }
     }, 
@@ -1027,6 +1014,10 @@
                     "fake_op": [
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1045,6 +1036,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1053,6 +1048,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1521,9 +1520,5 @@
     "variable_length_dict": {
         "\u62d6\u5c3e": 0, 
         "\u76ee\u6807\u70b9": 0
-    }, 
-    "variable_type_dict": {
-        "\u62d6\u5c3e": false, 
-        "\u76ee\u6807\u70b9": false
     }
 }

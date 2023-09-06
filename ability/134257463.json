@@ -4,15 +4,13 @@
             "variable_dict": {
                 "FLOAT": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }, 
         "2092642306": {
             "variable_dict": {
                 "INTEGER": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1703,11 +1701,5 @@
         "\u51e0\u73871": 0, 
         "\u51e0\u73872": 0, 
         "\u8303\u56f4": 0
-    }, 
-    "variable_type_dict": {
-        "angry": false, 
-        "\u51e0\u73871": false, 
-        "\u51e0\u73872": false, 
-        "\u8303\u56f4": false
     }
 }

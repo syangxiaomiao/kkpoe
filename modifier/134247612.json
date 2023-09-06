@@ -242,9 +242,5 @@
     "variable_length_dict": {
         "def_down": 0, 
         "move_speed": 0
-    }, 
-    "variable_type_dict": {
-        "def_down": false, 
-        "move_speed": false
     }
 }

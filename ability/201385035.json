@@ -12,11 +12,6 @@
                 "caster": 0, 
                 "target": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "caster": false, 
-                "target": false, 
-                "unit": false
             }
         }
     }, 
@@ -713,8 +708,5 @@
     ], 
     "variable_length_dict": {
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "trigger": false
     }
 }

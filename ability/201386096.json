@@ -1250,12 +1250,5 @@
         "cur_points": 10, 
         "fire": 0, 
         "index": 0
-    }, 
-    "variable_type_dict": {
-        "center_point": false, 
-        "cur_particle": false, 
-        "cur_points": true, 
-        "fire": false, 
-        "index": false
     }
 }

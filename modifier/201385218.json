@@ -357,9 +357,5 @@
     "variable_length_dict": {
         "atk_rate": 0, 
         "mv_spd": 0
-    }, 
-    "variable_type_dict": {
-        "atk_rate": false, 
-        "mv_spd": false
     }
 }

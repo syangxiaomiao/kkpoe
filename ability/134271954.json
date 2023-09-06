@@ -4,8 +4,7 @@
             "variable_dict": {
                 "FLOAT": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }, 
         "878960642": {
             "variable_dict": {
@@ -20,10 +19,6 @@
             "variable_length_dict": {
                 "i": 0, 
                 "pro": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "pro": false
             }
         }
     }, 
@@ -1448,6 +1443,10 @@
                                         7, 
                                         9
                                     ], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         null, 
                                         null, 
@@ -1472,6 +1471,10 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
@@ -1482,6 +1485,10 @@
                                         false, 
                                         true, 
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -1680,12 +1687,5 @@
         "\u5f39\u9053\u6570\u91cf": 0, 
         "\u6280\u80fd\u4f24\u5bb3": 0, 
         "\u98de\u884c\u8ddd\u79bb": 0
-    }, 
-    "variable_type_dict": {
-        "\u504f\u79fb\u8ddd\u79bb": false, 
-        "\u5468\u56f4\u7d22\u654c\u534a\u5f84": false, 
-        "\u5f39\u9053\u6570\u91cf": false, 
-        "\u6280\u80fd\u4f24\u5bb3": false, 
-        "\u98de\u884c\u8ddd\u79bb": false
     }
 }

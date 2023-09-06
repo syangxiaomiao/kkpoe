@@ -271,9 +271,5 @@
     "variable_length_dict": {
         "atk_speed": 0, 
         "move": 0
-    }, 
-    "variable_type_dict": {
-        "atk_speed": false, 
-        "move": false
     }
 }

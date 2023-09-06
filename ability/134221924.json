@@ -9,9 +9,6 @@
             }, 
             "variable_length_dict": {
                 "\u4f24\u5bb3\u8303\u56f4": 0
-            }, 
-            "variable_type_dict": {
-                "\u4f24\u5bb3\u8303\u56f4": false
             }
         }
     }, 
@@ -2141,13 +2138,5 @@
         "timer2": 0, 
         "trigger": 0, 
         "weapon_skill": 0
-    }, 
-    "variable_type_dict": {
-        "buff": false, 
-        "target": false, 
-        "timer": false, 
-        "timer2": false, 
-        "trigger": false, 
-        "weapon_skill": false
     }
 }

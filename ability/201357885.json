@@ -16,10 +16,6 @@
             "variable_length_dict": {
                 "point": 0, 
                 "tsw": 0
-            }, 
-            "variable_type_dict": {
-                "point": false, 
-                "tsw": false
             }
         }
     }, 
@@ -896,6 +892,10 @@
                     "fake_op": [
                         7
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -938,13 +938,21 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1879,9 +1887,5 @@
     "variable_length_dict": {
         "tx": 0, 
         "\u97f3\u6548": 0
-    }, 
-    "variable_type_dict": {
-        "tx": false, 
-        "\u97f3\u6548": false
     }
 }

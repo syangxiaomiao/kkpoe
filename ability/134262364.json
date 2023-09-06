@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "txtest": 0
-            }, 
-            "variable_type_dict": {
-                "txtest": false
             }
         }, 
         "1213673474": {
@@ -21,9 +18,6 @@
             }, 
             "variable_length_dict": {
                 "txtest": 0
-            }, 
-            "variable_type_dict": {
-                "txtest": false
             }
         }
     }, 
@@ -662,6 +656,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -698,6 +696,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -708,6 +710,10 @@
                         false, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1364,12 +1370,5 @@
         "\u5355\u4f4d": 0, 
         "\u8ba1\u65f6\u5668": 0, 
         "\u9b54\u6cd5\u6548\u679c": 0
-    }, 
-    "variable_type_dict": {
-        "mbd": false, 
-        "tx": false, 
-        "\u5355\u4f4d": false, 
-        "\u8ba1\u65f6\u5668": false, 
-        "\u9b54\u6cd5\u6548\u679c": false
     }
 }

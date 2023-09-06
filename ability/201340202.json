@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "Projectiles": 0, 
                 "n": 0
-            }, 
-            "variable_type_dict": {
-                "Projectiles": false, 
-                "n": false
             }
         }
     }, 
@@ -795,6 +791,10 @@
                     "fake_op": [
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -843,7 +843,11 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
@@ -854,6 +858,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1000,10 +1008,5 @@
         "bird_arrow": 0, 
         "normal_arrow": 0, 
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "bird_arrow": false, 
-        "normal_arrow": false, 
-        "tx": false
     }
 }

@@ -525,10 +525,5 @@
         "U": 0, 
         "\u666e\u653b": 0, 
         "\u81ea\u7136\u589e\u52a0": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u666e\u653b": false, 
-        "\u81ea\u7136\u589e\u52a0": false
     }
 }

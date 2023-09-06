@@ -9,9 +9,6 @@
             }, 
             "variable_length_dict": {
                 "pro": 0
-            }, 
-            "variable_type_dict": {
-                "pro": false
             }
         }
     }, 
@@ -454,6 +451,10 @@
                                     "element_id": 19368099850004, 
                                     "enable": true, 
                                     "fake_op": [], 
+                                    "local_var": [
+                                        {}, 
+                                        {}
+                                    ], 
                                     "op_arg": [
                                         {
                                             "arg_type": 100000, 
@@ -498,10 +499,18 @@
                                         null, 
                                         null, 
                                         null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
                                         true, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -582,9 +591,5 @@
     "variable_length_dict": {
         "all_pro": 10, 
         "index": 0
-    }, 
-    "variable_type_dict": {
-        "all_pro": true, 
-        "index": false
     }
 }

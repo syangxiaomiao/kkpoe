@@ -287,8 +287,5 @@
     ], 
     "variable_length_dict": {
         "aaa": 0
-    }, 
-    "variable_type_dict": {
-        "aaa": false
     }
 }

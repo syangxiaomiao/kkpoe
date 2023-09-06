@@ -308,8 +308,5 @@
     ], 
     "variable_length_dict": {
         "add": 0
-    }, 
-    "variable_type_dict": {
-        "add": false
     }
 }

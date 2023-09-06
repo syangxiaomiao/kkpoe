@@ -319,8 +319,5 @@
     ], 
     "variable_length_dict": {
         "sudu": 0
-    }, 
-    "variable_type_dict": {
-        "sudu": false
     }
 }

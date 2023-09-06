@@ -925,9 +925,5 @@
     "variable_length_dict": {
         "\u51cfcd": 0, 
         "\u8ba1\u65f6\u5668": 0
-    }, 
-    "variable_type_dict": {
-        "\u51cfcd": false, 
-        "\u8ba1\u65f6\u5668": false
     }
 }

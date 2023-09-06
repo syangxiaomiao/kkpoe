@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "config": 10
-            }, 
-            "variable_type_dict": {
-                "config": true
             }
         }
     }, 
@@ -422,8 +419,5 @@
     ], 
     "variable_length_dict": {
         "value": 0
-    }, 
-    "variable_type_dict": {
-        "value": false
     }
 }

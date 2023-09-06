@@ -16,12 +16,6 @@
                 "level": 0, 
                 "player": 0, 
                 "playerid": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "level": false, 
-                "player": false, 
-                "playerid": false
             }
         }, 
         "2111078402": {
@@ -32,9 +26,6 @@
             }, 
             "variable_length_dict": {
                 "hp": 0
-            }, 
-            "variable_type_dict": {
-                "hp": false
             }
         }
     }, 
@@ -1667,6 +1658,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

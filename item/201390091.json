@@ -614,9 +614,5 @@
     "variable_length_dict": {
         "U": 0, 
         "\u7caa\u53c9": 0
-    }, 
-    "variable_type_dict": {
-        "U": false, 
-        "\u7caa\u53c9": false
     }
 }

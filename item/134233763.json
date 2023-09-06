@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u65f6\u5149\u6b21\u6570": 0
-            }, 
-            "variable_type_dict": {
-                "\u65f6\u5149\u6b21\u6570": false
             }
         }
     }, 
@@ -249,12 +246,5 @@
         "Tr_secDam": 0, 
         "U": 0, 
         "halo": 0
-    }, 
-    "variable_type_dict": {
-        "Rd_skill": false, 
-        "Tim_secDam": false, 
-        "Tr_secDam": false, 
-        "U": false, 
-        "halo": false
     }
 }

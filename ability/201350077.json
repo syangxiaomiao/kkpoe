@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "dmg": 0, 
                 "rate": 0
-            }, 
-            "variable_type_dict": {
-                "dmg": false, 
-                "rate": false
             }
         }
     }, 
@@ -1450,6 +1446,10 @@
                     "element_id": 14760263700013, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -1474,6 +1474,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1485,6 +1489,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -1553,9 +1561,5 @@
     "variable_length_dict": {
         "bf": 0, 
         "effect1": 0
-    }, 
-    "variable_type_dict": {
-        "bf": false, 
-        "effect1": false
     }
 }

@@ -285,9 +285,5 @@
     "variable_length_dict": {
         "pro": 0, 
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "pro": false, 
-        "timer": false
     }
 }

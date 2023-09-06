@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "\u65f6\u957f": 0
-            }, 
-            "variable_type_dict": {
-                "\u65f6\u957f": false
             }
         }
     }, 
@@ -509,9 +506,5 @@
     "variable_length_dict": {
         "dot": 0, 
         "\u6295\u5c04\u7269": 0
-    }, 
-    "variable_type_dict": {
-        "dot": false, 
-        "\u6295\u5c04\u7269": false
     }
 }

@@ -991,13 +991,5 @@
         "\u65a9\u6740": 0, 
         "\u7279\u6548\u7f29\u653e": 0, 
         "\u76ee\u6807\u5355\u4f4d\u7ec4": 0
-    }, 
-    "variable_type_dict": {
-        "S": false, 
-        "U": false, 
-        "jd": false, 
-        "\u65a9\u6740": false, 
-        "\u7279\u6548\u7f29\u653e": false, 
-        "\u76ee\u6807\u5355\u4f4d\u7ec4": false
     }
 }

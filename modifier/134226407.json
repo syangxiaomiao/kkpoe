@@ -28,15 +28,6 @@
                 "u": 0, 
                 "u2": 0, 
                 "\u4f24\u5bb3": 0
-            }, 
-            "variable_type_dict": {
-                "eff": false, 
-                "size": false, 
-                "skill": false, 
-                "t": false, 
-                "u": false, 
-                "u2": false, 
-                "\u4f24\u5bb3": false
             }
         }
     }, 
@@ -540,10 +531,5 @@
         "\u653b\u51fb\u589e\u52a0": 0, 
         "\u6cbb\u7597\u5668": 0, 
         "\u6cbb\u7597\u91cf": 0
-    }, 
-    "variable_type_dict": {
-        "\u653b\u51fb\u589e\u52a0": false, 
-        "\u6cbb\u7597\u5668": false, 
-        "\u6cbb\u7597\u91cf": false
     }
 }

@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "t": 0, 
                 "u": 0
-            }, 
-            "variable_type_dict": {
-                "t": false, 
-                "u": false
             }
         }, 
         "1810137090": {
@@ -68,24 +64,6 @@
                 "\u8fde\u7ebf1": 0, 
                 "\u8fde\u7ebf\u5355\u4f4d": 0, 
                 "\u94fe\u63a5\u5bf9\u8c61": 10
-            }, 
-            "variable_type_dict": {
-                "damage": false, 
-                "i": false, 
-                "j": false, 
-                "len": false, 
-                "t": false, 
-                "t2": false, 
-                "temp": false, 
-                "u": false, 
-                "\u4f24\u5bb3\u89e6\u53d1\u5668": false, 
-                "\u603b\u7269\u7406\u62a4\u7532": false, 
-                "\u603b\u9b54\u6cd5\u62a4\u7532": false, 
-                "\u6392\u5e8f\u8868": false, 
-                "\u6b63\u5728\u904d\u5386\u7684\u5355\u4f4d": false, 
-                "\u8fde\u7ebf1": false, 
-                "\u8fde\u7ebf\u5355\u4f4d": false, 
-                "\u94fe\u63a5\u5bf9\u8c61": true
             }
         }, 
         "2145923081": {
@@ -102,11 +80,6 @@
                 "t": 0, 
                 "u": 0, 
                 "\u4f24\u5bb3\u89e6\u53d1\u5668": 0
-            }, 
-            "variable_type_dict": {
-                "t": false, 
-                "u": false, 
-                "\u4f24\u5bb3\u89e6\u53d1\u5668": false
             }
         }
     }, 
@@ -6304,12 +6277,5 @@
         "\u4f24\u5bb3\u4e8b\u4ef6\u5904\u7406": 0, 
         "\u65bd\u6cd5\u8005\u6b7b\u4ea1": 0, 
         "\u6cbb\u7597\u89e6\u53d1\u56681": 0
-    }, 
-    "variable_type_dict": {
-        "g": false, 
-        "st": false, 
-        "\u4f24\u5bb3\u4e8b\u4ef6\u5904\u7406": false, 
-        "\u65bd\u6cd5\u8005\u6b7b\u4ea1": false, 
-        "\u6cbb\u7597\u89e6\u53d1\u56681": false
     }
 }

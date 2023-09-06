@@ -696,12 +696,5 @@
         "\u4f24\u5bb3": 0, 
         "\u5f53\u524d\u6280\u80fd": 0, 
         "\u6548\u679c": 0
-    }, 
-    "variable_type_dict": {
-        "T": false, 
-        "U": false, 
-        "\u4f24\u5bb3": false, 
-        "\u5f53\u524d\u6280\u80fd": false, 
-        "\u6548\u679c": false
     }
 }

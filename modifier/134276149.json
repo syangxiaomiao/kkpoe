@@ -488,9 +488,5 @@
     "variable_length_dict": {
         "trigger": 0, 
         "\u662f\u5426\u5728CD\u4e2d": 0
-    }, 
-    "variable_type_dict": {
-        "trigger": false, 
-        "\u662f\u5426\u5728CD\u4e2d": false
     }
 }

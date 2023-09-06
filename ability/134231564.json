@@ -20,11 +20,6 @@
                 "angle": 0, 
                 "p": 0, 
                 "\u4f24\u5bb3": 0
-            }, 
-            "variable_type_dict": {
-                "angle": false, 
-                "p": false, 
-                "\u4f24\u5bb3": false
             }
         }
     }, 
@@ -698,6 +693,10 @@
                     "element_id": 491032578000006, 
                     "enable": true, 
                     "fake_op": [], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -728,6 +727,10 @@
                             "sub_type": 1
                         }, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -739,6 +742,10 @@
                         false, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -990,8 +997,5 @@
     ], 
     "variable_length_dict": {
         "knife": 0
-    }, 
-    "variable_type_dict": {
-        "knife": false
     }
 }
