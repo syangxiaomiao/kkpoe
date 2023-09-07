@@ -1162,7 +1162,6 @@ local arg_data = {
     ['damage'] = {'__damage','number'},
     ['damage_type'] = {'__damage_type','other'},
     ['ability'] = {'__ability','skill'},
-    ['ismiss'] = {},
 }
 
 EVENT_DATA.ET_UNIT_BE_HURT = function (data)
@@ -1171,9 +1170,6 @@ EVENT_DATA.ET_UNIT_BE_HURT = function (data)
     local mytable = setmetatable(a,
 	{__index = function(mytable,key)
         if arg_data[key] then 
-            if key == 'ismiss' then
-                return game_api.get_cur_damage_is_miss(data.__damage_result_state)
-            end
             if type(enum_f[arg_data[key][2]](mytable.data[arg_data[key][1]])) == "number" then
                 return math.abs(enum_f[arg_data[key][2]](mytable.data[arg_data[key][1]]))
             else

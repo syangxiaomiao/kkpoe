@@ -743,3 +743,56 @@ end
 function ui:stop_ui_seq()
     game_api.stop_ui_comp_sequence(self.player.base(),self.base())
 end
+
+---@param  start_x number 开始x
+---@param  start_y number 开始y
+---@param  end_x number 结束x
+---@param  end_y number 结束y
+---@param  duration number 持续时间
+---@param  ease_type integer 曲线类型
+---设置动画移动
+function ui:set_ui_anim_pos(start_x, start_y, end_x, end_y, duration, ease_type)
+    game_api.set_ui_comp_anim_pos(self.player.base(),self.base(),start_x, start_y, end_x, end_y, duration, ease_type or 0)
+end
+---@param  start_alpha number 开始alpha
+---@param  end_alpha number 结束alpha
+---@param  duration number 持续时间
+---@param  ease_type integer 曲线类型
+---设置动画透明度
+function ui:set_ui_anim_opacity(start_alpha, end_alpha, duration, ease_type)
+    game_api.set_ui_comp_anim_opacity(self.player.base(),self.base(), start_alpha, end_alpha, duration, ease_type or 0)
+end
+
+---@param  start_x number 开始x
+---@param  start_y number 开始y
+---@param  end_x number 结束x
+---@param  end_y number 结束y
+---@param  duration number 持续时间
+---@param  ease_type integer 曲线类型
+---设置动画缩放
+function ui:set_ui_anim_scale(start_x, start_y, end_x, end_y, duration, ease_type)
+    game_api.set_ui_comp_anim_scale(self.player.base(),self.base(),start_x, start_y, end_x, end_y, duration, ease_type or 0)
+end
+
+---@param  start_rotation number 开始旋转
+---@param  end_rotation number 结束旋转
+---@param  duration number 持续时间
+---@param  ease_type integer 曲线类型
+---设置动画旋转
+function ui:set_ui_anim_rotate(start_rotation, end_rotation, duration, ease_type)
+    game_api.set_ui_comp_anim_rotate(self.player.base(),self.base(), start_rotation, end_rotation, duration, ease_type or 0)
+end
+
+---@param  percent number 百分比
+---设置列表滚动到百分比位置
+function ui:set_list_view_per(percent)
+    game_api.set_list_view_percent(self.player.base(),self.base(), percent)
+end
+
+---@param  fx_id integer 控件动效工程id
+---@param  ani_name string 动效名
+---@param  loop boolean 循环
+---播放ui动效
+function ui:play_ui_fx(fx_id, ani_name, loop)
+    game_api.play_ui_comp_fx(self.player.base(),self.base(),fx_id, ani_name, loop)
+end

@@ -2380,3 +2380,8 @@ function y3.get_table_var(table,key1, key2, key3, key4, key5,default_value, valu
     --y3.get_table_var(y3.get_table('kv2'), 1, nil, nil, nil, nil, '', '')
 end
 
+---@param var var 变量
+---获取数组变量的最大索引
+function y3.len_of_var(var)
+    return game_api.len_of_var(var)
+end

@@ -1127,6 +1127,21 @@
                 "\u9875\u7801": 0
             }
         }, 
+        "1956151347": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 1
+                }, 
+                "UNIT_ENTITY": {}, 
+                "UNIT_GROUP": {
+                    "attackGroup": []
+                }
+            }, 
+            "variable_length_dict": {
+                "attackGroup": 0, 
+                "i": 0
+            }
+        }, 
         "1956155466": {
             "variable_dict": {
                 "PLAYER": {
@@ -1288,6 +1303,7 @@
             "Shop_UI_table": null, 
             "Skill_UI_table": null
         }, 
+        "TABLE_SAVE": {}, 
         "UI_PREFAB_INSTANCE": {}, 
         "UNIT_ENTITY": {
             "Player Unit": 0

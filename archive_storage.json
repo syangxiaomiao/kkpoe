@@ -3,10 +3,5 @@
         "role_id": 1, 
         "archive": {}, 
         "platform_prop": {}
-    }, 
-    "test_account1": {
-        "role_id": 2, 
-        "archive": {}, 
-        "platform_prop": {}
     }
 }

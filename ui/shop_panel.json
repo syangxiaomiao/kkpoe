@@ -3807,6 +3807,438 @@
             }, 
             "type": 7, 
             "uid": "8838cfa3-f650-4444-8b36-5cc0489a9456"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                490.0, 
+                490.0, 
+                910.0, 
+                910.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        90.0, 
+                        790.0, 
+                        50.0, 
+                        1635.0
+                    ], 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                false, 
+                                true, 
+                                false, 
+                                2.0, 
+                                178.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u6807\u9898", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    117.5, 
+                                    188.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    94.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    235.0, 
+                                    20.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u7b2c\u4e00\u7ae0", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "f302396e-f34b-4e9e-8500-7e412cd5a370"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                false, 
+                                true, 
+                                false, 
+                                40.0, 
+                                130.0, 
+                                10.0, 
+                                95.0
+                            ], 
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            18
+                                        ]
+                                    }, 
+                                    "name": "\u6ce2\u6570", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            150.0, 
+                                            15.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            115.38461538461537, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            40.0, 
+                                            30.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "0/6", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "1182e95b-4ad9-418f-a576-1ecdf0efed11"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u5f53\u524d\u6ce2\u6570", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    75.0, 
+                                    145.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    31.914893617021278, 
+                                    72.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    130.0, 
+                                    30.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5f53\u524d\u8fdb\u653b\u6ce2\u6570\uff1a", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "be803a2c-9468-4478-960e-e261b3fadf16"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                false, 
+                                true, 
+                                false, 
+                                80.0, 
+                                90.0, 
+                                10.0, 
+                                95.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        0.0, 
+                                        130.0, 
+                                        -60.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            18
+                                        ]
+                                    }, 
+                                    "name": "\u8ba1\u65f6", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            160.0, 
+                                            15.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            123.07692307692308, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            30.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u6218\u6597\u4e2d", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "e49d0c19-6e2c-4063-b1fe-564ef01eee1f"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u4e0b\u4e00\u6ce2\u8ba1\u65f6", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    75.0, 
+                                    105.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    31.914893617021278, 
+                                    52.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    130.0, 
+                                    30.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u4e0b\u6ce2\u8fdb\u653b\u8fd8\u6709\uff1a", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "822590f2-b1b0-449a-abf4-b68d38b78fdb"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                false, 
+                                true, 
+                                false, 
+                                120.0, 
+                                50.0, 
+                                10.0, 
+                                95.0
+                            ], 
+                            "children": [
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            18
+                                        ]
+                                    }, 
+                                    "name": "\u6570\u91cf", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            147.0, 
+                                            15.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            113.07692307692308, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            33.0, 
+                                            30.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "0", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "bd9550da-6ee0-4dc8-814c-f287d81519b6"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u5269\u4f59\u602a\u7269", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    75.0, 
+                                    65.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    31.914893617021278, 
+                                    32.5
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    130.0, 
+                                    30.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5269\u4f59\u602a\u7269\u6570\u91cf\uff1a", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "8818fb9f-b14f-4855-a5c1-4c5d71ea0216"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 106337, 
+                    "name": "\u80cc\u666f", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            167.5, 
+                            890.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            8.723958333333332, 
+                            82.4074074074074
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            235.0, 
+                            200.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "d06207d5-cbd2-4a3a-b756-84de2c72d4cd"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u4e3b\u7ebf\u4efb\u52a1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "e2dcba31-5131-4a5f-b86c-b8963e3ff290"
         }
     ], 
     "name": "shop_panel", 

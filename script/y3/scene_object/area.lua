@@ -19,6 +19,7 @@ area.enum.polygon = 3
 
 ---@param scene_id number 编辑场景中的id
 ---根据场景id获得圆形区域
+---@return area
 function y3.get_circle_area_by_scene_id(scene_id)
     if not Areas[scene_id] then
         local new_area = {}
@@ -34,6 +35,7 @@ end
 
 ---@param scene_id number 编辑场景中的id
 ---根据场景id获得矩形区域
+---@return area
 function y3.get_rectangle_area_by_scene_id(scene_id)
     if not Areas[scene_id] then
         local new_area = {}
@@ -189,6 +191,7 @@ function area:get_max_y()
     end
 end
 
+---获取区域中心点
 function area:get_center_point()
     if self.type == area.enum.circle then
         local py_point = game_api.get_circle_center_point(self.base())
@@ -239,7 +242,7 @@ function area:get_all_unit_in_area()
 end
 
 ---@param player player 玩家
----@return  table 单位组
+---@return  unit_group 单位组
 ---区域内玩家单位(单位组)
 function area:get_unit_group_in_area(player)
     local py_unit_group = game_api.get_unit_group_belong_to_player_in_area(self.base(), player.base())

@@ -531,3 +531,9 @@ end
 function player:api_set_role_cursor(CURSOR_STATE,CURSOR_KEY)
     self.base():api_set_role_cursor(CURSOR_STATE,CURSOR_KEY)
 end
+
+---@param channel integer 频道
+---设置玩家发言频道
+function player:set_voice_channel(channel)
+    game_api.set_audio_chat_channel(self.base(),channel)
+end

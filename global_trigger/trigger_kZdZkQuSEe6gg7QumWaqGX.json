@@ -2408,6 +2408,25 @@
             "trigger_name": "\u6fc0\u6d3b\u5546\u5e97", 
             "valid": true
         }, 
+        "429219925": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 429219925000002, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": "kZdZkQuSEe6gg7QumWaqGX", 
+            "p_trigger_id": null, 
+            "trigger_id": 429219925, 
+            "trigger_name": "\u6d4b\u8bd5", 
+            "valid": true
+        }, 
         "1319891025": {
             "action": [
                 {
@@ -3278,7 +3297,37 @@
                         }, 
                         {
                             "arg_type": 100022, 
-                            "args_list": [], 
+                            "args_list": [
+                                {
+                                    "action_type": "EVALUATE_LUA_CODE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "Bind['\u83b7\u53d6\u5355\u4f4d\u6240\u6709\u8005'](arg[1])"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1319891025000301, 
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
+                                }
+                            ], 
                             "sub_type": 1
                         }
                     ], 
@@ -3323,6 +3372,13 @@
                 "items": [
                     1319891025, 
                     "\u6d4b\u8bd5\u5355\u4f4d\u5c5e\u6027"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    429219925, 
+                    "\u6d4b\u8bd5"
                 ]
             }
         ], 

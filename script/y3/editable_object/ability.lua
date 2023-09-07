@@ -116,11 +116,6 @@ function ability:disable()
     self.base():api_disable()
 end
 
----阻止当前技能施法
-function ability:break_in_cs()
-    self.base():api_break_ability_in_cs()
-end
-
 ---进入冷却
 function ability:restart_cd()
     self.base():api_restart_cd()
