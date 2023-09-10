@@ -51,6 +51,7 @@ require 'y3.game.py_obj'
 require 'y3.game.tips'
 require 'y3.game.util'
 
+
 require 'y3.editable_object.unit'
 require 'y3.editable_object.ability'
 require 'y3.editable_object.destructible'

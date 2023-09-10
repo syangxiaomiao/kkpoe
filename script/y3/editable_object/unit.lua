@@ -14,6 +14,15 @@ function unit:__tostring()
     return ('%s %s %s'):format('unit', self:get_name(), tostring(self.base))
 end
 
+---@return unit
+function unit.create_lua_unit_from_py(py_unit)
+    local new = {}
+    local py = py_obj.new(py_unit)
+    new.base = py
+    setmetatable(new, unit)
+    return new
+end
+
 ---所有单位实例
 -- local Units = {}
 local Units = setmetatable({}, { __mode = 'kv' })

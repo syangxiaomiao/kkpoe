@@ -1,0 +1,102 @@
+{
+    "trigger_dict": {
+        "216383574": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100028, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "count", 
+                                        "local"
+                                    ]
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100026, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100009, 
+                                            "args_list": [
+                                                10002
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100025, 
+                                            "args_list": [
+                                                31
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "PLAYER_UNIT_GROUP_IN_AREA"
+                                }
+                            ], 
+                            "sub_type": "GET_COUNT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 216383574000004, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                0.5
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 216383574000002, 
+                    "enable": true, 
+                    "event_type": "GAME_ELAPSE_REPEAT"
+                }
+            ], 
+            "group_id": "wTBSIU7pEe6NKLQumWaqGT", 
+            "p_trigger_id": null, 
+            "trigger_id": 216383574, 
+            "trigger_name": "\u68c0\u6d4b\u73a9\u5bb6\u5269\u4f59\u602a\u7269\u6570\u91cf", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    216383574, 
+                    "\u68c0\u6d4b\u73a9\u5bb6\u5269\u4f59\u602a\u7269\u6570\u91cf"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "wTBSIU7pEe6NKLQumWaqGT", 
+        "name": "\u6e38\u620f"
+    }
+}

@@ -519,3 +519,19 @@ const.DestructibleEventType = {
    ['DEST_GET_HURT'] = "ET_GET_HURT_NEW",
    ['DEST_DELETE'] = "ET_DEST_DELETE",
 }
+
+const.UnitType = {
+   ['NORMAL'] = 0,
+   ['BOSS'] = 1
+}
+
+const.DamgeType = {
+   ['NORMAL'] = 0,
+   ['FIRE'] = 1,
+   ['ICE'] = 2,
+   ['THUNDER'] = 3,
+   ['CHOS'] = 4,
+   ['BOSS'] = 5,
+   ['ELITE'] = 6,
+   ['bleed'] = 7
+}

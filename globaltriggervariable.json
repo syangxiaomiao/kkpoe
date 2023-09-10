@@ -36,6 +36,16 @@
                 "skill": 0
             }
         }, 
+        "216383574": {
+            "variable_dict": {
+                "INTEGER": {
+                    "count": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "count": 10
+            }
+        }, 
         "247672871": {
             "variable_dict": {
                 "FLOAT": {}, 
@@ -1132,6 +1142,9 @@
                 "INTEGER": {
                     "i": 1
                 }, 
+                "NEW_TIMER": {
+                    "timer2": -1
+                }, 
                 "UNIT_ENTITY": {}, 
                 "UNIT_GROUP": {
                     "attackGroup": []
@@ -1139,7 +1152,8 @@
             }, 
             "variable_length_dict": {
                 "attackGroup": 0, 
-                "i": 0
+                "i": 0, 
+                "timer2": 0
             }
         }, 
         "1956155466": {

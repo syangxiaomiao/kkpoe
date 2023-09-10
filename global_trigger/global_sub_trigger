@@ -4038,7 +4038,137 @@
         "valid": true
     }, 
     "1956151347": {
-        "action": [], 
+        "action": [
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100030, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "UNIT_GROUP", 
+                                    "attackGroup", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100026, 
+                        "args_list": [
+                            {
+                                "arg_type": 100009, 
+                                "args_list": [
+                                    10002
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100025, 
+                                "args_list": [
+                                    31
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "PLAYER_UNIT_GROUP_IN_AREA"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000020, 
+                "enable": true
+            }, 
+            {
+                "action_type": "PICK_UNIT_DO_ACTION", 
+                "args_list": [
+                    {
+                        "arg_type": 100026, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "UNIT_GROUP", 
+                                    "attackGroup", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 14
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "IF_THEN_ELSE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100021, 
+                                        "args_list": [
+                                            {
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100000, 
+                                                        "args_list": [
+                                                            {
+                                                                "arg_type": 100006, 
+                                                                "args_list": [], 
+                                                                "sub_type": "FOR_EACH_SELECTED_UNIT"
+                                                            }
+                                                        ], 
+                                                        "sub_type": "GET_HP_CUR"
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100015, 
+                                                        "args_list": [
+                                                            "=="
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "condition_type": "FLOAT_COMPARE", 
+                                                "element_id": 1956151347000048, 
+                                                "enable": true
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100022, 
+                                        "args_list": [], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100022, 
+                                        "args_list": [], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1956151347000039, 
+                                "enable": true, 
+                                "fake_op": [
+                                    2
+                                ]
+                            }
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000029, 
+                "enable": true
+            }
+        ], 
         "call_enabled": true, 
         "condition": [], 
         "enabled": false, 
